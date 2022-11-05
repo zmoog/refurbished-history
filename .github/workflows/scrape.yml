@@ -19,7 +19,6 @@ jobs:
     - run: pip install -r requirements.txt
     - name: Fetch latest data
       run: |-
-        # curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
         for STORE in "it" "uk" "us" "cn" "ie" "fr" "ca"
         do
             PRODUCTS="stores/$STORE"
