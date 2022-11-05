@@ -3,8 +3,8 @@ name: Scrape latest data
 on:
   push:
   workflow_dispatch:
-  # schedule:
-  #   - cron:  '6,26,46 * * * *'
+  schedule:
+    - cron:  '00 09 * * *'
 
 jobs:
   scheduled:
