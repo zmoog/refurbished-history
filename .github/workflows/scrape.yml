@@ -15,8 +15,8 @@ jobs:
     - uses: actions/setup-python@v4
       with:
         python-version: '3.10'
-        cache: 'pip'
-    - run: pip install refurbished
+        cache: 'pip'  # the actions uses the requirements.txt hash to cache the dependencies
+    - run: pip install -r requirements.txt
     - name: Fetch latest data
       run: |-
         # curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
