@@ -11,6 +11,17 @@
     "model": "FGNR3LL"
   },
   {
+    "name": "Refurbished Mac mini 3.6GHz quad-core Intel Core i3 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FXNF2LL/A/Refurbished-Mac-mini-36GHz-quad-core-Intel-Core-i3-Space-Gray",
+    "price": 849.0,
+    "previous_price": 999.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.15015015015015015,
+    "model": "FXNF2LL"
+  },
+  {
     "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU",
     "family": "mac",
     "store": "ca",
@@ -20,6 +31,17 @@
     "savings_price": 170.0,
     "saving_percentage": 0.14795474325500435,
     "model": "FGNT3LL"
+  },
+  {
+    "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12N1LL/A/Refurbished-Mac-mini-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU",
+    "price": 979.0,
+    "previous_price": 979.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12N1LL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Gold",
@@ -75,17 +97,6 @@
     "savings_price": 210.0,
     "saving_percentage": 0.1501072194424589,
     "model": "FXNG2LL"
-  },
-  {
-    "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G1243LL/A/refurbished-133-inch-macbook-air-apple-m1-chip-with-8%E2%80%91core-cpu-and-7%E2%80%91core-gpu-space-grey",
-    "price": 1319.0,
-    "previous_price": 1319.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1243LL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
@@ -253,15 +264,26 @@
     "model": "FYDA2LL"
   },
   {
-    "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU",
+    "name": "Refurbished Mac mini 3.0GHz 6-core Intel Core i5 - Space Grey",
     "family": "mac",
     "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G12P7LL/A/refurbished-mac-mini-apple-m1-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu",
+    "url": "https://www.apple.com/ca/shop/product/G0ZT5LL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray",
     "price": 1399.0,
     "previous_price": 1399.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "G12P7LL"
+    "model": "G0ZT5LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.0GHz 6-core Intel Core i5 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZT1LL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray",
+    "price": 1399.0,
+    "previous_price": 1399.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZT1LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
@@ -319,6 +341,17 @@
     "model": "FGPK3LL"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Orange",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGPR3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1569.0,
+    "previous_price": 1849.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.15143320713899405,
+    "model": "FGPR3LL"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "ca",
@@ -350,6 +383,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G13K2LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Pink",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G14P2LL/A/refurbished-24-inch-imac-apple-m1-chip-with-8%E2%80%91core-cpu-and-7%E2%80%91core-gpu-pink",
+    "price": 1569.0,
+    "previous_price": 1569.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14P2LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
@@ -396,15 +440,26 @@
     "model": "G14M2LL"
   },
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
     "family": "mac",
     "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G15S0LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-space-gray",
+    "url": "https://www.apple.com/ca/shop/product/G13K0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Silver",
     "price": 1569.0,
     "previous_price": 1569.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "G15S0LL"
+    "model": "G13K0LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Green",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G14L0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Green",
+    "price": 1569.0,
+    "previous_price": 1569.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14L0LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
@@ -440,6 +495,17 @@
     "model": "G15S3LL"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Green",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G14L2LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Green",
+    "price": 1569.0,
+    "previous_price": 1569.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14L2LL"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "ca",
@@ -471,6 +537,28 @@
     "savings_price": 275.0,
     "saving_percentage": 0.1459660297239915,
     "model": "FYD92LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.0GHz 6-core Intel Core i5 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZT7LL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray",
+    "price": 1609.0,
+    "previous_price": 1609.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZT7LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZTVLL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 1619.0,
+    "previous_price": 1619.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZTVLL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
@@ -550,6 +638,17 @@
     "model": "G15YCLL"
   },
   {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7, 10GB Ethernet - Space Gray",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZTSLL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 1729.0,
+    "previous_price": 1729.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZTSLL"
+  },
+  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -605,6 +704,28 @@
     "model": "G16T0LL"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGPD3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1779.0,
+    "previous_price": 2099.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.15245354930919486,
+    "model": "FGPD3LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12W0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Blue",
+    "price": 1779.0,
+    "previous_price": 1779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12W0LL"
+  },
+  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Pink",
     "family": "mac",
     "store": "ca",
@@ -636,6 +757,72 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14M3LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Pink",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12Y0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1779.0,
+    "previous_price": 1779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12Y0LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Green",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G14L3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Green",
+    "price": 1779.0,
+    "previous_price": 1779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14L3LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Purple",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGPQ3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1779.0,
+    "previous_price": 2099.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.15245354930919486,
+    "model": "FGPQ3LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGPL3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Blue",
+    "price": 1779.0,
+    "previous_price": 2099.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.15245354930919486,
+    "model": "FGPL3LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Purple",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G1300LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1779.0,
+    "previous_price": 1779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1300LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Green",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12U0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1779.0,
+    "previous_price": 1779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12U0LL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Gold",
@@ -715,6 +902,17 @@
     "model": "G11C2LL"
   },
   {
+    "name": "Refurbished Mac mini 3.0GHz 6-core Intel Core i5 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZTBLL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray",
+    "price": 1829.0,
+    "previous_price": 1829.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZTBLL"
+  },
+  {
     "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Silver",
     "family": "mac",
     "store": "ca",
@@ -724,6 +922,17 @@
     "savings_price": 560.0,
     "saving_percentage": 0.23343059608170072,
     "model": "FWP72LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZTXLL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 1839.0,
+    "previous_price": 1839.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZTXLL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
@@ -825,6 +1034,17 @@
     "model": "G15X0LL"
   },
   {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7, 10GB Ethernet - Space Gray",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZTYLL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 1939.0,
+    "previous_price": 1939.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZTYLL"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -880,6 +1100,61 @@
     "model": "G16S2LL"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Pink",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12Z0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12Z0LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12X2LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Blue",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12X2LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Pink",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12Z2LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12Z2LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G13K4LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Silver",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G13K4LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Orange",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G1332LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1332LL"
+  },
+  {
     "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -913,15 +1188,15 @@
     "model": "G15S5LL"
   },
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
+    "name": "Refurbished 13.3-inch MacBook Pro 2.3GHz quad-core Intel Core i7 with Retina display - Space Grey",
     "family": "mac",
     "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G1605LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight",
+    "url": "https://www.apple.com/ca/shop/product/G0Y61LL/A/refurbished-133-inch-macbook-pro-23ghz-quad-core-intel-core-i7-with-retina-display-space-grey",
     "price": 2019.0,
     "previous_price": 2019.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "G1605LL"
+    "model": "G0Y61LL"
   },
   {
     "name": "Refurbished Apple Studio Display, Nano-texture glass, Tilt-adjustable stand",
@@ -933,6 +1208,17 @@
     "savings_price": 360.0,
     "saving_percentage": 0.15006252605252188,
     "model": "FMYW3LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G11L1LL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 2049.0,
+    "previous_price": 2049.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11L1LL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Pro Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
@@ -966,6 +1252,17 @@
     "savings_price": 360.0,
     "saving_percentage": 0.14405762304921968,
     "model": "FKGR3LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.0GHz 6-core Intel Core i5, 10GB Ethernet - Space Gray",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G0ZTELL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray",
+    "price": 2149.0,
+    "previous_price": 2149.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZTELL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
@@ -1111,6 +1408,39 @@
     "model": "G16U3LL"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Purple",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G1313LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 2209.0,
+    "previous_price": 2209.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1313LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12X3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Blue",
+    "price": 2209.0,
+    "previous_price": 2209.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12X3LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Pink",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12Z3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 2209.0,
+    "previous_price": 2209.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12Z3LL"
+  },
+  {
     "name": "Refurbished 16-inch MacBook Pro 2.6GHz 6-core Intel Core i7 with Retina display - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -1131,6 +1461,17 @@
     "savings_price": 690.0,
     "saving_percentage": 0.23801310796826491,
     "model": "FVVL2LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12R3LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 2209.0,
+    "previous_price": 2209.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12R3LL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Gold",
@@ -1199,6 +1540,17 @@
     "model": "FJMV3LL"
   },
   {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G11L3LL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 2259.0,
+    "previous_price": 2259.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11L3LL"
+  },
+  {
     "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 8\u2010Core CPU and 14\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -1241,6 +1593,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G15J9LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7, 10GB Ethernet - Space Gray",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G11L4LL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 2369.0,
+    "previous_price": 2369.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11L4LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
@@ -1340,6 +1703,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G0Y90LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12R1LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 2419.0,
+    "previous_price": 2419.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12R1LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
@@ -1507,6 +1881,28 @@
     "model": "G15X4LL"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Green",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12V4LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Green",
+    "price": 2629.0,
+    "previous_price": 2629.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12V4LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12R4LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 2629.0,
+    "previous_price": 2629.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12R4LL"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -1551,6 +1947,17 @@
     "model": "FK183LL"
   },
   {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G11L5LL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 2689.0,
+    "previous_price": 2689.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11L5LL"
+  },
+  {
     "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU - Silver",
     "family": "mac",
     "store": "ca",
@@ -1560,6 +1967,17 @@
     "savings_price": 460.0,
     "saving_percentage": 0.14607812003810733,
     "model": "FKGT3LL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G11L9LL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 2689.0,
+    "previous_price": 2689.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11L9LL"
   },
   {
     "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 8\u2010Core CPU and 14\u2010Core GPU - Silver",
@@ -1617,6 +2035,17 @@
     "model": "G15G1LL"
   },
   {
+    "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 8\u2010Core CPU and 14\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G15J5LL/A/refurbished-14-inch-macbook-pro-apple-m1-pro-chip-with-8%E2%80%91core-cpu-and-14%E2%80%91core-gpu-silver",
+    "price": 2769.0,
+    "previous_price": 2769.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15J5LL"
+  },
+  {
     "name": "Refurbished 16-inch MacBook Pro 2.4GHz 8-core Intel Core i9 with Retina display - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -1626,6 +2055,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G0Y0PLL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7, 10GB Ethernet - Space Gray",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G11LALL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 2789.0,
+    "previous_price": 2789.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11LALL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
@@ -1648,17 +2088,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G15T7LL"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G15Z7LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-starlight",
-    "price": 2829.0,
-    "previous_price": 2829.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G15Z7LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
@@ -1824,6 +2253,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G0Y0BLL"
+  },
+  {
+    "name": "Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Grey",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G11LBLL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 3109.0,
+    "previous_price": 3109.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11LBLL"
   },
   {
     "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU - Silver",
@@ -2299,6 +2739,17 @@
     "model": "G14W4LL"
   },
   {
+    "name": "Refurbished 14-inch MacBook Pro Apple M1 Max Chip with 10\u2010Core CPU and 24\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G15KFLL/A/refurbished-14-inch-macbook-pro-apple-m1-pro-chip-with-10%E2%80%91core-cpu-and-24%E2%80%91core-gpu-silver",
+    "price": 3759.0,
+    "previous_price": 3759.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15KFLL"
+  },
+  {
     "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -2737,6 +3188,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G15KMLL"
+  },
+  {
+    "name": "Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display, 10GB Ethernet",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G16PBLL/A/refurbished-27-inch-imac-38ghz-8-core-intel-core-i7-with-retina-5k-display-10gb-ethernet",
+    "price": 5119.0,
+    "previous_price": 5119.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G16PBLL"
   },
   {
     "name": "Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, nano-texture glass",
