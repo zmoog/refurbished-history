@@ -44,6 +44,17 @@
     "model": "FGDY3B"
   },
   {
+    "name": "Refurbished iPhone 12 mini 128GB - Purple (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FJQG3B/A/refurbished-iphone-12-mini-128gb-purple",
+    "price": 499.0,
+    "previous_price": 629.0,
+    "savings_price": 130.0,
+    "saving_percentage": 0.2066772655007949,
+    "model": "FJQG3B"
+  },
+  {
     "name": "Refurbished iPhone 12 mini 128GB - White (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -242,28 +253,6 @@
     "model": "FWHD2B"
   },
   {
-    "name": "Refurbished iPhone 12 256GB - Green (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGJL3B/A/refurbished-iphone-12-256gb-green",
-    "price": 669.0,
-    "previous_price": 809.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.173053152039555,
-    "model": "FGJL3B"
-  },
-  {
-    "name": "Refurbished iPhone 12 256GB - White (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGJH3B/A/refurbished-iphone-12-256gb-white",
-    "price": 669.0,
-    "previous_price": 809.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.173053152039555,
-    "model": "FGJH3B"
-  },
-  {
     "name": "Refurbished iPhone 11 Pro Max 64GB - Gold (SIM-free)",
     "family": "iphone",
     "store": "uk",
@@ -273,39 +262,6 @@
     "savings_price": 353.0,
     "saving_percentage": 0.34540117416829746,
     "model": "FWHG2B"
-  },
-  {
-    "name": "Refurbished iPhone 12 256GB - Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGJK3B/A/refurbished-iphone-12-256gb-blue",
-    "price": 669.0,
-    "previous_price": 809.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.173053152039555,
-    "model": "FGJK3B"
-  },
-  {
-    "name": "Refurbished iPhone 12 256GB - Black (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGJG3B/A/refurbished-iphone-12-256gb-black",
-    "price": 669.0,
-    "previous_price": 809.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.173053152039555,
-    "model": "FGJG3B"
-  },
-  {
-    "name": "Refurbished iPhone 12 256GB - Purple (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FJNQ3B/A/refurbished-iphone-12-256gb-purple",
-    "price": 669.0,
-    "previous_price": 809.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.173053152039555,
-    "model": "FJNQ3B"
   },
   {
     "name": "Refurbished iPhone 11 Pro Max 64GB - Silver (SIM-free)",
@@ -385,17 +341,6 @@
     "model": "FGMT3B"
   },
   {
-    "name": "Refurbished iPhone 12 Pro Max 128GB - Silver (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGD83B/A/Refurbished-iPhone-12-Pro-Max-128GB-Silver-SIM-Free",
-    "price": 779.0,
-    "previous_price": 949.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.1791359325605901,
-    "model": "FGD83B"
-  },
-  {
     "name": "Refurbished iPhone 12 Pro Max 128GB - Pacific Blue (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -405,17 +350,6 @@
     "savings_price": 170.0,
     "saving_percentage": 0.1791359325605901,
     "model": "FGDA3B"
-  },
-  {
-    "name": "Refurbished iPhone 12 Pro Max 128GB - Gold (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGD93B/A/Refurbished-iPhone-12-Pro-Max-128GB-Gold-SIM-Free",
-    "price": 779.0,
-    "previous_price": 949.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.1791359325605901,
-    "model": "FGD93B"
   },
   {
     "name": "Refurbished iPhone 12 Pro 256GB - Gold (SIM-Free)",
@@ -570,16 +504,5 @@
     "savings_price": 220.0,
     "saving_percentage": 0.17614091273018415,
     "model": "FGDH3B"
-  },
-  {
-    "name": "Refurbished iPhone 12 Pro Max 512GB - Pacific Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGDL3B/A/Refurbished-iPhone-12-Pro-Max-512GB-Pacific-Blue-SIM-Free",
-    "price": 1029.0,
-    "previous_price": 1249.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.17614091273018415,
-    "model": "FGDL3B"
   }
 ]
