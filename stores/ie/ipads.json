@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPad Wi-Fi 32GB - Gold (7th Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FW762B/A/Refurbished-iPad-Wi-Fi-32GB-Gold",
-    "price": 259.0,
-    "previous_price": 362.5,
-    "savings_price": 103.5,
-    "saving_percentage": 0.28551724137931034,
-    "model": "FW762B"
-  },
-  {
     "name": "Refurbished iPad mini 5 Wi-Fi 64GB - Silver",
     "family": "ipad",
     "store": "ie",
@@ -42,6 +31,17 @@
     "savings_price": 80.0,
     "saving_percentage": 0.16359918200409,
     "model": "FYLE2B"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi 64GB - Silver",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FTXP2B/A/Refurbished-11-inch-iPad-Pro-Wi-Fi-64GB-Silver",
+    "price": 499.0,
+    "previous_price": 799.0,
+    "savings_price": 300.0,
+    "saving_percentage": 0.37546933667083854,
+    "model": "FTXP2B"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi\u2010Fi 64GB - Space Grey",
