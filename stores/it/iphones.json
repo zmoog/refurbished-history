@@ -55,17 +55,6 @@
     "model": "FGDY3QL"
   },
   {
-    "name": "iPhone 12 mini 128GB ricondizionato - Nero (Senza SIM)",
-    "family": "iphone",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FGE33QL/A/iphone-12-mini-128gb-ricondizionato-nero",
-    "price": 649.0,
-    "previous_price": 769.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.15604681404421328,
-    "model": "FGE33QL"
-  },
-  {
     "name": "iPhone 12 mini 128GB ricondizionato - Verde (Senza SIM)",
     "family": "iphone",
     "store": "it",
@@ -75,6 +64,17 @@
     "savings_price": 120.0,
     "saving_percentage": 0.15604681404421328,
     "model": "FGE73QL"
+  },
+  {
+    "name": "iPhone 12 mini 128GB ricondizionato - Bianco (Senza SIM)",
+    "family": "iphone",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FGE43QL/A/iphone-12-mini-128gb-ricondizionato-bianco",
+    "price": 649.0,
+    "previous_price": 769.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.15604681404421328,
+    "model": "FGE43QL"
   },
   {
     "name": "iPhone 12 64GB ricondizionato - Bianco (Senza SIM)",
@@ -603,6 +603,17 @@
     "savings_price": 309.0,
     "saving_percentage": 0.22922848664688428,
     "model": "FWHL2QL"
+  },
+  {
+    "name": "iPhone 12 Pro Max 256GB ricondizionato - Oro (Senza SIM)",
+    "family": "iphone",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FGDE3QL/A/Refurbished-iPhone-12-Pro-Max-256GB-Gold-SIM-Free",
+    "price": 1109.0,
+    "previous_price": 1309.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15278838808250572,
+    "model": "FGDE3QL"
   },
   {
     "name": "iPhone 11 Pro 512GB ricondizionato - Argento (senza SIM)",
