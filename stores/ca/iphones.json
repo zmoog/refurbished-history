@@ -196,5 +196,49 @@
     "savings_price": 340.0,
     "saving_percentage": 0.20371479928100658,
     "model": "FGMF3VC"
+  },
+  {
+    "name": "Refurbished iPhone 12 Pro Max 512GB - Pacific Blue (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGD63VC/A/Refurbished-iPhone-12-Pro-Max-512GB-Pacific-Blue-SIM-Free",
+    "price": 1449.0,
+    "previous_price": 1809.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.19900497512437812,
+    "model": "FGD63VC"
+  },
+  {
+    "name": "Refurbished iPhone 12 Pro Max 512GB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGD53VC/A/Refurbished-iPhone-12-Pro-Max-512GB-Gold-SIM-Free",
+    "price": 1449.0,
+    "previous_price": 1809.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.19900497512437812,
+    "model": "FGD53VC"
+  },
+  {
+    "name": "Refurbished iPhone 12 Pro Max 512GB - Silver (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGD43VC/A/Refurbished-iPhone-12-Pro-Max-512GB-Silver-SIM-Free",
+    "price": 1449.0,
+    "previous_price": 1809.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.19900497512437812,
+    "model": "FGD43VC"
+  },
+  {
+    "name": "Refurbished iPhone 12 Pro Max 512GB - Graphite (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGD33VC/A/Refurbished-iPhone-12-Pro-Max-512GB-Graphite-SIM-Free",
+    "price": 1449.0,
+    "previous_price": 1809.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.19900497512437812,
+    "model": "FGD33VC"
   }
 ]
