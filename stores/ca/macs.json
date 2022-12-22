@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FGNT3LL/A/refurbished-mac-mini-apple-m1-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu",
-    "price": 979.0,
-    "previous_price": 1149.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.14795474325500435,
-    "model": "FGNT3LL"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Gold",
     "family": "mac",
     "store": "ca",
@@ -1265,17 +1254,6 @@
     "model": "G13K4LL"
   },
   {
-    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G12R2LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
-    "price": 1999.0,
-    "previous_price": 1999.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G12R2LL"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Orange",
     "family": "mac",
     "store": "ca",
@@ -1285,6 +1263,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1332LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12R2LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12R2LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Purple",
@@ -3179,17 +3168,6 @@
     "model": "G16F3LL"
   },
   {
-    "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G14JFLL/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-    "price": 3149.0,
-    "previous_price": 3149.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G14JFLL"
-  },
-  {
     "name": "Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, Nano-texture glass",
     "family": "mac",
     "store": "ca",
@@ -4400,17 +4378,6 @@
     "model": "G0ZXHLL"
   },
   {
-    "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 48\u2010Core GPU",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G14K1LL/A/refurbished-mac-studio-apple-m1-ultra-chip-with-20%E2%80%91core-cpu-and-48%E2%80%91core-gpu",
-    "price": 4949.0,
-    "previous_price": 4949.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G14K1LL"
-  },
-  {
     "name": "Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display",
     "family": "mac",
     "store": "ca",
@@ -4948,17 +4915,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G11V2LL"
-  },
-  {
-    "name": "Refurbished Mac Pro 3.3GHz 12-core Intel Xeon W, Radeon Pro W5500X",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G16Z4LL/A/Refurbished-Mac-Pro-33GHz-12-core-Intel-Xeon-W-Radeon-Pro-W5500X",
-    "price": 7759.0,
-    "previous_price": 7759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16Z4LL"
   },
   {
     "name": "Refurbished 27-inch iMac Pro 2.3GHz 18-core Intel Xeon W with Retina 5K display",
