@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FK0C2AM/A/refurbished-apple-pencil",
-    "price": 85.0,
-    "previous_price": 99.0,
-    "savings_price": 14.0,
-    "saving_percentage": 0.1414141414141414,
-    "model": "FK0C2AM"
-  },
-  {
     "name": "Refurbished Apple Pencil (2nd Generation)",
     "family": "ipad",
     "store": "us",
@@ -20,6 +9,17 @@
     "savings_price": 20.0,
     "saving_percentage": 0.15503875968992248,
     "model": "FU8F2AM"
+  },
+  {
+    "name": "Refurbished iPad mini 5 Wi-Fi 64GB - Space Gray",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FUQW2LL/A/Refurbished-iPad-mini-5-Wi-Fi-64GB-Space-Gray",
+    "price": 339.0,
+    "previous_price": 399.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.15037593984962405,
+    "model": "FUQW2LL"
   },
   {
     "name": "Refurbished iPad Wi-Fi 128GB - Silver (8th Generation)",
@@ -482,16 +482,5 @@
     "savings_price": 400.0,
     "saving_percentage": 0.27605244996549344,
     "model": "FXAX2LL"
-  },
-  {
-    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 1TB - Space Gray (4th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FXG22LL/A/refurbished-129-inch-ipad-pro-wi-fi-cellular-1tb-space-gray-4th-generation",
-    "price": 1169.0,
-    "previous_price": 1599.0,
-    "savings_price": 430.0,
-    "saving_percentage": 0.2689180737961226,
-    "model": "FXG22LL"
   }
 ]
