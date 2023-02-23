@@ -22,17 +22,6 @@
     "model": "FGNT3LL"
   },
   {
-    "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G12N1LL/A/Refurbished-Mac-mini-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU",
-    "price": 839.0,
-    "previous_price": 839.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G12N1LL"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Gold",
     "family": "mac",
     "store": "ca",
@@ -196,17 +185,6 @@
     "savings_price": 65.0,
     "saving_percentage": 0.045327754532775454,
     "model": "FGNA3LL"
-  },
-  {
-    "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, 10GB Ethernet",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G12P8LL/A/Refurbished-Mac-mini-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-10GB-Ethernet",
-    "price": 1369.0,
-    "previous_price": 1369.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G12P8LL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
@@ -1120,17 +1098,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1608LL"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G1605LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight",
-    "price": 2019.0,
-    "previous_price": 2019.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1605LL"
   },
   {
     "name": "Refurbished Apple Studio Display, Nano-texture glass, Tilt-adjustable stand",
@@ -2308,6 +2275,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G11QCLL"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G14JFLL/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
+    "price": 3149.0,
+    "previous_price": 3149.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14JFLL"
   },
   {
     "name": "Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display",
