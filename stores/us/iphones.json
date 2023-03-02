@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPhone 12 64GB - Green (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FGHA3LL/A/refurbished-iphone-12-64gb-green-unlocked",
-    "price": 529.0,
-    "previous_price": 629.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.1589825119236884,
-    "model": "FGHA3LL"
-  },
-  {
     "name": "Refurbished iPhone 12 mini 256GB - Blue (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -97,6 +86,17 @@
     "savings_price": 350.0,
     "saving_percentage": 0.35035035035035034,
     "model": "FWCM2LL"
+  },
+  {
+    "name": "Refurbished iPhone 11 Pro Max 256GB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FWH62LL/A/refurbished-iphone-11-pro-max-256gb-gold-unlocked",
+    "price": 729.0,
+    "previous_price": 1099.0,
+    "savings_price": 370.0,
+    "saving_percentage": 0.33666969972702454,
+    "model": "FWH62LL"
   },
   {
     "name": "Refurbished iPhone 11 Pro Max 256GB - Silver (Unlocked)",
