@@ -33,6 +33,28 @@
     "model": "FGN63B"
   },
   {
+    "name": "Refurbished Mac mini 3.0GHz 6-core Intel Core i5 - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FXNG2B/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray",
+    "price": 929.0,
+    "previous_price": 1099.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.15468607825295724,
+    "model": "FXNG2B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGTF3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Silver",
+    "price": 1059.0,
+    "previous_price": 1399.0,
+    "savings_price": 340.0,
+    "saving_percentage": 0.24303073624017155,
+    "model": "FGTF3B"
+  },
+  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Pink",
     "family": "mac",
     "store": "uk",
@@ -110,6 +132,83 @@
     "model": "FLXY3B"
   },
   {
+    "name": "Refurbished 27-inch iMac 3.1GHz 6-core Intel Core i5 with Retina 5K display",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FXWT2B/A/refurbished-27-inch-imac-31GHz-6-core-Intel-Core-i5-with-retina-5k-display",
+    "price": 1169.0,
+    "previous_price": 1799.0,
+    "savings_price": 630.0,
+    "saving_percentage": 0.35019455252918286,
+    "model": "FXWT2B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGPC3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1229.0,
+    "previous_price": 1599.0,
+    "savings_price": 370.0,
+    "saving_percentage": 0.2313946216385241,
+    "model": "FGPC3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGPK3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Blue",
+    "price": 1229.0,
+    "previous_price": 1599.0,
+    "savings_price": 370.0,
+    "saving_percentage": 0.2313946216385241,
+    "model": "FGPK3B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FWP42B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-space-grey",
+    "price": 1239.0,
+    "previous_price": 1799.0,
+    "savings_price": 560.0,
+    "saving_percentage": 0.311284046692607,
+    "model": "FWP42B"
+  },
+  {
+    "name": "Refurbished 27-inch iMac 3.3GHz 6-core Intel Core i5 with Retina 5K display",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FXWU2B/A/refurbished-27-inch-imac-33ghz-6-core-intel-core-i5-with-retina-5k-display",
+    "price": 1299.0,
+    "previous_price": 1999.0,
+    "savings_price": 700.0,
+    "saving_percentage": 0.3501750875437719,
+    "model": "FXWU2B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FWP52B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-space-grey",
+    "price": 1379.0,
+    "previous_price": 1999.0,
+    "savings_price": 620.0,
+    "saving_percentage": 0.31015507753876936,
+    "model": "FWP52B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FWP82B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-silver",
+    "price": 1379.0,
+    "previous_price": 1999.0,
+    "savings_price": 620.0,
+    "saving_percentage": 0.31015507753876936,
+    "model": "FWP82B"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "uk",
@@ -154,6 +253,39 @@
     "model": "FLY23B"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGPD3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1399.0,
+    "previous_price": 1799.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.22234574763757642,
+    "model": "FGPD3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Pink",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGPN3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1399.0,
+    "previous_price": 1799.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.22234574763757642,
+    "model": "FGPN3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Green",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGPJ3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1399.0,
+    "previous_price": 1799.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.22234574763757642,
+    "model": "FGPJ3B"
+  },
+  {
     "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 24\u2010Core GPU",
     "family": "mac",
     "store": "uk",
@@ -165,6 +297,17 @@
     "model": "FJMV3B"
   },
   {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.3GHz quad-core Intel Core i7 with Retina display - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G0Y79B/A/refurbished-133-inch-macbook-pro-23ghz-quad-core-intel-core-i7-with-retina-display-space-grey",
+    "price": 2059.0,
+    "previous_price": 2059.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0Y79B"
+  },
+  {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 48\u2010Core GPU",
     "family": "mac",
     "store": "uk",
@@ -174,5 +317,49 @@
     "savings_price": 400.0,
     "saving_percentage": 0.1000250062515629,
     "model": "FJMW3B"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.3GHz 12-core Intel Xeon W, Radeon Pro Vega II",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G143UB/A/Refurbished-Mac-Pro-33GHz-12-core-Intel-Xeon-W-Radeon-Pro-Vega-II",
+    "price": 7309.0,
+    "previous_price": 7309.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G143UB"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.3GHz 12-core Intel Xeon W, Two Radeon Pro W5700X, Apple Afterburner",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G0ZECB/A/Refurbished-Mac-Pro-33GHz-12-core-Intel-Xeon-W-Two-Radeon-Pro-W5700X-Apple-Afterburner",
+    "price": 8449.0,
+    "previous_price": 8449.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZECB"
+  },
+  {
+    "name": "Refurbished Mac Pro 2.7GHz 24-core Intel Xeon W, Radeon Pro 580X",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G0ZFDB/A/Refurbished-Mac-Pro-27GHz-24-core-Intel-Xeon-W-Radeon-Pro-580X",
+    "price": 8909.0,
+    "previous_price": 8909.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZFDB"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.2GHz 16-core Intel Xeon W, Radeon Pro W6800X",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14GUB/A/Refurbished-Mac-Pro-32GHz-16-core-Intel-Xeon-W-Radeon-Pro-W6800X",
+    "price": 9069.0,
+    "previous_price": 9069.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14GUB"
   }
 ]
