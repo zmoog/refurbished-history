@@ -605,17 +605,6 @@
     "model": "G15W4T"
   },
   {
-    "name": "MacBook Pro 14\" ricondizionato con chip Apple M1 Pro, CPU 8\u2010core e GPU 14\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FKGR3T/A/macbook-pro-14-ricondizionato-con-chip-apple-m1-pro-cpu-8%E2%80%91core-e-gpu-14%E2%80%91core-argento",
-    "price": 1799.0,
-    "previous_price": 2234.0,
-    "savings_price": 435.0,
-    "saving_percentage": 0.19471799462846912,
-    "model": "FKGR3T"
-  },
-  {
     "name": "MacBook Pro 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -836,6 +825,17 @@
     "model": "G15Z6T"
   },
   {
+    "name": "MacBook Pro 16\" ricondizionato con chip Apple M1 Pro, CPU 10\u2010core e GPU 16\u2010core - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FK193T/A/macbook-pro-16-ricondizionato-con-chip-apple-m1-pro-cpu-10%E2%80%91core-e-gpu-16%E2%80%91core-grigio-siderale",
+    "price": 2369.0,
+    "previous_price": 2849.0,
+    "savings_price": 480.0,
+    "saving_percentage": 0.16848016848016847,
+    "model": "FK193T"
+  },
+  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M1 Pro, CPU 10\u2010core e GPU 16\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -944,17 +944,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G0ZN2T"
-  },
-  {
-    "name": "MacBook Pro 16\" ricondizionato con chip Apple M1 Max, CPU 10\u2010core e GPU 32\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G14X0T/A/macbook-pro-16-ricondizionato-con-chip-apple-m1-max-cpu-10%E2%80%91core-e-gpu-32%E2%80%91core-grigio-siderale",
-    "price": 3429.0,
-    "previous_price": 3429.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G14X0T"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con Intel Core i9 8\u2010core a 2,4GHz, AMD Radeon Pro 5600M e display Retina - Grigio siderale",
