@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished Apple Pencil",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FK0C2AM/A/refurbished-apple-pencil",
+    "price": 85.0,
+    "previous_price": 99.0,
+    "savings_price": 14.0,
+    "saving_percentage": 0.1414141414141414,
+    "model": "FK0C2AM"
+  },
+  {
     "name": "Refurbished Apple Pencil (2nd Generation)",
     "family": "ipad",
     "store": "us",
@@ -297,17 +308,6 @@
     "model": "FYJ12LL"
   },
   {
-    "name": "Refurbished iPad mini 5 Wi-Fi + Cellular 256GB - Silver",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FUXN2LL/A/Refurbished-iPad-mini-5-Wi-Fi-Cellular-256GB-Silver",
-    "price": 579.0,
-    "previous_price": 679.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.14727540500736377,
-    "model": "FUXN2LL"
-  },
-  {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Green (4th Generation)",
     "family": "ipad",
     "store": "us",
@@ -471,6 +471,17 @@
     "savings_price": 120.0,
     "saving_percentage": 0.15018773466833543,
     "model": "FK8F3LL"
+  },
+  {
+    "name": "Refurbished iPad mini 6 Wi-Fi+Cellular 256GB - Starlight",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FK8H3LL/A/refurbished-ipad-mini-6-wi-fi-%2B-cellular-256gb-starlight",
+    "price": 679.0,
+    "previous_price": 799.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.15018773466833543,
+    "model": "FK8H3LL"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 256GB - Silver (4th Generation)",
@@ -955,6 +966,17 @@
     "savings_price": 290.0,
     "saving_percentage": 0.1487942534633145,
     "model": "FHP13LL"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 2TB - Silver (3rd Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FHN33LL/A/refurbished-11-inch-ipad-pro-wi-ficellular-2tb-silver-3rd-generation",
+    "price": 1739.0,
+    "previous_price": 2049.0,
+    "savings_price": 310.0,
+    "saving_percentage": 0.15129331381161543,
+    "model": "FHN33LL"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 2TB - Silver (5th Generation)",
