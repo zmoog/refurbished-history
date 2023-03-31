@@ -77,6 +77,17 @@
     "model": "FLXY3B"
   },
   {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FWP42B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-space-grey",
+    "price": 1529.0,
+    "previous_price": 2229.0,
+    "savings_price": 700.0,
+    "saving_percentage": 0.31404217137729923,
+    "model": "FWP42B"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ie",
@@ -121,6 +132,28 @@
     "model": "FLY23B"
   },
   {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FWP52B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-space-grey",
+    "price": 1709.0,
+    "previous_price": 2459.0,
+    "savings_price": 750.0,
+    "saving_percentage": 0.30500203334688897,
+    "model": "FWP52B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Silver",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FWP82B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-silver",
+    "price": 1709.0,
+    "previous_price": 2459.0,
+    "savings_price": 750.0,
+    "saving_percentage": 0.30500203334688897,
+    "model": "FWP82B"
+  },
+  {
     "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 8\u2010Core CPU and 14\u2010Core GPU - Silver",
     "family": "mac",
     "store": "ie",
@@ -163,5 +196,49 @@
     "savings_price": 525.0,
     "saving_percentage": 0.19931662870159453,
     "model": "FKGQ3B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Pro 2.3GHz quad-core Intel Core i7 with Retina display - Space Grey",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G0Y79B/A/refurbished-133-inch-macbook-pro-23ghz-quad-core-intel-core-i7-with-retina-display-space-grey",
+    "price": 2559.0,
+    "previous_price": 2559.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0Y79B"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.3GHz 12-core Intel Xeon W, Radeon Pro Vega II",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G143UB/A/Refurbished-Mac-Pro-33GHz-12-core-Intel-Xeon-W-Radeon-Pro-Vega-II",
+    "price": 8649.0,
+    "previous_price": 8649.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G143UB"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.3GHz 12-core Intel Xeon W, Two Radeon Pro W5700X, Apple Afterburner",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G0ZECB/A/Refurbished-Mac-Pro-33GHz-12-core-Intel-Xeon-W-Two-Radeon-Pro-W5700X-Apple-Afterburner",
+    "price": 10469.0,
+    "previous_price": 10469.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZECB"
+  },
+  {
+    "name": "Refurbished Mac Pro 2.7GHz 24-core Intel Xeon W, Radeon Pro 580X",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G0ZFDB/A/Refurbished-Mac-Pro-27GHz-24-core-Intel-Xeon-W-Radeon-Pro-580X",
+    "price": 10859.0,
+    "previous_price": 10859.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZFDB"
   }
 ]
