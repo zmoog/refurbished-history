@@ -11,6 +11,17 @@
     "model": "FGCL3LL"
   },
   {
+    "name": "Refurbished iPhone 12 Pro Max 256GB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FGCM3LL/A/refurbished-iphone-12-pro-max-256gb-gold-unlocked",
+    "price": 839.0,
+    "previous_price": 1099.0,
+    "savings_price": 260.0,
+    "saving_percentage": 0.23657870791628755,
+    "model": "FGCM3LL"
+  },
+  {
     "name": "Refurbished iPhone 12 Pro Max 256GB - Pacific Blue (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -33,15 +44,15 @@
     "model": "FGCK3LL"
   },
   {
-    "name": "Refurbished iPhone 12 Pro Max 256GB - Gold (Unlocked)",
+    "name": "Refurbished iPhone 12 Pro Max 512GB - Graphite (Unlocked)",
     "family": "iphone",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FGCM3LL/A/refurbished-iphone-12-pro-max-256gb-gold-unlocked",
-    "price": 839.0,
-    "previous_price": 1099.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.23657870791628755,
-    "model": "FGCM3LL"
+    "url": "https://www.apple.com/shop/product/FGCP3LL/A/refurbished-iphone-12-pro-max-512gb-graphite-unlocked",
+    "price": 1009.0,
+    "previous_price": 1299.0,
+    "savings_price": 290.0,
+    "saving_percentage": 0.22324865280985373,
+    "model": "FGCP3LL"
   },
   {
     "name": "Refurbished iPhone 12 Pro Max 512GB - Pacific Blue (Unlocked)",
@@ -75,16 +86,5 @@
     "savings_price": 290.0,
     "saving_percentage": 0.22324865280985373,
     "model": "FGCR3LL"
-  },
-  {
-    "name": "Refurbished iPhone 12 Pro Max 512GB - Graphite (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FGCP3LL/A/refurbished-iphone-12-pro-max-512gb-graphite-unlocked",
-    "price": 1009.0,
-    "previous_price": 1299.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.22324865280985373,
-    "model": "FGCP3LL"
   }
 ]
