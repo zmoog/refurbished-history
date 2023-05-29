@@ -22,17 +22,6 @@
     "model": "FU8F2CH"
   },
   {
-    "name": "\u7ffb\u65b0 iPad \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 32GB - \u91d1\u8272 (\u7b2c\u4e03\u4ee3)",
-    "family": "ipad",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/FW6R2CH/A",
-    "price": 2399,
-    "previous_price": 2399,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "FW6R2CH"
-  },
-  {
     "name": "\u7ffb\u65b0 iPad \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 128GB - \u94f6\u8272 (\u7b2c\u516b\u4ee3)",
     "family": "ipad",
     "store": "cn",
@@ -99,15 +88,26 @@
     "model": "FUXT2CH"
   },
   {
-    "name": "\u7ffb\u65b0 10.5 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b A1852 256GB - \u73ab\u7470\u91d1\u8272",
+    "name": "\u7ffb\u65b0 iPad Air \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 64GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u56db\u4ee3)",
     "family": "ipad",
     "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/FPK02CH/A",
-    "price": 4119,
-    "previous_price": 4119,
+    "url": "https://www.apple.com.cn/shop/product/FYFM2CH/A",
+    "price": 3399,
+    "previous_price": 3399,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "FPK02CH"
+    "model": "FYFM2CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 iPad Air \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 64GB - \u5929\u84dd\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FYFQ2CH/A",
+    "price": 3399,
+    "previous_price": 3399,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FYFQ2CH"
   },
   {
     "name": "\u7ffb\u65b0 10.5 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b A1852 256GB - \u94f6\u8272",
@@ -231,6 +231,50 @@
     "model": "FUXY2CH"
   },
   {
+    "name": "\u7ffb\u65b0 iPad Air \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 256GB - \u7eff\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FYG02CH/A",
+    "price": 4329,
+    "previous_price": 4329,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FYG02CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 iPad Air \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 256GB - \u73ab\u7470\u91d1\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FYFX2CH/A",
+    "price": 4329,
+    "previous_price": 4329,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FYFX2CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 iPad Air \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 256GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FYFT2CH/A",
+    "price": 4329,
+    "previous_price": 4329,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FYFT2CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 iPad Air \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 256GB - \u5929\u84dd\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FYFY2CH/A",
+    "price": 4329,
+    "previous_price": 4329,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FYFY2CH"
+  },
+  {
     "name": "\u7ffb\u65b0 iPad mini 6 \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 64GB - \u7c89\u8272",
     "family": "ipad",
     "store": "cn",
@@ -240,6 +284,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "FLXA3CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 iPad mini 6 \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 64GB - \u661f\u5149\u8272",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FK913CH/A",
+    "price": 4419,
+    "previous_price": 4419,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FK913CH"
   },
   {
     "name": "\u7ffb\u65b0 iPad mini 6 \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 64GB - \u7d2b\u8272",
@@ -262,6 +317,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "FK8Y3CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 11 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 128GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u4e8c\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FY312CH/A",
+    "price": 4929,
+    "previous_price": 4929,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FY312CH"
   },
   {
     "name": "\u7ffb\u65b0 iPad Air \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 256GB - \u94f6\u8272 (\u7b2c\u56db\u4ee3)",
@@ -317,6 +383,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "FYHV2CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 11 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 128GB - \u94f6\u8272 (\u7b2c\u4e09\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FHQT3CH/A",
+    "price": 5269,
+    "previous_price": 5269,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FHQT3CH"
   },
   {
     "name": "\u7ffb\u65b0 10.5 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b A1852 512GB - \u91d1\u8272",
@@ -418,6 +495,39 @@
     "model": "FXEM2CH"
   },
   {
+    "name": "\u7ffb\u65b0 11 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51\u673a\u578b 256GB - \u94f6\u8272 (\u7b2c\u4e09\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FHQV3CH/A",
+    "price": 5949,
+    "previous_price": 5949,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FHQV3CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 128GB - \u94f6\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FY3H2CH/A",
+    "price": 5949,
+    "previous_price": 5949,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FY3H2CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 128GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FY3G2CH/A",
+    "price": 5949,
+    "previous_price": 5949,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FY3G2CH"
+  },
+  {
     "name": "\u7ffb\u65b0 11 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 128GB - \u94f6\u8272 (\u7b2c\u4e09\u4ee3)",
     "family": "ipad",
     "store": "cn",
@@ -438,6 +548,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "FHWG3CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 256GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FXFN2CH/A",
+    "price": 6539,
+    "previous_price": 6539,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FXFN2CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 256GB - \u94f6\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FXFP2CH/A",
+    "price": 6539,
+    "previous_price": 6539,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FXFP2CH"
   },
   {
     "name": "\u7ffb\u65b0 11 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 512GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u4e8c\u4ee3)",
@@ -471,6 +603,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "FHWK3CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 512GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FXFQ2CH/A",
+    "price": 7729,
+    "previous_price": 7729,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FXFQ2CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 512GB - \u94f6\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FXFR2CH/A",
+    "price": 7729,
+    "previous_price": 7729,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FXFR2CH"
   },
   {
     "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 128GB - \u6df1\u7a7a\u7070\u8272 (\u7b2c\u4e94\u4ee3)",
@@ -537,6 +691,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "FHRH3CH"
+  },
+  {
+    "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 1TB - \u94f6\u8272 (\u7b2c\u56db\u4ee3)",
+    "family": "ipad",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/FXFU2CH/A",
+    "price": 8919,
+    "previous_price": 8919,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "FXFU2CH"
   },
   {
     "name": "\u7ffb\u65b0 12.9 \u82f1\u5bf8 iPad Pro \u65e0\u7ebf\u5c40\u57df\u7f51 + \u8702\u7a9d\u7f51\u7edc\u673a\u578b 256GB - \u94f6\u8272 (\u7b2c\u4e94\u4ee3)",
