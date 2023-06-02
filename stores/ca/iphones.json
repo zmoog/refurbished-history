@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPhone 11 64GB - Black (Unlocked)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FHCP3VC/A/refurbished-iphone-11-64gb-black-unlocked",
-    "price": 539.0,
-    "previous_price": 679.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.20618556701030927,
-    "model": "FHCP3VC"
-  },
-  {
     "name": "Refurbished iPhone 12 Pro 512GB - Pacific Blue (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -20,6 +9,17 @@
     "savings_price": 340.0,
     "saving_percentage": 0.20371479928100658,
     "model": "FGMJ3VC"
+  },
+  {
+    "name": "Refurbished iPhone 12 Pro 512GB - Silver (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGMG3VC/A/refurbished-iphone-12-pro-512gb-silver-unlocked",
+    "price": 1329.0,
+    "previous_price": 1669.0,
+    "savings_price": 340.0,
+    "saving_percentage": 0.20371479928100658,
+    "model": "FGMG3VC"
   },
   {
     "name": "Refurbished iPhone 12 Pro 512GB - Gold (Unlocked)",
@@ -44,6 +44,17 @@
     "model": "FGMF3VC"
   },
   {
+    "name": "Refurbished iPhone 12 Pro Max 512GB - Pacific Blue (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FGD63VC/A/refurbished-iphone-12-pro-max-512gb-pacific-blue-unlocked",
+    "price": 1449.0,
+    "previous_price": 1809.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.19900497512437812,
+    "model": "FGD63VC"
+  },
+  {
     "name": "Refurbished iPhone 12 Pro Max 512GB - Silver (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -64,6 +75,17 @@
     "savings_price": 360.0,
     "saving_percentage": 0.19900497512437812,
     "model": "FGD33VC"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 512GB - Silver (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FLJT3VC/A/refurbished-iphone-13-pro-max-512gb-silver-unlocked",
+    "price": 1549.0,
+    "previous_price": 1819.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.14843320505772403,
+    "model": "FLJT3VC"
   },
   {
     "name": "Refurbished iPhone 13 Pro Max 1TB - Silver (Unlocked)",
