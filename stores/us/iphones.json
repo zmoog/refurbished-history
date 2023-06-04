@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPhone 11 64GB - Black (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FHCP3LL/A/refurbished-iphone-11-64gb-black-unlocked",
-    "price": 379.0,
-    "previous_price": 499.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.24048096192384769,
-    "model": "FHCP3LL"
-  },
-  {
     "name": "Refurbished iPhone 12 mini 128GB - Black (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -130,6 +119,17 @@
     "savings_price": 240.0,
     "saving_percentage": 0.24024024024024024,
     "model": "FGLT3LL"
+  },
+  {
+    "name": "Refurbished iPhone 12 Pro 512GB - Graphite (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FGLX3LL/A/refurbished-iphone-12-pro-512gb-graphite-unlocked",
+    "price": 929.0,
+    "previous_price": 1199.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.22518765638031693,
+    "model": "FGLX3LL"
   },
   {
     "name": "Refurbished iPhone 12 Pro Max 512GB - Gold (Unlocked)",
