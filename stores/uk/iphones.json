@@ -33,17 +33,6 @@
     "model": "FGDX3B"
   },
   {
-    "name": "Refurbished iPhone 12 mini 128GB - White (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGE43B/A/refurbished-iphone-12-mini-128gb-white-sim-free",
-    "price": 499.0,
-    "previous_price": 629.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.2066772655007949,
-    "model": "FGE43B"
-  },
-  {
     "name": "Refurbished iPhone 12 mini 128GB - Black (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -834,6 +823,17 @@
     "savings_price": 220.0,
     "saving_percentage": 0.1518288474810214,
     "model": "FLVV3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro 1TB - Alpine Green (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FNE53B/A/Refurbished-iPhone-13-Pro-1TB-Alpine-Green-SIM-Free",
+    "price": 1229.0,
+    "previous_price": 1449.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.1518288474810214,
+    "model": "FNE53B"
   },
   {
     "name": "Refurbished iPhone 13 Pro Max 1TB - Gold (SIM-Free)",
