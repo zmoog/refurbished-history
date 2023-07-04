@@ -187,6 +187,17 @@
     "model": "G12P8B"
   },
   {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G15Y3B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-starlight",
+    "price": 1139.0,
+    "previous_price": 1139.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15Y3B"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "uk",
@@ -363,15 +374,15 @@
     "model": "FWP82B"
   },
   {
-    "name": "Refurbished 13.3-inch MacBook Pro Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/G11C0B/A/refurbished-133-inch-macbook-pro-apple-m1-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-space-grey",
-    "price": 1439.0,
-    "previous_price": 1439.0,
+    "url": "https://www.apple.com/uk/shop/product/G15Z2B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-starlight",
+    "price": 1409.0,
+    "previous_price": 1409.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "G11C0B"
+    "model": "G15Z2B"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Pro Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
@@ -539,6 +550,17 @@
     "model": "G0Y79B"
   },
   {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G15X7B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver",
+    "price": 2129.0,
+    "previous_price": 2129.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15X7B"
+  },
+  {
     "name": "Refurbished 13.3-inch MacBook Pro 2.3GHz quad-core Intel Core i7 with Retina display - Silver",
     "family": "mac",
     "store": "uk",
@@ -572,6 +594,17 @@
     "model": "G1930B"
   },
   {
+    "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU, 10GB Ethernet",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G170GB/A/refurbished-mac-mini-apple-m2-pro-chip-with-10%E2%80%91core-cpu-and-16%E2%80%91core-gpu-10gb-ethernet",
+    "price": 2629.0,
+    "previous_price": 2629.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G170GB"
+  },
+  {
     "name": "Refurbished 16-inch MacBook Pro 2.4GHz 8-core Intel Core i9 with Retina display - Space Grey",
     "family": "mac",
     "store": "uk",
@@ -594,17 +627,6 @@
     "model": "G17G2B"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/G17M7B/A/refurbished-14-inch-macbook-pro-apple-m2-max-chip-with-12-core-cpu-and-38-core-gpu-silver",
-    "price": 2929.0,
-    "previous_price": 2929.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G17M7B"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro 2.4GHz 8-core Intel Core i9, AMD Radeon Pro 5600M with Retina display - Space Grey",
     "family": "mac",
     "store": "uk",
@@ -625,5 +647,16 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G11YPB"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 64\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14KGB/A/refurbished-mac-studio-apple-m1-ultra-chip-with-20%E2%80%91core-cpu-and-64%E2%80%91core-gpu",
+    "price": 5189.0,
+    "previous_price": 5189.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14KGB"
   }
 ]
