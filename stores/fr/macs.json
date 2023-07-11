@@ -473,17 +473,6 @@
     "model": "FWP82FN"
   },
   {
-    "name": "Mac mini reconditionne\u0301 avec puce Apple M2 Pro, CPU 10 c\u0153urs et GPU 16 c\u0153urs",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/G1709F/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-10-c%C5%93urs-et-gpu-16-c%C5%93urs",
-    "price": 1709.0,
-    "previous_price": 1709.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1709F"
-  },
-  {
     "name": "MacBook Pro avec e\u0301cran Retina 16 pouces reconditionne\u0301 avec processeur Intel Core i7 hexac\u0153ur a\u0300 2,6 GHz - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -726,6 +715,17 @@
     "model": "FNW93F"
   },
   {
+    "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M2 Pro, CPU 12 c\u0153urs et GPU 19 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FNWD3F/A/macbook-pro-16-pouces-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-12-c%C5%93urs-et-gpu-19-c%C5%93urs-argent",
+    "price": 2739.0,
+    "previous_price": 3229.0,
+    "savings_price": 490.0,
+    "saving_percentage": 0.15174976772994736,
+    "model": "FNWD3F"
+  },
+  {
     "name": "MacBook Pro 13,3 pouces reconditionne\u0301 avec e\u0301cran Retina et processeur quadric\u0153ur Intel Core i5 a\u0300 2 GHz - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -834,6 +834,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G0Y0LFN"
+  },
+  {
+    "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 38 c\u0153urs - Gris side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FNWA3F/A/macbook-pro-16-pouces-reconditionn%C3%A9-avec-puce-apple-m2-max-cpu-12-c%C5%93urs-et-gpu-38-c%C5%93urs-gris-sid%C3%A9ral",
+    "price": 3529.0,
+    "previous_price": 4149.0,
+    "savings_price": 620.0,
+    "saving_percentage": 0.14943359845745963,
+    "model": "FNWA3F"
   },
   {
     "name": "MacBook Pro avec e\u0301cran Retina 16 pouces reconditionne\u0301 avec processeur Intel Core i9 huit c\u0153urs a\u0300 2,3 GHz - Argent",
