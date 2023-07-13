@@ -77,17 +77,6 @@
     "model": "G12P5T"
   },
   {
-    "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FGN63T/A/macbook-air-133-ricondizionato-con-chip-apple-m1-cpu-8%E2%80%91core-e-gpu-7%E2%80%91core-grigio-siderale",
-    "price": 989.0,
-    "previous_price": 1229.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.19528071602929212,
-    "model": "FGN63T"
-  },
-  {
     "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -660,17 +649,6 @@
     "model": "G1242T"
   },
   {
-    "name": "MacBook Pro 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G16U0T/A/Refurbished-13-inch-MacBook-Pro-Apple-M2-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver",
-    "price": 1789.0,
-    "previous_price": 1789.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16U0T"
-  },
-  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M1 Pro, CPU 8\u2010core e GPU 14\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -746,6 +724,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1613T"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M1 Max con CPU 10\u2010core e GPU 24\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FJMV3T/A/mac-studio-ricondizionato-chip-apple-m1-max-con-cpu-10%E2%80%91core-e-gpu-24%E2%80%91core",
+    "price": 1879.0,
+    "previous_price": 2209.0,
+    "savings_price": 330.0,
+    "saving_percentage": 0.14938886373924853,
+    "model": "FJMV3T"
   },
   {
     "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Grigio siderale",
