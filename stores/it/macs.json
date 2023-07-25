@@ -715,17 +715,6 @@
     "model": "FKGP3T"
   },
   {
-    "name": "MacBook Pro 14\" ricondizionato con chip Apple M1 Pro, CPU 8\u2010core e GPU 14\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FKGR3T/A/macbook-pro-14-ricondizionato-con-chip-apple-m1-pro-cpu-8%E2%80%91core-e-gpu-14%E2%80%91core-argento",
-    "price": 1799.0,
-    "previous_price": 2234.0,
-    "savings_price": 435.0,
-    "saving_percentage": 0.19471799462846912,
-    "model": "FKGR3T"
-  },
-  {
     "name": "Mac mini ricondizionato, chip Apple M2 Pro con CPU 10\u2010core e GPU 16\u2010core, 10Gb Ethernet",
     "family": "mac",
     "store": "it",
@@ -1375,6 +1364,17 @@
     "model": "FJMW3T"
   },
   {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Max, CPU 12\u2010core e GPU 38\u2010core - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G17JBT/A/macbook-pro-14-ricondizionato-con-chip-apple-m2-max-cpu-12-core-e-gpu-38-core-grigio-siderale",
+    "price": 3779.0,
+    "previous_price": 3779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17JBT"
+  },
+  {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M1 Max, CPU 10\u2010core e GPU 32\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -1439,6 +1439,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G11YBT"
+  },
+  {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Max, CPU 12\u2010core e GPU 38\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G17MHT/A/macbook-pro-14-ricondizionato-con-chip-apple-m2-max-cpu-12-core-e-gpu-38-core-argento",
+    "price": 5149.0,
+    "previous_price": 5149.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17MHT"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con Intel Core i9 8\u2010core a 2,4GHz, AMD Radeon Pro 5600M e display Retina - Grigio siderale",
