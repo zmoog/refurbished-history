@@ -176,17 +176,6 @@
     "model": "G12A0LL"
   },
   {
-    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G16L7LL/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu",
-    "price": 1019.0,
-    "previous_price": 1019.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16L7LL"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Gray",
     "family": "mac",
     "store": "us",
@@ -713,17 +702,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G12B3LL"
-  },
-  {
-    "name": "Refurbished 27-inch iMac 3.3GHz 6-core Intel Core i5 with Retina 5K display",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G0ZW2LL/A/Refurbished-27-inch-iMac-33ghz-6-coreiIntel-core-i5-with-retina-5k-display",
-    "price": 1429.0,
-    "previous_price": 1429.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G0ZW2LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
@@ -2772,6 +2750,17 @@
     "model": "G15KNLL"
   },
   {
+    "name": "Refurbished Mac Pro 3.5GHz 8-core Intel Xeon W, Radeon Pro 5500X",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1093LL/A/refurbished-mac-pro-35ghz-8-core-intel-xeon-w-radeon-pro-5500x",
+    "price": 4599.0,
+    "previous_price": 4599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1093LL"
+  },
+  {
     "name": "Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, 10GB Ethernet",
     "family": "mac",
     "store": "us",
@@ -2891,6 +2880,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G11V2LL"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.2GHz 16-core Intel Xeon W, Radeon Pro 580X",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G0ZDFLL/A/Refurbished-Mac-Pro-32GHz-16-core-Intel-Xeon-W-Radeon-Pro-580X",
+    "price": 6599.0,
+    "previous_price": 6599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZDFLL"
   },
   {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 64\u2010Core GPU",
