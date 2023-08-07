@@ -1947,17 +1947,6 @@
     "model": "G16U7LL"
   },
   {
-    "name": "Refurbished Mac mini Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G170ZLL/A/refurbished-mac-mini-apple-m2-pro-chip-with-12%E2%80%91core-cpu-and-19%E2%80%91core-gpu",
-    "price": 2199.0,
-    "previous_price": 2199.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G170ZLL"
-  },
-  {
     "name": "Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display",
     "family": "mac",
     "store": "us",
@@ -2739,6 +2728,28 @@
     "model": "G11V1LL"
   },
   {
+    "name": "Refurbished Mac Pro 3.2GHz 16-core Intel Xeon W, Radeon Pro W5500X",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G144CLL/A/Refurbished-Mac-Pro-32GHz-16-core-Intel-Xeon-W-Radeon-Pro-W5500X",
+    "price": 6199.0,
+    "previous_price": 6199.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G144CLL"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.3GHz 12-core Intel Xeon W, Radeon Pro W5700X",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G10XXLL/A/Refurbished-Mac-Pro-33GHz-12-core-Intel-Xeon-W-Radeon-Pro-W5700X",
+    "price": 6539.0,
+    "previous_price": 6539.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G10XXLL"
+  },
+  {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 64\u2010Core GPU",
     "family": "mac",
     "store": "us",
@@ -2748,6 +2759,39 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14KJLL"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.5GHz 8-core Intel Xeon W, Radeon Pro W6900X",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G16ZBLL/A/Refurbished-Mac-Pro-35GHz-8-core-Intel-Xeon-W-Radeon-Pro-W6900X",
+    "price": 8049.0,
+    "previous_price": 8049.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G16ZBLL"
+  },
+  {
+    "name": "Refurbished Mac Pro 2.5GHz 28-core Intel Xeon W, Radeon Pro W5700X",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G18JDLL/A/Refurbished-Mac-Pro-25GHz-28-core-Intel-Xeon-W-Radeon-Pro-W5700X",
+    "price": 10189.0,
+    "previous_price": 10189.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G18JDLL"
+  },
+  {
+    "name": "Refurbished Mac Pro 2.5GHz 28-core Intel Xeon W, Radeon Pro W6800X Duo",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G18HTLL/A/Refurbished-Mac-Pro-25GHz-28-core-Intel-Xeon-W-Radeon-Pro-W6800X-Duo",
+    "price": 12319.0,
+    "previous_price": 12319.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G18HTLL"
   },
   {
     "name": "Refurbished Mac Pro 2.5GHz 28-core Intel Xeon W, Two Radeon Pro Vega II Duo, Apple Afterburner",
