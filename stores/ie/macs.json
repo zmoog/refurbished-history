@@ -110,17 +110,6 @@
     "model": "G11D0B"
   },
   {
-    "name": "Refurbished 27-inch iMac 3.1GHz 6-core Intel Core i5 with Retina 5K display",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FXWT2B/A/refurbished-27-inch-imac-31GHz-6-core-Intel-Core-i5-with-retina-5k-display",
-    "price": 1429.0,
-    "previous_price": 2049.0,
-    "savings_price": 620.0,
-    "saving_percentage": 0.30258662762323085,
-    "model": "FXWT2B"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
     "family": "mac",
     "store": "ie",
@@ -185,6 +174,17 @@
     "savings_price": 350.0,
     "saving_percentage": 0.19347705914870095,
     "model": "FGPP3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Orange",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FGPR3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1459.0,
+    "previous_price": 1809.0,
+    "savings_price": 350.0,
+    "saving_percentage": 0.19347705914870095,
+    "model": "FGPR3B"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
@@ -295,17 +295,6 @@
     "savings_price": 750.0,
     "saving_percentage": 0.30500203334688897,
     "model": "FWP82B"
-  },
-  {
-    "name": "Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FXWV2B/A/refurbished-27-inch-imac-38ghz-8-core-intel-core-i7-with-retina-5k-display",
-    "price": 1749.0,
-    "previous_price": 2649.0,
-    "savings_price": 900.0,
-    "saving_percentage": 0.33975084937712347,
-    "model": "FXWV2B"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Pro Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
