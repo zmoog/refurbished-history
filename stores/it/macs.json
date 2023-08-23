@@ -77,17 +77,6 @@
     "model": "FGN63T"
   },
   {
-    "name": "Mac mini ricondizionato, chip Apple M2 con CPU 8\u2010core e GPU 10\u2010core, 10Gb Ethernet",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G16K4T/A/mac-mini-ricondizionato-chip-apple-m2-con-cpu-8%E2%80%91core-e-gpu-10%E2%80%91core-10gb-ethernet",
-    "price": 1109.0,
-    "previous_price": 1109.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16K4T"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -207,6 +196,17 @@
     "savings_price": 310.0,
     "saving_percentage": 0.19632678910702978,
     "model": "FJV83T"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Galassia",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G15Y3T/A/MacBook-Air-13-ricondizionato-con-chip-Apple-M2-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Galassia",
+    "price": 1339.0,
+    "previous_price": 1339.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15Y3T"
   },
   {
     "name": "MacBook Pro 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Argento",
