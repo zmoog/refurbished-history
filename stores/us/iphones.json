@@ -220,6 +220,17 @@
     "model": "FGLW3LL"
   },
   {
+    "name": "Refurbished iPhone 13 Pro 128GB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLTR3LL/A/refurbished-iphone-13-pro-128gb-gold-unlocked",
+    "price": 759.0,
+    "previous_price": 899.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.1557285873192436,
+    "model": "FLTR3LL"
+  },
+  {
     "name": "Refurbished iPhone 12 Pro Max 256GB - Graphite (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -251,6 +262,17 @@
     "savings_price": 260.0,
     "saving_percentage": 0.23657870791628755,
     "model": "FGCM3LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro 256GB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLTY3LL/A/refurbished-iphone-13-pro-256gb-gold-unlocked",
+    "price": 849.0,
+    "previous_price": 999.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.15015015015015015,
+    "model": "FLTY3LL"
   },
   {
     "name": "Refurbished iPhone 12 Pro 512GB - Graphite (Unlocked)",
@@ -306,16 +328,5 @@
     "savings_price": 290.0,
     "saving_percentage": 0.22324865280985373,
     "model": "FGCT3LL"
-  },
-  {
-    "name": "Refurbished iPhone 13 Pro Max 512GB - Graphite (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FLKW3LL/A/refurbished-iphone-13-pro-max-512gb-graphite-unlocked",
-    "price": 1099.0,
-    "previous_price": 1299.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.15396458814472672,
-    "model": "FLKW3LL"
   }
 ]
