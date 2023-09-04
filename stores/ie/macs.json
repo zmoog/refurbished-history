@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FMFJ3B/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu",
-    "price": 619.0,
-    "previous_price": 729.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15089163237311384,
-    "model": "FMFJ3B"
-  },
-  {
     "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU",
     "family": "mac",
     "store": "ie",
@@ -33,15 +22,15 @@
     "model": "G16L1B"
   },
   {
-    "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU",
+    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
     "family": "mac",
     "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FNH73B/A/refurbished-mac-mini-apple-m2-pro-chip-with-10%E2%80%91core-cpu-and-16%E2%80%91core-gpu",
-    "price": 1339.0,
-    "previous_price": 1579.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.1519949335022166,
-    "model": "FNH73B"
+    "url": "https://www.apple.com/ie/shop/product/FWP42B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-space-grey",
+    "price": 1529.0,
+    "previous_price": 2229.0,
+    "savings_price": 700.0,
+    "saving_percentage": 0.31404217137729923,
+    "model": "FWP42B"
   },
   {
     "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU",
@@ -53,17 +42,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1701B"
-  },
-  {
-    "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Space Grey",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FWP42B/A/refurbished-133-inch-macbook-pro-20ghz-quad-core-intel-core-i5-with-retina-display-space-grey",
-    "price": 1529.0,
-    "previous_price": 2229.0,
-    "savings_price": 700.0,
-    "saving_percentage": 0.31404217137729923,
-    "model": "FWP42B"
   },
   {
     "name": "Refurbished Mac mini Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU",
@@ -88,39 +66,6 @@
     "model": "FNEQ3B"
   },
   {
-    "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FNEJ3B/A/Refurbished-13-inch-MacBook-Pro-Apple-M2-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Gray",
-    "price": 1589.0,
-    "previous_price": 1859.0,
-    "savings_price": 270.0,
-    "saving_percentage": 0.14523937600860679,
-    "model": "FNEJ3B"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G16R0B/A/Refurbished-13-inch-MacBook-Pro-Apple-M2-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Gray",
-    "price": 1599.0,
-    "previous_price": 1599.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16R0B"
-  },
-  {
-    "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU, 10GB Ethernet",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G1702B/A/refurbished-mac-mini-apple-m2-pro-chip-with-10%E2%80%91core-cpu-and-16%E2%80%91core-gpu-10gb-ethernet",
-    "price": 1629.0,
-    "previous_price": 1629.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1702B"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Pro Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ie",
@@ -141,6 +86,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G11F2B"
+  },
+  {
+    "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU, 10GB Ethernet",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G1702B/A/refurbished-mac-mini-apple-m2-pro-chip-with-10%E2%80%91core-cpu-and-16%E2%80%91core-gpu-10gb-ethernet",
+    "price": 1629.0,
+    "previous_price": 1629.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1702B"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display - Silver",
@@ -198,17 +154,6 @@
     "model": "G170VB"
   },
   {
-    "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G16U6B/A/Refurbished-13-inch-MacBook-Pro-Apple-M2-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver",
-    "price": 2179.0,
-    "previous_price": 2179.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16U6B"
-  },
-  {
     "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ie",
@@ -218,6 +163,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G16S6B"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G16U6B/A/Refurbished-13-inch-MacBook-Pro-Apple-M2-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver",
+    "price": 2179.0,
+    "previous_price": 2179.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G16U6B"
   },
   {
     "name": "Refurbished Mac mini Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU",
