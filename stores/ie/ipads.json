@@ -33,6 +33,28 @@
     "model": "FYLE2B"
   },
   {
+    "name": "Refurbished iPad Wi-Fi 128GB - Gold (8th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYLF2B/A/Refurbished-iPad-Wi-Fi-128GB-Gold-8th-Generation",
+    "price": 409.0,
+    "previous_price": 489.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.16359918200409,
+    "model": "FYLF2B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi+Cellular 32GB - Space Grey (8th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYMH2B/A/Refurbished-iPad-Wi-FiCellular-32GB-Space-Gray-8th-Generation",
+    "price": 449.0,
+    "previous_price": 529.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.15122873345935728,
+    "model": "FYMH2B"
+  },
+  {
     "name": "Refurbished iPad Wi-Fi+Cellular 64GB - Space Grey (9th Generation)",
     "family": "ipad",
     "store": "ie",
@@ -97,17 +119,6 @@
     "savings_price": 100.0,
     "saving_percentage": 0.15408320493066255,
     "model": "FK2P3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Space Grey (4th Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FYFM2B/A/Refurbished-iPad-Air-Wi-Fi-64GB-Space-Gray-4th-Generation",
-    "price": 549.0,
-    "previous_price": 649.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.15408320493066255,
-    "model": "FYFM2B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi 64GB - Silver (4th Generation)",
@@ -242,39 +253,6 @@
     "model": "FYH12B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Space Grey (9th Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FK4E3B/A/refurbished-ipad-wi-fi-cellular-256gb-space-grey-9th-generation",
-    "price": 699.0,
-    "previous_price": 819.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.14652014652014653,
-    "model": "FK4E3B"
-  },
-  {
-    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Silver (9th Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FK4H3B/A/refurbished-ipad-wi-fi-cellular-256gb-silver-9th-generation",
-    "price": 699.0,
-    "previous_price": 819.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.14652014652014653,
-    "model": "FK4H3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 256GB - Space Grey (4th Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FYFT2B/A/Refurbished-iPad-Air-W-Fi-256GB-Space-Gray-4th-Generation",
-    "price": 699.0,
-    "previous_price": 819.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.14652014652014653,
-    "model": "FYFT2B"
-  },
-  {
     "name": "Refurbished iPad Air Wi-Fi 256GB - Rose Gold (4th Generation)",
     "family": "ipad",
     "store": "ie",
@@ -306,6 +284,39 @@
     "savings_price": 120.0,
     "saving_percentage": 0.14652014652014653,
     "model": "FYG02B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Space Grey (9th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FK4E3B/A/refurbished-ipad-wi-fi-cellular-256gb-space-grey-9th-generation",
+    "price": 699.0,
+    "previous_price": 819.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.14652014652014653,
+    "model": "FK4E3B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Silver (9th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FK4H3B/A/refurbished-ipad-wi-fi-cellular-256gb-silver-9th-generation",
+    "price": 699.0,
+    "previous_price": 819.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.14652014652014653,
+    "model": "FK4H3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Space Grey (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYFT2B/A/Refurbished-iPad-Air-W-Fi-256GB-Space-Gray-4th-Generation",
+    "price": 699.0,
+    "previous_price": 819.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.14652014652014653,
+    "model": "FYFT2B"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Grey",
