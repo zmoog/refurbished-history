@@ -44,6 +44,17 @@
     "model": "FGE23B"
   },
   {
+    "name": "Refurbished iPhone 12 mini 64GB - Purple (SIM-Free)",
+    "family": "iphone",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FJQF3B/A/refurbished-iphone-12-mini-64gb-purple-sim-free",
+    "price": 599.0,
+    "previous_price": 709.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15514809590973203,
+    "model": "FJQF3B"
+  },
+  {
     "name": "Refurbished iPhone 12 mini 128GB - Black (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -97,6 +108,17 @@
     "savings_price": 130.0,
     "saving_percentage": 0.15681544028950542,
     "model": "FGJ53B"
+  },
+  {
+    "name": "Refurbished iPhone 12 mini 256GB - Black (SIM-Free)",
+    "family": "iphone",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FGE93B/A/refurbished-iphone-12-mini-256gb-black-sim-free",
+    "price": 749.0,
+    "previous_price": 879.0,
+    "savings_price": 130.0,
+    "saving_percentage": 0.14789533560864618,
+    "model": "FGE93B"
   },
   {
     "name": "Refurbished iPhone 12 mini 256GB - White (SIM-Free)",
@@ -856,16 +878,5 @@
     "savings_price": 280.0,
     "saving_percentage": 0.1506186121570737,
     "model": "FLLM3B"
-  },
-  {
-    "name": "Refurbished iPhone 13 Pro Max 1TB - Sierra Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLLN3B/A/refurbished-iphone-13-pro-max-1tb-sierra-blue-sim-free",
-    "price": 1579.0,
-    "previous_price": 1859.0,
-    "savings_price": 280.0,
-    "saving_percentage": 0.1506186121570737,
-    "model": "FLLN3B"
   }
 ]
