@@ -1,16 +1,5 @@
 [
   {
-    "name": "iPad Wi-Fi 32GB ricondizionato - Oro (ottava generazione)",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FYLC2TY/A/Refurbished-iPad-Wi-Fi-32GB-Gold-8th-Generation",
-    "price": 319.0,
-    "previous_price": 379.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.158311345646438,
-    "model": "FYLC2TY"
-  },
-  {
     "name": "iPad Wi-Fi + Cellular 32GB ricondizionato - Grigio siderale (ottava generazione)",
     "family": "ipad",
     "store": "it",
@@ -31,17 +20,6 @@
     "savings_price": 90.0,
     "saving_percentage": 0.1477832512315271,
     "model": "FK473TY"
-  },
-  {
-    "name": "iPad Wi-Fi 256GB ricondizionato - Grigio siderale (nona generazione)",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FK2N3TY/A/ipad-wi-fi-256gb-ricondizionato-grigio-siderale-nona-generazione",
-    "price": 539.0,
-    "previous_price": 639.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.1564945226917058,
-    "model": "FK2N3TY"
   },
   {
     "name": "iPad Wi-Fi 256GB ricondizionato - Argento (nona generazione)",
@@ -75,39 +53,6 @@
     "savings_price": 100.0,
     "saving_percentage": 0.1564945226917058,
     "model": "FYFR2TY"
-  },
-  {
-    "name": "iPad mini 6 Wi-Fi 64GB ricondizionato - Rosa",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FLWL3TY/A/ipad-mini-6-wi-fi-64gb-ricondizionato-rosa",
-    "price": 559.0,
-    "previous_price": 659.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.15174506828528073,
-    "model": "FLWL3TY"
-  },
-  {
-    "name": "iPad mini 6 Wi-Fi 64GB ricondizionato - Galassia",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FK7P3TY/A/ipad-mini-6-wi-fi-64gb-ricondizionato-galassia",
-    "price": 559.0,
-    "previous_price": 659.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.15174506828528073,
-    "model": "FK7P3TY"
-  },
-  {
-    "name": "iPad mini 6 Wi-Fi 64GB ricondizionato - Viola",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FK7R3TY/A/ipad-mini-6-wi-fi-64gb-ricondizionato-viola",
-    "price": 559.0,
-    "previous_price": 659.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.15174506828528073,
-    "model": "FK7R3TY"
   },
   {
     "name": "iPad Air Wi-Fi + Cellular 64GB ricondizionato - Celeste (quarta generazione)",
@@ -218,17 +163,6 @@
     "savings_price": 130.0,
     "saving_percentage": 0.15133876600698487,
     "model": "FK7V3TY"
-  },
-  {
-    "name": "iPad mini 6 Wi-Fi 256GB ricondizionato - Viola",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FK7X3TY/A/ipad-mini-6-wi-fi-256gb-ricondizionato-viola",
-    "price": 729.0,
-    "previous_price": 859.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.15133876600698487,
-    "model": "FK7X3TY"
   },
   {
     "name": "iPad mini 6 Wi-Fi + Cellular 64GB ricondizionato - Grigio siderale",
@@ -638,17 +572,6 @@
     "model": "FHNM3TY"
   },
   {
-    "name": "iPad Pro 12,9\" Wi-Fi + Cellular 1TB ricondizionato - Grigio siderale (quinta generazione)",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FHRA3TY/A/ipad-pro-129-wi-fi-cellular-1tb-ricondizionato-grigio-siderale-quinta-generazione",
-    "price": 1839.0,
-    "previous_price": 2159.0,
-    "savings_price": 320.0,
-    "saving_percentage": 0.14821676702176934,
-    "model": "FHRA3TY"
-  },
-  {
     "name": "iPad Pro 12,9\" Wi-Fi + Cellular 1TB ricondizionato - Argento (quinta generazione)",
     "family": "ipad",
     "store": "it",
@@ -658,6 +581,17 @@
     "savings_price": 320.0,
     "saving_percentage": 0.14821676702176934,
     "model": "FHRC3TY"
+  },
+  {
+    "name": "iPad Pro 12,9\" Wi-Fi + Cellular 1TB ricondizionato - Grigio siderale (quinta generazione)",
+    "family": "ipad",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FHRA3TY/A/ipad-pro-129-wi-fi-cellular-1tb-ricondizionato-grigio-siderale-quinta-generazione",
+    "price": 1839.0,
+    "previous_price": 2159.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.14821676702176934,
+    "model": "FHRA3TY"
   },
   {
     "name": "iPad Pro 12,9\" Wi-Fi 2TB ricondizionato - Grigio siderale (quinta generazione)",
