@@ -748,6 +748,17 @@
     "model": "FK0U3LL"
   },
   {
+    "name": "Refurbished Apple Studio Display, Standard glass, VESA mount adapter",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FMYQ3LL/A/Refurbished-Apple-Studio-Display-Standard-glass-VESA-mount-adapter",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "FMYQ3LL"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "us",
@@ -1417,6 +1428,17 @@
     "savings_price": 290.0,
     "saving_percentage": 0.15271195365982096,
     "model": "FMYW3LL"
+  },
+  {
+    "name": "Refurbished Apple Studio Display, Nano-texture glass, VESA mount adapter",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FMYX3LL/A/Refurbished-Apple-Studio-Display-Nano-texture-glass-VESA-mount-adapter",
+    "price": 1609.0,
+    "previous_price": 1899.0,
+    "savings_price": 290.0,
+    "saving_percentage": 0.15271195365982096,
+    "model": "FMYX3LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Gray",
@@ -2673,15 +2695,26 @@
     "model": "G15HMLL"
   },
   {
-    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Space Gray",
+    "name": "Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display",
     "family": "mac",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/G1764LL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-38%E2%80%91core-gpu-space-gray",
-    "price": 3649.0,
-    "previous_price": 3649.0,
+    "url": "https://www.apple.com/shop/product/G11Q3LL/A/Refurbished-27-inch-iMac-38GHz-8-core-Intel-Core-i7-with-Retina-5K-display",
+    "price": 3639.0,
+    "previous_price": 3639.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "G1764LL"
+    "model": "G11Q3LL"
+  },
+  {
+    "name": "Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G11QFLL/A/refurbished-27-inch-imac-36ghz-10-core-intel-core-i9-with-retina-5k-display",
+    "price": 3639.0,
+    "previous_price": 3639.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11QFLL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU - Space Gray",
