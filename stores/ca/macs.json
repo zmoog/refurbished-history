@@ -792,6 +792,17 @@
     "model": "G12S0LL"
   },
   {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Green",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G12U0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1779.0,
+    "previous_price": 1779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12U0LL"
+  },
+  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
     "family": "mac",
     "store": "ca",
@@ -1727,17 +1738,6 @@
     "model": "G16U6LL"
   },
   {
-    "name": "Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G0ZXMLL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display",
-    "price": 2339.0,
-    "previous_price": 2339.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G0ZXMLL"
-  },
-  {
     "name": "Refurbished 15-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -1956,17 +1956,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1614LL"
-  },
-  {
-    "name": "Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G0ZX1LL/A/refurbished-27-inch-imac-38ghz-8-core-intel-core-i7-with-retina-5k-display",
-    "price": 2479.0,
-    "previous_price": 2479.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G0ZX1LL"
   },
   {
     "name": "Refurbished Mac mini Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU, 10GB Ethernet",
@@ -3133,5 +3122,16 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G0ZKMLL"
+  },
+  {
+    "name": "Refurbished Mac Pro 2.5GHz 28-core Intel Xeon W, Two Radeon Pro Vega II Duo, Apple Afterburner",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G10TTLL/A/Refurbished-Mac-Pro-25GHz-28-core-Intel-Xeon-W-Two-Radeon-Pro-Vega-II-Duo-Apple-Afterburner",
+    "price": 44099.0,
+    "previous_price": 44099.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G10TTLL"
   }
 ]
