@@ -110,6 +110,28 @@
     "model": "FYDA2T"
   },
   {
+    "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Verde",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FJV83T/A/iMac-24-ricondizionato-con-chip-Apple-M1-CPU-8%E2%80%91core-e-GPU-7%E2%80%91core-Verde",
+    "price": 1269.0,
+    "previous_price": 1579.0,
+    "savings_price": 310.0,
+    "saving_percentage": 0.19632678910702978,
+    "model": "FJV83T"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FGTF3T/A/iMac-24-ricondizionato-con-chip-Apple-M1-CPU-8%E2%80%91core-e-GPU-7%E2%80%91core-Argento",
+    "price": 1269.0,
+    "previous_price": 1579.0,
+    "savings_price": 310.0,
+    "saving_percentage": 0.19632678910702978,
+    "model": "FGTF3T"
+  },
+  {
     "name": "MacBook Pro 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -583,17 +605,6 @@
     "model": "FPHE3T"
   },
   {
-    "name": "Apple Studio Display ricondizionato, vetro nanotexture, sostegno a inclinazione e altezza regolabili",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FMYV3T/A/Apple-Studio-Display-ricondizionato-vetro-nanotexture-sostegno-a-inclinazione-e-altezza-regolabili",
-    "price": 2129.0,
-    "previous_price": 2509.0,
-    "savings_price": 380.0,
-    "saving_percentage": 0.15145476285372658,
-    "model": "FMYV3T"
-  },
-  {
     "name": "MacBook Pro 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -658,6 +669,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G16S4T"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M1 Max con CPU 10\u2010core e GPU 32\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G14JET/A/mac-studio-ricondizionato-chip-apple-m1-max-con-cpu-10%E2%80%91core-e-gpu-32%E2%80%91core",
+    "price": 2509.0,
+    "previous_price": 2509.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14JET"
   },
   {
     "name": "Mac Studio ricondizionato, chip Apple M1 Max con CPU 10\u2010core e GPU 24\u2010core",
@@ -924,6 +946,17 @@
     "model": "FJMW3T"
   },
   {
+    "name": "Mac Studio ricondizionato, chip Apple M1 Ultra con CPU 20\u2010core e GPU 48\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G14K5T/A/Mac-Studio-ricondizionato-chip-Apple-M1-Ultra-con-CPU-20%E2%80%91core-e-GPU-48%E2%80%91core",
+    "price": 4589.0,
+    "previous_price": 4589.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14K5T"
+  },
+  {
     "name": "Mac Studio ricondizionato, chip Apple M1 Ultra con CPU 20\u2010core e GPU 64\u2010core",
     "family": "mac",
     "store": "it",
@@ -977,6 +1010,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G15KNT"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M1 Ultra con CPU 20\u2010core e GPU 64\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G14KFT/A/Mac-Studio-ricondizionato-chip-Apple-M1-Ultra-con-CPU-20%E2%80%91core-e-GPU-64%E2%80%91core",
+    "price": 5629.0,
+    "previous_price": 5629.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14KFT"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Max, CPU 12\u2010core e GPU 38\u2010core - Argento",
