@@ -55,17 +55,6 @@
     "model": "FMFK3T"
   },
   {
-    "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FGN63T/A/macbook-air-133-ricondizionato-con-chip-apple-m1-cpu-8%E2%80%91core-e-gpu-7%E2%80%91core-grigio-siderale",
-    "price": 989.0,
-    "previous_price": 1229.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.19528071602929212,
-    "model": "FGN63T"
-  },
-  {
     "name": "Mac mini ricondizionato con Intel Core i5 6-core a 3,0GHz - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -713,6 +702,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14J7T"
+  },
+  {
+    "name": "MacBook Pro 16\" ricondizionato con chip Apple M2 Max, CPU 12\u2010core e GPU 38\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FNWE3T/A/macbook-pro-16-ricondizionato-con-chip-apple-m2-max-cpu-12%E2%80%91core-e-gpu-38%E2%80%91core-argento",
+    "price": 3609.0,
+    "previous_price": 4249.0,
+    "savings_price": 640.0,
+    "saving_percentage": 0.15062367615909625,
+    "model": "FNWE3T"
   },
   {
     "name": "Mac Studio ricondizionato, chip Apple M1 Max con CPU 10\u2010core e GPU 32\u2010core",
