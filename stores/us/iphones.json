@@ -33,17 +33,6 @@
     "model": "FG8W3LL"
   },
   {
-    "name": "Refurbished iPhone 12 256GB - White (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FGHJ3LL/A/refurbished-iphone-12-256gb-white-unlocked",
-    "price": 579.0,
-    "previous_price": 779.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.25673940949935814,
-    "model": "FGHJ3LL"
-  },
-  {
     "name": "Refurbished iPhone 12 Pro 128GB - Graphite (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -141,6 +130,17 @@
     "savings_price": 350.0,
     "saving_percentage": 0.2919099249374479,
     "model": "FGLX3LL"
+  },
+  {
+    "name": "Refurbished iPhone 12 Pro 512GB - Pacific Blue (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FGM43LL/A/refurbished-iphone-12-pro-512gb-pacific-blue-unlocked",
+    "price": 849.0,
+    "previous_price": 1199.0,
+    "savings_price": 350.0,
+    "saving_percentage": 0.2919099249374479,
+    "model": "FGM43LL"
   },
   {
     "name": "Refurbished iPhone 12 Pro Max 512GB - Silver (Unlocked)",
