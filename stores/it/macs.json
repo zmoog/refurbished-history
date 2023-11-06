@@ -55,17 +55,6 @@
     "model": "FGN93T"
   },
   {
-    "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Oro",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FGND3T/A/macbook-air-133-ricondizionato-con-chip-apple-m1-cpu-8%E2%80%91core-e-gpu-7%E2%80%91core-oro",
-    "price": 989.0,
-    "previous_price": 1229.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.19528071602929212,
-    "model": "FGND3T"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -108,6 +97,17 @@
     "savings_price": 200.0,
     "saving_percentage": 0.14825796886582654,
     "model": "FLY33T"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Blu",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FJV93T/A/iMac-24-ricondizionato-con-chip-Apple-M1-CPU-8%E2%80%91core-e-GPU-7%E2%80%91core-Blu",
+    "price": 1259.0,
+    "previous_price": 1569.0,
+    "savings_price": 310.0,
+    "saving_percentage": 0.1975780752071383,
+    "model": "FJV93T"
   },
   {
     "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Rosa",
@@ -550,6 +550,17 @@
     "model": "G1313T"
   },
   {
+    "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core, Gigabit Ethernet - Arancione",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G1333T/A/iMac-24-ricondizionato-con-chip-Apple-M1-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Gigabit-Ethernet-Argento",
+    "price": 2039.0,
+    "previous_price": 2039.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1333T"
+  },
+  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Galassia",
     "family": "mac",
     "store": "it",
@@ -625,17 +636,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14JET"
-  },
-  {
-    "name": "Mac mini ricondizionato, chip Apple M2 Pro con CPU 12\u2010core e GPU 19\u2010core",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G170ZT/A/mac-mini-ricondizionato-chip-apple-m2-pro-con-cpu-12%E2%80%91core-e-gpu-19%E2%80%91core",
-    "price": 2609.0,
-    "previous_price": 2609.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G170ZT"
   },
   {
     "name": "Mac Studio ricondizionato, chip Apple M1 Max con CPU 10\u2010core e GPU 32\u2010core",
