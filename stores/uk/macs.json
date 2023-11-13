@@ -1,5 +1,38 @@
 [
   {
+    "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGN63B/A/refurbished-133-inch-macbook-air-apple-m1-chip-with-8%E2%80%91core-cpu-and-7%E2%80%91core-gpu-space-grey",
+    "price": 849.0,
+    "previous_price": 999.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.15015015015015015,
+    "model": "FGN63B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGN93B/A/refurbished-133-inch-macbook-air-apple-m1-chip-with-8%E2%80%91core-cpu-and-7%E2%80%91core-gpu-silver",
+    "price": 849.0,
+    "previous_price": 999.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.15015015015015015,
+    "model": "FGN93B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Gold",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGND3B/A/refurbished-133-inch-macbook-air-apple-m1-chip-with-8%E2%80%91core-cpu-and-7%E2%80%91core-gpu-gold",
+    "price": 849.0,
+    "previous_price": 999.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.15015015015015015,
+    "model": "FGND3B"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "uk",
@@ -44,6 +77,28 @@
     "model": "FLY33B"
   },
   {
+    "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGN73B/A/refurbished-133-inch-macbook-air-apple-m1-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-space-grey",
+    "price": 1059.0,
+    "previous_price": 1199.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.11676396997497915,
+    "model": "FGN73B"
+  },
+  {
+    "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Gold",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGNE3B/A/refurbished-133-inch-macbook-air-apple-m1-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-gold",
+    "price": 1059.0,
+    "previous_price": 1199.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.11676396997497915,
+    "model": "FGNE3B"
+  },
+  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Pink",
     "family": "mac",
     "store": "uk",
@@ -53,6 +108,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G12Z0B"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 24\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FJMV3B/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-24%E2%80%91core-gpu",
+    "price": 1609.0,
+    "previous_price": 1889.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.14822657490735838,
+    "model": "FJMV3B"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Yellow",
@@ -77,6 +143,28 @@
     "model": "G1333B"
   },
   {
+    "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 24\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14J0B/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-24%E2%80%91core-gpu",
+    "price": 1789.0,
+    "previous_price": 1789.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14J0B"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14JAB/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
+    "price": 1969.0,
+    "previous_price": 1969.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14JAB"
+  },
+  {
     "name": "Refurbished 13.3-inch MacBook Pro 2.3GHz quad-core Intel Core i7 with Retina display - Space Grey",
     "family": "mac",
     "store": "uk",
@@ -86,6 +174,39 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G0Y79B"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FNW83B/A/refurbished-16-inch-macbook-pro-apple-m2-pro-chip-with-12%E2%80%91core-cpu-and-19%E2%80%91core-gpu-space-grey",
+    "price": 2109.0,
+    "previous_price": 2489.0,
+    "savings_price": 380.0,
+    "saving_percentage": 0.15267175572519084,
+    "model": "FNW83B"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14JFB/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
+    "price": 2329.0,
+    "previous_price": 2329.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14JFB"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14JGB/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
+    "price": 2689.0,
+    "previous_price": 2689.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14JGB"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro 2.4GHz 8-core Intel Core i9, AMD Radeon Pro 5600M with Retina display - Space Grey",
@@ -110,6 +231,17 @@
     "model": "FJMW3B"
   },
   {
+    "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 48\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14K1B/A/refurbished-mac-studio-apple-m1-ultra-chip-with-20%E2%80%91core-cpu-and-48%E2%80%91core-gpu",
+    "price": 3569.0,
+    "previous_price": 3569.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14K1B"
+  },
+  {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 64\u2010Core GPU",
     "family": "mac",
     "store": "uk",
@@ -130,6 +262,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14KGB"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 48\u2010Core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G14K8B/A/refurbished-mac-studio-apple-m1-ultra-chip-with-20%E2%80%91core-cpu-and-48%E2%80%91core-gpu",
+    "price": 5909.0,
+    "previous_price": 5909.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14K8B"
   },
   {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 64\u2010Core GPU",
