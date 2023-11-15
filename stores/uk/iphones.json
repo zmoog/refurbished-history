@@ -143,17 +143,6 @@
     "model": "FGJK3B"
   },
   {
-    "name": "Refurbished iPhone 12 Pro 128GB - Silver (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGML3B/A/refurbished-iphone-12-pro-128gb-silver-sim-free",
-    "price": 589.0,
-    "previous_price": 849.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.30624263839811544,
-    "model": "FGML3B"
-  },
-  {
     "name": "Refurbished iPhone 12 Pro 128GB - Gold (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -405,6 +394,17 @@
     "savings_price": 300.0,
     "saving_percentage": 0.26109660574412535,
     "model": "FGMX3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 256GB - Silver (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FLLC3B/A/refurbished-iphone-13-pro-max-256gb-silver-sim-free",
+    "price": 849.0,
+    "previous_price": 1149.0,
+    "savings_price": 300.0,
+    "saving_percentage": 0.26109660574412535,
+    "model": "FLLC3B"
   },
   {
     "name": "Refurbished iPhone 12 Pro Max 512GB - Graphite (SIM-Free)",
