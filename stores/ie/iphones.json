@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished iPhone 12 mini 64GB - Blue (SIM-Free)",
+    "family": "iphone",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FGE13B/A/refurbished-iphone-12-mini-64gb-blue-sim-free",
+    "price": 479.0,
+    "previous_price": 709.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.3244005641748942,
+    "model": "FGE13B"
+  },
+  {
     "name": "Refurbished iPhone 12 mini 64GB - Green (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -31,17 +42,6 @@
     "savings_price": 220.0,
     "saving_percentage": 0.2898550724637681,
     "model": "FGE43B"
-  },
-  {
-    "name": "Refurbished iPhone 12 mini 128GB - Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FGE63B/A/refurbished-iphone-12-mini-128gb-blue-sim-free",
-    "price": 539.0,
-    "previous_price": 759.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.2898550724637681,
-    "model": "FGE63B"
   },
   {
     "name": "Refurbished iPhone 12 mini 128GB - Green (SIM-Free)",
@@ -616,17 +616,6 @@
     "model": "FLLE3B"
   },
   {
-    "name": "Refurbished iPhone 13 Pro Max 256GB - Alpine Green (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FND03B/A/refurbished-iphone-13-pro-max-256gb-alpine-green-sim-free",
-    "price": 1069.0,
-    "previous_price": 1399.0,
-    "savings_price": 330.0,
-    "saving_percentage": 0.23588277340957828,
-    "model": "FND03B"
-  },
-  {
     "name": "Refurbished iPhone 12 Pro Max 512GB - Graphite (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -746,16 +735,5 @@
     "savings_price": 360.0,
     "saving_percentage": 0.19365250134480905,
     "model": "FLLL3B"
-  },
-  {
-    "name": "Refurbished iPhone 13 Pro Max 1TB - Gold (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLLM3B/A/refurbished-iphone-13-pro-max-1tb-gold-sim-free",
-    "price": 1499.0,
-    "previous_price": 1859.0,
-    "savings_price": 360.0,
-    "saving_percentage": 0.19365250134480905,
-    "model": "FLLM3B"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished iPhone 12 mini 64GB - Blue (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGE13B/A/refurbished-iphone-12-mini-64gb-blue-sim-free",
+    "price": 379.0,
+    "previous_price": 579.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.3454231433506045,
+    "model": "FGE13B"
+  },
+  {
     "name": "Refurbished iPhone 12 mini 64GB - Green (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -31,17 +42,6 @@
     "savings_price": 210.0,
     "saving_percentage": 0.3338632750397456,
     "model": "FGE43B"
-  },
-  {
-    "name": "Refurbished iPhone 12 mini 128GB - Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGE63B/A/refurbished-iphone-12-mini-128gb-blue-sim-free",
-    "price": 419.0,
-    "previous_price": 629.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.3338632750397456,
-    "model": "FGE63B"
   },
   {
     "name": "Refurbished iPhone 12 mini 128GB - Green (SIM-Free)",
@@ -614,17 +614,6 @@
     "savings_price": 300.0,
     "saving_percentage": 0.26109660574412535,
     "model": "FLLE3B"
-  },
-  {
-    "name": "Refurbished iPhone 13 Pro Max 256GB - Alpine Green (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FND03B/A/refurbished-iphone-13-pro-max-256gb-alpine-green-sim-free",
-    "price": 849.0,
-    "previous_price": 1149.0,
-    "savings_price": 300.0,
-    "saving_percentage": 0.26109660574412535,
-    "model": "FND03B"
   },
   {
     "name": "Refurbished iPhone 12 Pro Max 512GB - Graphite (SIM-Free)",
