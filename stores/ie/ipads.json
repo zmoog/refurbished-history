@@ -33,6 +33,17 @@
     "model": "FK2P3B"
   },
   {
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Space Grey (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYFM2B/A/Refurbished-iPad-Air-Wi-Fi-64GB-Space-Gray-4th-Generation",
+    "price": 549.0,
+    "previous_price": 649.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.15408320493066255,
+    "model": "FYFM2B"
+  },
+  {
     "name": "Refurbished iPad Air Wi-Fi 64GB - Silver (4th Generation)",
     "family": "ipad",
     "store": "ie",
@@ -66,6 +77,28 @@
     "model": "FYFQ2B"
   },
   {
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Green (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYFR2B/A/Refurbished-iPad-Air-Wi-Fi-64GB-Green-4th-Generation",
+    "price": 549.0,
+    "previous_price": 649.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.15408320493066255,
+    "model": "FYFR2B"
+  },
+  {
+    "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Space Grey",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FK7M3B/A/refurbished-ipad-mini-6-wi-fi-64gb-space-grey",
+    "price": 569.0,
+    "previous_price": 669.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.14947683109118087,
+    "model": "FK7M3B"
+  },
+  {
     "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Starlight",
     "family": "ipad",
     "store": "ie",
@@ -75,17 +108,6 @@
     "savings_price": 100.0,
     "saving_percentage": 0.14947683109118087,
     "model": "FK7P3B"
-  },
-  {
-    "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Purple",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FK7R3B/A/refurbished-ipad-mini-6-wi-fi-64gb-purple",
-    "price": 569.0,
-    "previous_price": 669.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.14947683109118087,
-    "model": "FK7R3B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Space Grey (4th Generation)",
@@ -143,6 +165,17 @@
     "model": "FY2W2B"
   },
   {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Sky Blue (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYFY2B/A/Refurbished-iPad-Air-Wi-Fi-256GB-Sky-Blue-4th-Generation",
+    "price": 699.0,
+    "previous_price": 819.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.14652014652014653,
+    "model": "FYFY2B"
+  },
+  {
     "name": "Refurbished iPad mini 6 Wi-Fi + Cellular 64GB - Purple",
     "family": "ipad",
     "store": "ie",
@@ -163,28 +196,6 @@
     "savings_price": 140.0,
     "saving_percentage": 0.15401540154015403,
     "model": "FHQR3B"
-  },
-  {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 128GB - Silver (3rd Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FHQT3B/A/refurbished-11-inch-ipad-pro-wi-fi-128gb-silver-3rd-generation",
-    "price": 769.0,
-    "previous_price": 909.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.15401540154015403,
-    "model": "FHQT3B"
-  },
-  {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi + Cellular 256GB - Silver (2nd Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FXE52B/A/Refurbished-11-inch-iPad-Pro-Wi-Fi-Cellular-256GB-Silver-2nd-Generation",
-    "price": 779.0,
-    "previous_price": 1079.0,
-    "savings_price": 300.0,
-    "saving_percentage": 0.27803521779425394,
-    "model": "FXE52B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 256GB - Space Grey (4th Generation)",
@@ -713,5 +724,16 @@
     "savings_price": 390.0,
     "saving_percentage": 0.14948256036795707,
     "model": "FHRD3B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 2TB - Silver (5th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FHRE3B/A/refurbished-129-inch-ipad-pro-wi-ficellular-2tb-silver-5th-generation",
+    "price": 2219.0,
+    "previous_price": 2609.0,
+    "savings_price": 390.0,
+    "saving_percentage": 0.14948256036795707,
+    "model": "FHRE3B"
   }
 ]
