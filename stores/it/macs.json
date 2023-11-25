@@ -407,17 +407,6 @@
     "model": "FPHE3T"
   },
   {
-    "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Pro, CPU 10\u2010core e GPU 16\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FPHH3T/A/macbook-pro-14-ricondizionato-con-chip-apple-m2-pro-cpu-10-core-e-gpu-16-core-argento",
-    "price": 2089.0,
-    "previous_price": 2469.0,
-    "savings_price": 380.0,
-    "saving_percentage": 0.15390846496557312,
-    "model": "FPHH3T"
-  },
-  {
     "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core, Gigabit Ethernet - Rosa",
     "family": "mac",
     "store": "it",
@@ -495,6 +484,17 @@
     "model": "G1931T"
   },
   {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Pro, CPU 10\u2010core e GPU 16\u2010core - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G17G2T/A/macbook-pro-14-ricondizionato-con-chip-apple-m2-pro-cpu-10-core-e-gpu-16-core-grigio-siderale",
+    "price": 3249.0,
+    "previous_price": 3249.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17G2T"
+  },
+  {
     "name": "MacBook Pro 16\" ricondizionato con Intel Core i9 8\u2010core a 2,4GHz e display Retina - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -526,6 +526,17 @@
     "savings_price": 660.0,
     "saving_percentage": 0.1493550577053632,
     "model": "FJMW3T"
+  },
+  {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Max, CPU 12\u2010core e GPU 38\u2010core - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G17JCT/A/macbook-pro-14-ricondizionato-con-chip-apple-m2-max-cpu-12-core-e-gpu-38-core-grigio-siderale",
+    "price": 4169.0,
+    "previous_price": 4169.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17JCT"
   },
   {
     "name": "Mac Studio ricondizionato, chip Apple M1 Ultra con CPU 20\u2010core e GPU 48\u2010core",
