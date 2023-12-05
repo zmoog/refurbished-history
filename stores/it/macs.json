@@ -11,17 +11,6 @@
     "model": "FGNR3T"
   },
   {
-    "name": "Mac mini ricondizionato, chip Apple M2 con CPU 8\u2010core e GPU 10\u2010core",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FMFJ3T/A/mac-mini-ricondizionato-chip-apple-m2-con-cpu-8%E2%80%91core-e-gpu-10%E2%80%91core",
-    "price": 619.0,
-    "previous_price": 729.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15089163237311384,
-    "model": "FMFJ3T"
-  },
-  {
     "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Oro",
     "family": "mac",
     "store": "it",
@@ -264,6 +253,17 @@
     "model": "FQKQ3T"
   },
   {
+    "name": "MacBook Air 15\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQKT3T/A/macbook-air-15-pollici-ricondizionato-con-chip-apple-m2-cpu-8%E2%80%91core-e-gpu-10%E2%80%91core-argento",
+    "price": 1599.0,
+    "previous_price": 1879.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.1490154337413518,
+    "model": "FQKT3T"
+  },
+  {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Galassia",
     "family": "mac",
     "store": "it",
@@ -273,6 +273,17 @@
     "savings_price": 280.0,
     "saving_percentage": 0.1490154337413518,
     "model": "FQKV3T"
+  },
+  {
+    "name": "MacBook Air 15\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Mezzanotte",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQKX3T/A/macbook-air-15-ricondizionato-con-chip-apple-m2-cpu-8%E2%80%91core-e-gpu-10%E2%80%91core-mezzanotte",
+    "price": 1599.0,
+    "previous_price": 1879.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.1490154337413518,
+    "model": "FQKX3T"
   },
   {
     "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core, Gigabit Ethernet - Rosa",
