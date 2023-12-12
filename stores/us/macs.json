@@ -11,6 +11,17 @@
     "model": "FME73AM"
   },
   {
+    "name": "Refurbished AirPods Pro (2nd generation)",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FQD83AM/A/Refurbished-AirPods-Pro-2nd-Generation",
+    "price": 209.0,
+    "previous_price": 249.0,
+    "savings_price": 40.0,
+    "saving_percentage": 0.1606425702811245,
+    "model": "FQD83AM"
+  },
+  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Space Gray",
     "family": "mac",
     "store": "us",
@@ -517,6 +528,39 @@
     "model": "G18T0LL"
   },
   {
+    "name": "Refurbished Apple Studio Display, Standard glass, Tilt adjustable stand",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FK0U3LL/A/Refurbished-Apple-Studio-Display-Standard-glass-Tilt-adjustable-stand",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "FK0U3LL"
+  },
+  {
+    "name": "Refurbished Apple Studio Display, Standard glass, VESA mount adapter",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FMYQ3LL/A/Refurbished-Apple-Studio-Display-Standard-glass-VESA-mount-adapter",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "FMYQ3LL"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G15X2LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver",
+    "price": 1369.0,
+    "previous_price": 1369.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15X2LL"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
     "family": "mac",
     "store": "us",
@@ -548,6 +592,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14L3LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Blue",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G14M1LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Blue",
+    "price": 1379.0,
+    "previous_price": 1379.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14M1LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Blue",
@@ -938,17 +993,6 @@
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Green",
     "family": "mac",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/G12V0LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
-    "price": 1559.0,
-    "previous_price": 1559.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G12V0LL"
-  },
-  {
-    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Green",
-    "family": "mac",
-    "store": "us",
     "url": "https://www.apple.com/shop/product/G12V2LL/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
     "price": 1559.0,
     "previous_price": 1559.0,
@@ -1142,6 +1186,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G18U5LL"
+  },
+  {
+    "name": "Refurbished Apple Studio Display, Nano-texture glass, VESA mount adapter",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FMYX3LL/A/Refurbished-Apple-Studio-Display-Nano-texture-glass-VESA-mount-adapter",
+    "price": 1609.0,
+    "previous_price": 1899.0,
+    "savings_price": 290.0,
+    "saving_percentage": 0.15271195365982096,
+    "model": "FMYX3LL"
+  },
+  {
+    "name": "Refurbished Apple Studio Display, Standard glass, Tilt and height adjustable stand",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FK0Q3LL/A/Refurbished-Apple-Studio-Display-Standard-glass-Tilt-and-height-adjustable-stand",
+    "price": 1699.0,
+    "previous_price": 1999.0,
+    "savings_price": 300.0,
+    "saving_percentage": 0.1500750375187594,
+    "model": "FK0Q3LL"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Pro Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Gray",
@@ -1824,17 +1890,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1751LL"
-  },
-  {
-    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU - Space Gray",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G175BLL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-30%E2%80%91core-gpu-space-gray",
-    "price": 3139.0,
-    "previous_price": 3139.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G175BLL"
   },
   {
     "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU",
