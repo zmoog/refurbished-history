@@ -11,17 +11,6 @@
     "model": "FME73AM"
   },
   {
-    "name": "Refurbished AirPods Pro (2nd generation)",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FQD83AM/A/Refurbished-AirPods-Pro-2nd-Generation",
-    "price": 209.0,
-    "previous_price": 249.0,
-    "savings_price": 40.0,
-    "saving_percentage": 0.1606425702811245,
-    "model": "FQD83AM"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Space Gray",
     "family": "mac",
     "store": "us",
@@ -495,17 +484,6 @@
     "model": "FQKX3LL"
   },
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G18P0LL/A/refurbished-15-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver",
-    "price": 1269.0,
-    "previous_price": 1269.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G18P0LL"
-  },
-  {
     "name": "Refurbished 15-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "us",
@@ -548,28 +526,6 @@
     "savings_price": 240.0,
     "saving_percentage": 0.150093808630394,
     "model": "FMYQ3LL"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G15X2LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver",
-    "price": 1369.0,
-    "previous_price": 1369.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G15X2LL"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1612LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-midnight",
-    "price": 1369.0,
-    "previous_price": 1369.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1612LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
@@ -1188,15 +1144,15 @@
     "model": "G18U5LL"
   },
   {
-    "name": "Refurbished Apple Studio Display, Nano-texture glass, VESA mount adapter",
+    "name": "Refurbished Apple Studio Display, Nano-texture glass, Tilt adjustable stand",
     "family": "mac",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FMYX3LL/A/Refurbished-Apple-Studio-Display-Nano-texture-glass-VESA-mount-adapter",
+    "url": "https://www.apple.com/shop/product/FMYW3LL/A/Refurbished-Apple-Studio-Display-Nano-texture-glass-Tilt-adjustable-stand",
     "price": 1609.0,
     "previous_price": 1899.0,
     "savings_price": 290.0,
     "saving_percentage": 0.15271195365982096,
-    "model": "FMYX3LL"
+    "model": "FMYW3LL"
   },
   {
     "name": "Refurbished Apple Studio Display, Standard glass, Tilt and height adjustable stand",
@@ -1837,6 +1793,17 @@
     "model": "G1783LL"
   },
   {
+    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU - Space Gray",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1757LL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-30%E2%80%91core-gpu-space-gray",
+    "price": 2799.0,
+    "previous_price": 2799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1757LL"
+  },
+  {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Space Gray",
     "family": "mac",
     "store": "us",
@@ -1890,6 +1857,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1751LL"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU - Space Gray",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1758LL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-30%E2%80%91core-gpu-space-gray",
+    "price": 3139.0,
+    "previous_price": 3139.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1758LL"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU - Space Gray",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G175BLL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-30%E2%80%91core-gpu-space-gray",
+    "price": 3139.0,
+    "previous_price": 3139.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G175BLL"
   },
   {
     "name": "Refurbished Mac Studio Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU",
@@ -1947,17 +1936,6 @@
     "model": "FQH63LL"
   },
   {
-    "name": "Refurbished 16-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1785LL/A/refurbished-16-inch-macbook-pro-apple-m2-pro-chip-with-12%E2%80%91core-cpu-and-19%E2%80%91core-gpu-silver",
-    "price": 3479.0,
-    "previous_price": 3479.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1785LL"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Space Gray",
     "family": "mac",
     "store": "us",
@@ -1978,17 +1956,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1767LL"
-  },
-  {
-    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1797LL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-38%E2%80%91core-gpu-silver",
-    "price": 3539.0,
-    "previous_price": 3539.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1797LL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU - Space Gray",
@@ -2046,6 +2013,17 @@
     "model": "G1761LL"
   },
   {
+    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1798LL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-38%E2%80%91core-gpu-silver",
+    "price": 3869.0,
+    "previous_price": 3869.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1798LL"
+  },
+  {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Space Gray",
     "family": "mac",
     "store": "us",
@@ -2055,17 +2033,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1765LL"
-  },
-  {
-    "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G17Z8LL/A/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
-    "price": 4079.0,
-    "previous_price": 4079.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G17Z8LL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Space Gray",
@@ -2132,17 +2099,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1769LL"
-  },
-  {
-    "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1799LL/A/refurbished-16-inch-macbook-pro-apple-m2-max-chip-with-12%E2%80%91core-cpu-and-38%E2%80%91core-gpu-silver",
-    "price": 4369.0,
-    "previous_price": 4369.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1799LL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU - Space Gray",
@@ -2332,17 +2288,6 @@
     "model": "G109PLL"
   },
   {
-    "name": "Refurbished Mac Pro Rack Apple M2 Ultra with 24-core CPU and 60-core GPU",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1720LL/A/Refurbished-Mac-Pro-Rack-Apple-M2-Ultra-with-24-core-CPU-and-60-core-GPU",
-    "price": 6369.0,
-    "previous_price": 6369.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1720LL"
-  },
-  {
     "name": "Refurbished Mac Pro 3.3GHz 12-core Intel Xeon W, Radeon Pro W5700X",
     "family": "mac",
     "store": "us",
@@ -2484,6 +2429,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G144LLL"
+  },
+  {
+    "name": "Refurbished Mac Pro 3.2GHz 16-core Intel Xeon W, Radeon Pro W5700X",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G144HLL/A/Refurbished-Mac-Pro-32GHz-16-core-Intel-Xeon-W-Radeon-Pro-W5700X",
+    "price": 8409.0,
+    "previous_price": 8409.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G144HLL"
   },
   {
     "name": "Refurbished Mac Pro 2.5GHz 28-core Intel Xeon W, Radeon Pro 580X",
