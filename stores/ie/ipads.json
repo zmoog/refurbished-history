@@ -1,5 +1,38 @@
 [
   {
+    "name": "Refurbished iPad Wi-Fi 32GB - Gold (8th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYLC2B/A/Refurbished-iPad-Wi-Fi-32GB-Gold-8th-Generation",
+    "price": 329.0,
+    "previous_price": 389.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.15424164524421594,
+    "model": "FYLC2B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 128GB - Silver (8th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYLE2B/A/Refurbished-iPad-Wi-Fi-128GB-Silver-8th-Generation",
+    "price": 409.0,
+    "previous_price": 489.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.16359918200409,
+    "model": "FYLE2B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 128GB - Gold (8th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FYLF2B/A/Refurbished-iPad-Wi-Fi-128GB-Gold-8th-Generation",
+    "price": 409.0,
+    "previous_price": 489.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.16359918200409,
+    "model": "FYLF2B"
+  },
+  {
     "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Starlight",
     "family": "ipad",
     "store": "ie",
@@ -64,17 +97,6 @@
     "savings_price": 130.0,
     "saving_percentage": 0.14959723820483314,
     "model": "FLX43B"
-  },
-  {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 128GB - Space Grey (3rd Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FHQR3B/A/refurbished-11-inch-ipad-pro-wi-fi-128gb-space-grey-3rd-generation",
-    "price": 769.0,
-    "previous_price": 909.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.15401540154015403,
-    "model": "FHQR3B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 256GB - Space Grey (4th Generation)",
@@ -152,6 +174,28 @@
     "savings_price": 160.0,
     "saving_percentage": 0.14967259120673526,
     "model": "FLX93B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 256GB - Space Grey (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FXF52B/A/refurbished-129-inch-ipad-pro-wi-fi-cellular-256gb-space-grey-4th-generation",
+    "price": 909.0,
+    "previous_price": 1339.0,
+    "savings_price": 430.0,
+    "saving_percentage": 0.32113517550410753,
+    "model": "FXF52B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 256GB - Silver (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FXF62B/A/refurbished-129-inch-ipad-pro-wi-fi-data-256gb-silver-4th-generation",
+    "price": 909.0,
+    "previous_price": 1339.0,
+    "savings_price": 430.0,
+    "saving_percentage": 0.32113517550410753,
+    "model": "FXF62B"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 128GB - Space Grey (3rd Generation)",
@@ -242,6 +286,39 @@
     "model": "FHQX3B"
   },
   {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 512GB - Space Grey (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FXF72B/A/refurbished-129-inch-ipad-pro-wi-fi-cellular-512gb-space-grey-4th-generation",
+    "price": 1059.0,
+    "previous_price": 1559.0,
+    "savings_price": 500.0,
+    "saving_percentage": 0.3207184092366902,
+    "model": "FXF72B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 512GB - Silver (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FXF82B/A/refurbished-129-inch-ipad-pro-wi-fi-data-512gb-silver-4th-generation",
+    "price": 1059.0,
+    "previous_price": 1559.0,
+    "savings_price": 500.0,
+    "saving_percentage": 0.3207184092366902,
+    "model": "FXF82B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 1TB - Silver (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FXAY2B/A/refurbished-129-inch-ipad-pro-wi-fi-1tb-silver-4th-generation",
+    "price": 1099.0,
+    "previous_price": 1609.0,
+    "savings_price": 510.0,
+    "saving_percentage": 0.31696706028589183,
+    "model": "FXAY2B"
+  },
+  {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi + Cellular 1TB - Space Grey (2nd Generation)",
     "family": "ipad",
     "store": "ie",
@@ -306,6 +383,17 @@
     "savings_price": 210.0,
     "saving_percentage": 0.149041873669269,
     "model": "FHWA3B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 1TB - Space Grey (4th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FXF92B/A/refurbished-129-inch-ipad-pro-wi-fi-cellular-1tb-space-grey-4th-generation",
+    "price": 1219.0,
+    "previous_price": 1779.0,
+    "savings_price": 560.0,
+    "saving_percentage": 0.31478358628442943,
+    "model": "FXF92B"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 256GB - Space Grey (5th Generation)",
