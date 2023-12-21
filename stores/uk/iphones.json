@@ -1,5 +1,27 @@
 [
   {
+    "name": "Refurbished iPhone 12 mini 64GB - Blue (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGE13B/A/refurbished-iphone-12-mini-64gb-blue-sim-free",
+    "price": 359.0,
+    "previous_price": 579.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.3799654576856649,
+    "model": "FGE13B"
+  },
+  {
+    "name": "Refurbished iPhone 12 mini 64GB - Green (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGE23B/A/refurbished-iphone-12-mini-64gb-green-sim-free",
+    "price": 359.0,
+    "previous_price": 579.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.3799654576856649,
+    "model": "FGE23B"
+  },
+  {
     "name": "Refurbished iPhone 12 mini 128GB - Black (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -22,15 +44,15 @@
     "model": "FGE43B"
   },
   {
-    "name": "Refurbished iPhone 12 mini 128GB - Green (SIM-Free)",
+    "name": "Refurbished iPhone 12 64GB - Black (SIM-Free)",
     "family": "iphone",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FGE73B/A/refurbished-iphone-12-mini-128gb-green-sim-free",
-    "price": 399.0,
-    "previous_price": 629.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.3656597774244833,
-    "model": "FGE73B"
+    "url": "https://www.apple.com/uk/shop/product/FGJ53B/A/refurbished-iphone-12-64gb-black-sim-free",
+    "price": 419.0,
+    "previous_price": 499.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.16032064128256512,
+    "model": "FGJ53B"
   },
   {
     "name": "Refurbished iPhone 12 128GB - Black (SIM-Free)",
@@ -209,15 +231,15 @@
     "model": "FLQ63B"
   },
   {
-    "name": "Refurbished iPhone 13 256GB - Starlight (SIM-Free)",
+    "name": "Refurbished iPhone 13 256GB - Pink (SIM-Free)",
     "family": "iphone",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FLQ73B/A/refurbished-iphone-13-256gb-starlight-sim-free",
+    "url": "https://www.apple.com/uk/shop/product/FLQ83B/A/refurbished-iphone-13-256gb-pink-sim-free",
     "price": 589.0,
     "previous_price": 699.0,
     "savings_price": 110.0,
     "saving_percentage": 0.15736766809728184,
-    "model": "FLQ73B"
+    "model": "FLQ83B"
   },
   {
     "name": "Refurbished iPhone 13 256GB - Green (SIM-Free)",
@@ -539,6 +561,17 @@
     "model": "FLLD3B"
   },
   {
+    "name": "Refurbished iPhone 13 Pro Max 256GB - Sierra Blue (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FLLE3B/A/refurbished-iphone-13-pro-max-256gb-sierra-blue-sim-free",
+    "price": 849.0,
+    "previous_price": 1149.0,
+    "savings_price": 300.0,
+    "saving_percentage": 0.26109660574412535,
+    "model": "FLLE3B"
+  },
+  {
     "name": "Refurbished iPhone 13 Pro Max 256GB - Alpine Green (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -636,6 +669,50 @@
     "savings_price": 330.0,
     "saving_percentage": 0.2446256486286138,
     "model": "FLLJ3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 512GB - Alpine Green (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FND13B/A/refurbished-iphone-13-pro-max-512gb-alpine-green-sim-free",
+    "price": 1019.0,
+    "previous_price": 1349.0,
+    "savings_price": 330.0,
+    "saving_percentage": 0.2446256486286138,
+    "model": "FND13B"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 1TB - Graphite (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FLLK3B/A/refurbished-iphone-13-pro-max-1tb-graphite-sim-free",
+    "price": 1189.0,
+    "previous_price": 1549.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.23240800516462234,
+    "model": "FLLK3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 1TB - Silver (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FLLL3B/A/refurbished-iphone-13-pro-max-1tb-silver-sim-free",
+    "price": 1189.0,
+    "previous_price": 1549.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.23240800516462234,
+    "model": "FLLL3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 1TB - Gold (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FLLM3B/A/refurbished-iphone-13-pro-max-1tb-gold-sim-free",
+    "price": 1189.0,
+    "previous_price": 1549.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.23240800516462234,
+    "model": "FLLM3B"
   },
   {
     "name": "Refurbished iPhone 13 Pro Max 1TB - Sierra Blue (SIM-Free)",
