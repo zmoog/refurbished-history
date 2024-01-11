@@ -44,6 +44,17 @@
     "model": "FGE63B"
   },
   {
+    "name": "Refurbished iPhone 12 mini 128GB - Green (SIM-Free)",
+    "family": "iphone",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FGE73B/A/refurbished-iphone-12-mini-128gb-green-sim-free",
+    "price": 509.0,
+    "previous_price": 759.0,
+    "savings_price": 250.0,
+    "saving_percentage": 0.32938076416337286,
+    "model": "FGE73B"
+  },
+  {
     "name": "Refurbished iPhone 12 128GB - Black (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -174,17 +185,6 @@
     "savings_price": 310.0,
     "saving_percentage": 0.2927289896128423,
     "model": "FGML3B"
-  },
-  {
-    "name": "Refurbished iPhone 12 Pro 128GB - Pacific Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FGMN3B/A/refurbished-iphone-12-pro-128gb-pacific-blue-sim-free",
-    "price": 749.0,
-    "previous_price": 1059.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.2927289896128423,
-    "model": "FGMN3B"
   },
   {
     "name": "Refurbished iPhone 12 Pro Max 128GB - Graphite (SIM-Free)",
@@ -330,17 +330,6 @@
     "model": "FNE33B"
   },
   {
-    "name": "Refurbished iPhone 13 512GB - Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLQG3B/A/refurbished-iphone-13-512gb-blue-sim-free",
-    "price": 969.0,
-    "previous_price": 1139.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.14925373134328357,
-    "model": "FLQG3B"
-  },
-  {
     "name": "Refurbished iPhone 13 512GB - Midnight (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -361,6 +350,17 @@
     "savings_price": 170.0,
     "saving_percentage": 0.14925373134328357,
     "model": "FLQD3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 512GB - Blue (SIM-Free)",
+    "family": "iphone",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FLQG3B/A/refurbished-iphone-13-512gb-blue-sim-free",
+    "price": 969.0,
+    "previous_price": 1139.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.14925373134328357,
+    "model": "FLQG3B"
   },
   {
     "name": "Refurbished iPhone 12 Pro 512GB - Graphite (SIM-Free)",
