@@ -33,17 +33,6 @@
     "model": "FXNF2B"
   },
   {
-    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FMFK3B/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu",
-    "price": 819.0,
-    "previous_price": 959.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.145985401459854,
-    "model": "FMFK3B"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ie",
@@ -207,17 +196,6 @@
     "savings_price": 370.0,
     "saving_percentage": 0.22713321055862493,
     "model": "FNEP3B"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G15S3B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-space-gray",
-    "price": 1339.0,
-    "previous_price": 1339.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G15S3B"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Silver",
@@ -429,17 +407,6 @@
     "model": "G160CB"
   },
   {
-    "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G16R0B/A/Refurbished-13-inch-MacBook-Pro-Apple-M2-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Gray",
-    "price": 1439.0,
-    "previous_price": 1439.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16R0B"
-  },
-  {
     "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
     "family": "mac",
     "store": "ie",
@@ -561,17 +528,6 @@
     "model": "G18T0B"
   },
   {
-    "name": "Refurbished 13-inch MacBook Pro Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G16S2B/A/Refurbished-13-inch-MacBook-Pro-Apple-M2-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Gray",
-    "price": 1609.0,
-    "previous_price": 1609.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16S2B"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
     "family": "mac",
     "store": "ie",
@@ -669,28 +625,6 @@
     "savings_price": 435.0,
     "saving_percentage": 0.20384254920337394,
     "model": "FKGP3B"
-  },
-  {
-    "name": "Refurbished 14-inch MacBook Pro Apple M1 Pro Chip with 8\u2010Core CPU and 14\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FKGR3B/A/refurbished-14-inch-macbook-pro-apple-m1-pro-chip-with-8%E2%80%91core-cpu-and-14%E2%80%91core-gpu-silver",
-    "price": 1699.0,
-    "previous_price": 2134.0,
-    "savings_price": 435.0,
-    "saving_percentage": 0.20384254920337394,
-    "model": "FKGR3B"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G1605B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight",
-    "price": 1749.0,
-    "previous_price": 1749.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1605B"
   },
   {
     "name": "Refurbished 15-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
@@ -1164,6 +1098,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G17M3B"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M1 Max Chip with 10\u2010Core CPU and 32\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G15HDB/A/refurbished-14-inch-macbook-pro-apple-m1-pro-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu-space-gray",
+    "price": 3669.0,
+    "previous_price": 3669.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15HDB"
   },
   {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 48\u2010Core GPU",
