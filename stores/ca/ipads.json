@@ -1,5 +1,27 @@
 [
   {
+    "name": "Refurbished Apple Pencil",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FK0C2AM/A/refurbished-apple-pencil",
+    "price": 109.0,
+    "previous_price": 129.0,
+    "savings_price": 20.0,
+    "saving_percentage": 0.15503875968992248,
+    "model": "FK0C2AM"
+  },
+  {
+    "name": "Refurbished Apple Pencil (2nd Generation)",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FU8F2AM/A/refurbished-apple-pencil-2nd-generation",
+    "price": 139.0,
+    "previous_price": 169.0,
+    "savings_price": 30.0,
+    "saving_percentage": 0.17751479289940827,
+    "model": "FU8F2AM"
+  },
+  {
     "name": "Refurbished AirPods (3rd generation) with MagSafe Charging Case",
     "family": "ipad",
     "store": "ca",
@@ -9,6 +31,17 @@
     "savings_price": 40.0,
     "saving_percentage": 0.16736401673640167,
     "model": "FME73AM"
+  },
+  {
+    "name": "Refurbished AirPods Pro (2nd generation)",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FQD83AM/A/Refurbished-AirPods-Pro-2nd-Generation",
+    "price": 279.0,
+    "previous_price": 329.0,
+    "savings_price": 50.0,
+    "saving_percentage": 0.1519756838905775,
+    "model": "FQD83AM"
   },
   {
     "name": "Refurbished iPad mini 5 Wi-Fi 64GB - Space Grey",

@@ -1,5 +1,27 @@
 [
   {
+    "name": "Refurbished Apple Pencil",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FK0C2AM/A/refurbished-apple-pencil",
+    "price": 85.0,
+    "previous_price": 99.0,
+    "savings_price": 14.0,
+    "saving_percentage": 0.1414141414141414,
+    "model": "FK0C2AM"
+  },
+  {
+    "name": "Refurbished Apple Pencil (2nd Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FU8F2AM/A/refurbished-apple-pencil-2nd-generation",
+    "price": 109.0,
+    "previous_price": 129.0,
+    "savings_price": 20.0,
+    "saving_percentage": 0.15503875968992248,
+    "model": "FU8F2AM"
+  },
+  {
     "name": "Refurbished AirPods (3rd generation) with MagSafe Charging Case",
     "family": "ipad",
     "store": "us",
@@ -9,6 +31,17 @@
     "savings_price": 30.0,
     "saving_percentage": 0.16759776536312848,
     "model": "FME73AM"
+  },
+  {
+    "name": "Refurbished AirPods Pro (2nd generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FQD83AM/A/Refurbished-AirPods-Pro-2nd-Generation",
+    "price": 209.0,
+    "previous_price": 249.0,
+    "savings_price": 40.0,
+    "saving_percentage": 0.1606425702811245,
+    "model": "FQD83AM"
   },
   {
     "name": "Refurbished iPad Wi-Fi 128GB - Silver (8th Generation)",
