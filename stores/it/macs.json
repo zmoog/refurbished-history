@@ -132,17 +132,6 @@
     "model": "FGNE3T"
   },
   {
-    "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FGTF3T/A/iMac-24-ricondizionato-con-chip-Apple-M1-CPU-8%E2%80%91core-e-GPU-7%E2%80%91core-Argento",
-    "price": 1259.0,
-    "previous_price": 1569.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.1975780752071383,
-    "model": "FGTF3T"
-  },
-  {
     "name": "MacBook Pro 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -330,6 +319,17 @@
     "model": "FMYW3T"
   },
   {
+    "name": "Mac mini ricondizionato con Intel Core i7 6-core a 3,2GHz - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G0ZTXT/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 1749.0,
+    "previous_price": 1749.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G0ZTXT"
+  },
+  {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Galassia",
     "family": "mac",
     "store": "it",
@@ -361,6 +361,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1254T"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M2 Max con CPU 12\u2010core e GPU 30\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQH73T/A/Mac-Studio-ricondizionato-chip-Apple-M2-Max-con-CPU-12%E2%80%91core-e-GPU-30-core",
+    "price": 2079.0,
+    "previous_price": 2449.0,
+    "savings_price": 370.0,
+    "saving_percentage": 0.15108207431604737,
+    "model": "FQH73T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Pro, CPU 10\u2010core e GPU 16\u2010core - Grigio siderale",
@@ -427,6 +438,17 @@
     "savings_price": 500.0,
     "saving_percentage": 0.15019525382997898,
     "model": "FNWD3T"
+  },
+  {
+    "name": "Mac mini ricondizionato con Intel Core i7 6-core a 3,2GHz e 10Gb Ethernet - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G11LCT/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray",
+    "price": 3129.0,
+    "previous_price": 3129.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G11LCT"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M2 Pro, CPU 12\u2010core e GPU 19\u2010core - Grigio siderale",

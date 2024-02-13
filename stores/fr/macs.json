@@ -165,17 +165,6 @@
     "model": "FJV83FN"
   },
   {
-    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 7 c\u0153urs - Bleu",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FJV93FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-7-c%C5%93urs-Bleu",
-    "price": 1219.0,
-    "previous_price": 1539.0,
-    "savings_price": 320.0,
-    "saving_percentage": 0.2079272254710851,
-    "model": "FJV93FN"
-  },
-  {
     "name": "MacBook Pro 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -418,17 +407,6 @@
     "model": "FQKT3F"
   },
   {
-    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Minuit",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/G18T0F/A/macbook-air-15-pouces-reconditionn%C3%A9-avec-puce-apple-m2-cpu-8-c%C5%93urs-et-gpu-10-c%C5%93urs-minuit",
-    "price": 1549.0,
-    "previous_price": 1549.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G18T0F"
-  },
-  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Argent",
     "family": "mac",
     "store": "fr",
@@ -449,6 +427,28 @@
     "savings_price": 400.0,
     "saving_percentage": 0.2001000500250125,
     "model": "FGPG3FN"
+  },
+  {
+    "name": "MacBook Air 13,3 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Gris side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G1253FN/A/macbook-air-133-pouces-reconditionn%C3%A9-avec-puce-apple-m1-cpu-8-c%C5%93urs-et-gpu-8-c%C5%93urs-gris-sid%C3%A9ral",
+    "price": 1599.0,
+    "previous_price": 1599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1253FN"
+  },
+  {
+    "name": "MacBook Air 13,3 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Or",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G12B3FN/A/macbook-air-133-pouces-reconditionn%C3%A9-avec-puce-apple-m1-cpu-8-c%C5%93urs-et-gpu-8-c%C5%93urs-or",
+    "price": 1599.0,
+    "previous_price": 1599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12B3FN"
   },
   {
     "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Minuit",
@@ -638,6 +638,28 @@
     "model": "G1333FN"
   },
   {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 30 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FQH73F/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Max-CPU-12-c%C5%93urs-et-GPU-30-c%C5%93urs",
+    "price": 2039.0,
+    "previous_price": 2399.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.15006252605252188,
+    "model": "FQH73F"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 30 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G17Z0F/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Max-CPU-12-c%C5%93urs-et-GPU-30-c%C5%93urs",
+    "price": 2229.0,
+    "previous_price": 2229.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17Z0F"
+  },
+  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Jaune",
     "family": "mac",
     "store": "fr",
@@ -660,6 +682,50 @@
     "model": "G1314FN"
   },
   {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 38 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G17ZAF/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Max-CPU-12-c%C5%93urs-et-GPU-38-c%C5%93urs",
+    "price": 2429.0,
+    "previous_price": 2429.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17ZAF"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 30 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G17Z1F/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Max-CPU-12-c%C5%93urs-et-GPU-30-c%C5%93urs",
+    "price": 2629.0,
+    "previous_price": 2629.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17Z1F"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 38 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G17ZMF/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Max-CPU-12-c%C5%93urs-et-GPU-38-c%C5%93urs",
+    "price": 3599.0,
+    "previous_price": 3599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17ZMF"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Ultra, CPU 24 c\u0153urs et GPU 60 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FQH63F/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Ultra-CPU-24-c%C5%93urs-et-GPU-60-c%C5%93urs",
+    "price": 4079.0,
+    "previous_price": 4799.0,
+    "savings_price": 720.0,
+    "saving_percentage": 0.1500312565117733,
+    "model": "FQH63F"
+  },
+  {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M1 Max, CPU 10 c\u0153urs et GPU 32 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -680,6 +746,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1506F"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Ultra, CPU 24 c\u0153urs et GPU 60 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G1807F/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Ultra-CPU-24-c%C5%93urs-et-GPU-60-c%C5%93urs",
+    "price": 5639.0,
+    "previous_price": 5639.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1807F"
   },
   {
     "name": "Mac Pro (rack) reconditionne\u0301 avec puce Apple M2 Ultra, CPU 24 c\u0153urs et GPU 60 c\u0153urs",
