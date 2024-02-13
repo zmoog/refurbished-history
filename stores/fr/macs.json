@@ -55,17 +55,6 @@
     "model": "FGND3FN"
   },
   {
-    "name": "Mac mini reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs, GPU 8 c\u0153urs et 10 Gigabit Ethernet",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/G12P6FN/A/Refurbished-Mac-mini-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-10GB-Ethernet",
-    "price": 1029.0,
-    "previous_price": 1029.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G12P6FN"
-  },
-  {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -119,17 +108,6 @@
     "savings_price": 340.0,
     "saving_percentage": 0.23464458247066944,
     "model": "FYDA2FN"
-  },
-  {
-    "name": "Mac mini reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/G12P7FN/A/mac%C2%A0mini-reconditionn%C3%A9-avec-puce-apple-m1-cpu-8-c%C5%93urs-et-gpu-8-c%C5%93urs",
-    "price": 1129.0,
-    "previous_price": 1129.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G12P7FN"
   },
   {
     "name": "MacBook Air 13,3 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 7 c\u0153urs - Gris side\u0301ral",
@@ -196,6 +174,17 @@
     "savings_price": 320.0,
     "saving_percentage": 0.2079272254710851,
     "model": "FJV83FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 7 c\u0153urs - Bleu",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FJV93FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-7-c%C5%93urs-Bleu",
+    "price": 1219.0,
+    "previous_price": 1539.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.2079272254710851,
+    "model": "FJV93FN"
   },
   {
     "name": "MacBook Pro 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
@@ -275,6 +264,17 @@
     "model": "FQKU3F"
   },
   {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Minuit",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FQKW3F/A/macbook-air-15-pouces-reconditionn%C3%A9-avec-puce-apple-m2-cpu-8-c%C5%93urs-et-gpu-10-c%C5%93urs-minuit",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "FQKW3F"
+  },
+  {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -330,6 +330,28 @@
     "model": "FGPC3FN"
   },
   {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Vert",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FGPH3FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1409.0,
+    "previous_price": 1769.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.2035048049745619,
+    "model": "FGPH3FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Bleu",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FGPK3FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1409.0,
+    "previous_price": 1769.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.2035048049745619,
+    "model": "FGPK3FN"
+  },
+  {
     "name": "MacBook Pro 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -355,12 +377,34 @@
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 7 c\u0153urs - Argent",
     "family": "mac",
     "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G13K0FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-7-c%C5%93urs-Argent",
+    "price": 1419.0,
+    "previous_price": 1419.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G13K0FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 7 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/G13K2FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-7-c%C5%93urs-Argent",
     "price": 1419.0,
     "previous_price": 1419.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G13K2FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 7 c\u0153urs - Bleu",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G14M2FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-7-c%C5%93urs-Bleu",
+    "price": 1419.0,
+    "previous_price": 1419.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14M2FN"
   },
   {
     "name": "Mac mini reconditionne\u0301 avec processeur Intel Core i7 hexac\u0153ur a\u0300 3,2 GHz - Gris side\u0301ral",
@@ -374,6 +418,17 @@
     "model": "G0ZTVFN"
   },
   {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FQKQ3F/A/macbook-air-15-pouces-reconditionn%C3%A9-avec-puce-apple-m2-cpu-8-c%C5%93urs-et-gpu-10-c%C5%93urs-gris-sid%C3%A9ral",
+    "price": 1549.0,
+    "previous_price": 1829.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.1530891197375615,
+    "model": "FQKQ3F"
+  },
+  {
     "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Argent",
     "family": "mac",
     "store": "fr",
@@ -383,6 +438,17 @@
     "savings_price": 280.0,
     "saving_percentage": 0.1530891197375615,
     "model": "FQKT3F"
+  },
+  {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Minuit",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G18T0F/A/macbook-air-15-pouces-reconditionn%C3%A9-avec-puce-apple-m2-cpu-8-c%C5%93urs-et-gpu-10-c%C5%93urs-minuit",
+    "price": 1549.0,
+    "previous_price": 1549.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G18T0F"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Argent",
@@ -407,15 +473,26 @@
     "model": "FGPG3FN"
   },
   {
-    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Bleu",
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Minuit",
     "family": "mac",
     "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FGPL3FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
-    "price": 1599.0,
-    "previous_price": 1999.0,
-    "savings_price": 400.0,
-    "saving_percentage": 0.2001000500250125,
-    "model": "FGPL3FN"
+    "url": "https://www.apple.com/fr/shop/product/G18U0F/A/macbook-air-15-pouces-reconditionn%C3%A9-avec-puce-apple-m2-cpu-8-c%C5%93urs-et-gpu-10-c%C5%93urs-minuit",
+    "price": 1749.0,
+    "previous_price": 1749.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G18U0F"
+  },
+  {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Minuit",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G18U2F/A/macbook-air-15-pouces-reconditionn%C3%A9-avec-puce-apple-m2-cpu-8-c%C5%93urs-et-gpu-10-c%C5%93urs-minuit",
+    "price": 1749.0,
+    "previous_price": 1749.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G18U2F"
   },
   {
     "name": "MacBook Air 13,3 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Argent",
@@ -432,12 +509,67 @@
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Argent",
     "family": "mac",
     "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G12R0FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1799.0,
+    "previous_price": 1799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12R0FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Argent",
+    "family": "mac",
+    "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/G12R2FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
     "price": 1799.0,
     "previous_price": 1799.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G12R2FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Vert",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G12V0FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1799.0,
+    "previous_price": 1799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12V0FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Vert",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G12V2FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1799.0,
+    "previous_price": 1799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12V2FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Bleu",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G12X0FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1799.0,
+    "previous_price": 1799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12X0FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Bleu",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G12X2FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1799.0,
+    "previous_price": 1799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G12X2FN"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Orange",
@@ -449,6 +581,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1330FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Orange",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G1332FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1799.0,
+    "previous_price": 1799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1332FN"
+  },
+  {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 7 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G13K4FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-7-c%C5%93urs-Argent",
+    "price": 1809.0,
+    "previous_price": 1809.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G13K4FN"
   },
   {
     "name": "MacBook Air 13,3 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Gris side\u0301ral",
@@ -495,6 +649,17 @@
     "model": "G12X3FN"
   },
   {
+    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Violet",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G1313FN/A/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M1-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gigabit-Ethernet-Argent",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1313FN"
+  },
+  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Orange",
     "family": "mac",
     "store": "fr",
@@ -504,17 +669,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1333FN"
-  },
-  {
-    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M2 Pro, CPU 10 c\u0153urs et GPU 16 c\u0153urs - Gris side\u0301ral",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FPHE3F/A/macbook-pro-14-pouces-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-10-c%C5%93urs-et-gpu-16-c%C5%93urs-gris-sid%C3%A9ral",
-    "price": 2009.0,
-    "previous_price": 2369.0,
-    "savings_price": 360.0,
-    "saving_percentage": 0.15196285352469396,
-    "model": "FPHE3F"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Jaune",
