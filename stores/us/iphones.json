@@ -22,17 +22,6 @@
     "model": "FQD83AM"
   },
   {
-    "name": "Refurbished iPhone 13 mini 128GB - Midnight (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FLHM3LL/A/refurbished-iphone-13-mini-128gb-midnight-unlocked",
-    "price": 449.0,
-    "previous_price": 629.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.2861685214626391,
-    "model": "FLHM3LL"
-  },
-  {
     "name": "Refurbished iPhone 12 mini 256GB - Black (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -64,6 +53,17 @@
     "savings_price": 270.0,
     "saving_percentage": 0.3465982028241335,
     "model": "FJQA3LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 128GB - Midnight (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLML3LL/A/refurbished-iphone-13-128gb-midnight-unlocked",
+    "price": 529.0,
+    "previous_price": 629.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.1589825119236884,
+    "model": "FLML3LL"
   },
   {
     "name": "Refurbished iPhone 12 Pro Max 128GB - Graphite (Unlocked)",
