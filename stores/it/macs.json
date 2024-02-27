@@ -1,5 +1,16 @@
 [
   {
+    "name": "Mac mini ricondizionato, chip Apple M2 con CPU 8\u2010core e GPU 10\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FMFJ3T/A/mac-mini-ricondizionato-chip-apple-m2-con-cpu-8%E2%80%91core-e-gpu-10%E2%80%91core",
+    "price": 619.0,
+    "previous_price": 729.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15089163237311384,
+    "model": "FMFJ3T"
+  },
+  {
     "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -31,6 +42,17 @@
     "savings_price": 240.0,
     "saving_percentage": 0.19528071602929212,
     "model": "FGND3T"
+  },
+  {
+    "name": "Mac mini ricondizionato, chip Apple M2 con CPU 8\u2010core e GPU 10\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G16L5T/A/mac-mini-ricondizionato-chip-apple-m2-con-cpu-8%E2%80%91core-e-gpu-10%E2%80%91core",
+    "price": 1009.0,
+    "previous_price": 1009.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G16L5T"
   },
   {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Galassia",
@@ -220,17 +242,6 @@
     "model": "FTL73T"
   },
   {
-    "name": "Apple Studio Display ricondizionato, vetro nanotexture, sostegno a inclinazione regolabile",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FMYW3T/A/Apple-Studio-Display-ricondizionato-vetro-nanotexture-sostegno-a-inclinazione-regolabile",
-    "price": 1739.0,
-    "previous_price": 2049.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.15129331381161543,
-    "model": "FMYW3T"
-  },
-  {
     "name": "Mac mini ricondizionato con Intel Core i7 6-core a 3,2GHz - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -284,17 +295,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G12R3T"
-  },
-  {
-    "name": "Mac Studio ricondizionato, chip Apple M2 Max con CPU 12\u2010core e GPU 30\u2010core",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FQH73T/A/Mac-Studio-ricondizionato-chip-Apple-M2-Max-con-CPU-12%E2%80%91core-e-GPU-30-core",
-    "price": 2079.0,
-    "previous_price": 2449.0,
-    "savings_price": 370.0,
-    "saving_percentage": 0.15108207431604737,
-    "model": "FQH73T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Pro, CPU 10\u2010core e GPU 16\u2010core - Grigio siderale",
