@@ -176,17 +176,6 @@
     "model": "FNEP3F"
   },
   {
-    "name": "Mac mini reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs, GPU 10 c\u0153urs et 10 Gigabit Ethernet",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/G16LCF/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-cpu-8-c%C5%93urs-gpu-10-c%C5%93urs-et-10-gigabit-ethernet",
-    "price": 1269.0,
-    "previous_price": 1269.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16LCF"
-  },
-  {
     "name": "MacBook Pro 13,3 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -636,6 +625,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14X6F"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Ultra, CPU 24 c\u0153urs et GPU 76 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G180KF/A/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M2-Ultra-CPU-24-c%C5%93urs-et-GPU-76-c%C5%93urs",
+    "price": 6619.0,
+    "previous_price": 6619.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G180KF"
   },
   {
     "name": "Mac Pro reconditionne\u0301 avec puce Apple M2 Ultra, CPU 24 c\u0153urs et GPU 60 c\u0153urs",
