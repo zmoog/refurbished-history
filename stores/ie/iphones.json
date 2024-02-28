@@ -165,17 +165,6 @@
     "model": "FGMN3B"
   },
   {
-    "name": "Refurbished iPhone 13 256GB - Midnight (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLQ63B/A/refurbished-iphone-13-256gb-midnight-sim-free",
-    "price": 759.0,
-    "previous_price": 889.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.14623172103487064,
-    "model": "FLQ63B"
-  },
-  {
     "name": "Refurbished iPhone 12 Pro Max 128GB - Silver (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -297,17 +286,6 @@
     "model": "FNE33B"
   },
   {
-    "name": "Refurbished iPhone 13 512GB - Starlight (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLQD3B/A/refurbished-iphone-13-512gb-starlight-sim-free",
-    "price": 969.0,
-    "previous_price": 1139.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.14925373134328357,
-    "model": "FLQD3B"
-  },
-  {
     "name": "Refurbished iPhone 13 512GB - Blue (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -317,6 +295,17 @@
     "savings_price": 170.0,
     "saving_percentage": 0.14925373134328357,
     "model": "FLQG3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 512GB - Starlight (SIM-Free)",
+    "family": "iphone",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FLQD3B/A/refurbished-iphone-13-512gb-starlight-sim-free",
+    "price": 969.0,
+    "previous_price": 1139.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.14925373134328357,
+    "model": "FLQD3B"
   },
   {
     "name": "Refurbished iPhone 13 512GB - Green (SIM-Free)",
@@ -438,17 +427,6 @@
     "savings_price": 370.0,
     "saving_percentage": 0.2419882275997384,
     "model": "FNE43B"
-  },
-  {
-    "name": "Refurbished iPhone 13 Pro Max 512GB - Gold (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLLH3B/A/refurbished-iphone-13-pro-max-512gb-gold-sim-free",
-    "price": 1279.0,
-    "previous_price": 1629.0,
-    "savings_price": 350.0,
-    "saving_percentage": 0.21485573971761818,
-    "model": "FLLH3B"
   },
   {
     "name": "Refurbished iPhone 13 Pro 1TB - Graphite (SIM-Free)",
