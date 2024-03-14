@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FK0C2AM/A/refurbished-apple-pencil",
-    "price": 85.0,
-    "previous_price": 99.0,
-    "savings_price": 14.0,
-    "saving_percentage": 0.1414141414141414,
-    "model": "FK0C2AM"
-  },
-  {
     "name": "Refurbished Apple Pencil (2nd Generation)",
     "family": "ipad",
     "store": "us",
@@ -537,6 +526,17 @@
     "savings_price": 200.0,
     "saving_percentage": 0.14825796886582654,
     "model": "FHNK3LL"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 512GB - Silver (5th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FHNL3LL/A/refurbished-129-inch-ipad-pro-wi-fi-512gb-silver-5th-generation",
+    "price": 1149.0,
+    "previous_price": 1349.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.14825796886582654,
+    "model": "FHNL3LL"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 256GB - Space Gray (5th Generation)",
