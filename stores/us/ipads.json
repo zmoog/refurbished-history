@@ -22,28 +22,6 @@
     "model": "FU8F2AM"
   },
   {
-    "name": "Refurbished AirPods (3rd generation) with MagSafe Charging Case",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FME73AM/A/refurbished-airpods-3rd-generation-with-magsafe-charging-case",
-    "price": 149.0,
-    "previous_price": 179.0,
-    "savings_price": 30.0,
-    "saving_percentage": 0.16759776536312848,
-    "model": "FME73AM"
-  },
-  {
-    "name": "Refurbished AirPods Pro (2nd generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FQD83AM/A/Refurbished-AirPods-Pro-2nd-Generation",
-    "price": 209.0,
-    "previous_price": 249.0,
-    "savings_price": 40.0,
-    "saving_percentage": 0.1606425702811245,
-    "model": "FQD83AM"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 128GB - Gold (8th Generation)",
     "family": "ipad",
     "store": "us",
@@ -550,15 +528,26 @@
     "model": "FHNT3LL"
   },
   {
-    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 512GB - Silver (5th Generation)",
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 512GB - Space Gray (5th Generation)",
     "family": "ipad",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FHNL3LL/A/refurbished-129-inch-ipad-pro-wi-fi-512gb-silver-5th-generation",
+    "url": "https://www.apple.com/shop/product/FHNK3LL/A/refurbished-129-inch-ipad-pro-wi-fi-512gb-space-gray-5th-generation",
     "price": 1149.0,
     "previous_price": 1349.0,
     "savings_price": 200.0,
     "saving_percentage": 0.14825796886582654,
-    "model": "FHNL3LL"
+    "model": "FHNK3LL"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 256GB - Space Gray (5th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FHNW3LL/A/refurbished-129-inch-ipad-pro-wi-ficellular-256gb-space-gray-5th-generation",
+    "price": 1149.0,
+    "previous_price": 1349.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.14825796886582654,
+    "model": "FHNW3LL"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 1TB - Space Gray (3rd Generation)",
