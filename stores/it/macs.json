@@ -297,6 +297,17 @@
     "model": "FQKV3T"
   },
   {
+    "name": "Mac mini ricondizionato, chip Apple M2 Pro con CPU 10\u2010core e GPU 16\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G1701T/A/mac-mini-ricondizionato-chip-apple-m2-pro-con-cpu-10%E2%80%91core-e-gpu-16%E2%80%91core",
+    "price": 1529.0,
+    "previous_price": 1529.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1701T"
+  },
+  {
     "name": "Mac mini ricondizionato, chip Apple M1 con CPU 8\u2010core e GPU 8\u2010core, 10Gb Ethernet",
     "family": "mac",
     "store": "it",
@@ -451,15 +462,15 @@
     "model": "G18U1T"
   },
   {
-    "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core, Gigabit Ethernet - Argento",
+    "name": "Mac mini ricondizionato, chip Apple M2 Pro con CPU 12\u2010core e GPU 19\u2010core",
     "family": "mac",
     "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G12R3T/A/iMac-24-ricondizionato-con-chip-Apple-M1-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Gigabit-Ethernet-Argento",
-    "price": 2039.0,
-    "previous_price": 2039.0,
+    "url": "https://www.apple.com/it/shop/product/G170VT/A/mac-mini-ricondizionato-chip-apple-m2-pro-con-cpu-12%E2%80%91core-e-gpu-19%E2%80%91core",
+    "price": 2019.0,
+    "previous_price": 2019.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "G12R3T"
+    "model": "G170VT"
   },
   {
     "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core, Gigabit Ethernet - Blu",
@@ -559,17 +570,6 @@
     "savings_price": 450.0,
     "saving_percentage": 0.15156618390030313,
     "model": "FNWC3T"
-  },
-  {
-    "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Pro, CPU 12\u2010core e GPU 19\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FPHF3T/A/macbook-pro-14-ricondizionato-con-chip-apple-m2-pro-cpu-12-core-e-gpu-19-core-grigio-siderale",
-    "price": 2519.0,
-    "previous_price": 2969.0,
-    "savings_price": 450.0,
-    "saving_percentage": 0.15156618390030313,
-    "model": "FPHF3T"
   },
   {
     "name": "Mac Studio ricondizionato, chip Apple M2 Max con CPU 12\u2010core e GPU 30\u2010core",
