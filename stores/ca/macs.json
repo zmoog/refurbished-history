@@ -66,17 +66,6 @@
     "model": "FGND3LL"
   },
   {
-    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU, 10GB Ethernet",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G16K2LL/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-10gb-ethernet",
-    "price": 999.0,
-    "previous_price": 999.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16K2LL"
-  },
-  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "ca",
@@ -647,17 +636,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G12B3LL"
-  },
-  {
-    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Silver",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G1952LL/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-8-Core-GPU-Silver",
-    "price": 1649.0,
-    "previous_price": 1649.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1952LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Blue",
@@ -1991,17 +1969,6 @@
     "model": "G19E6LL"
   },
   {
-    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Yellow",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G19G6LL/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Yellow",
-    "price": 2509.0,
-    "previous_price": 2509.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G19G6LL"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Green",
     "family": "mac",
     "store": "ca",
@@ -2156,17 +2123,6 @@
     "model": "G1AA2LL"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G1C92LL/A/refurbished-14-inch-macbook-pro-apple-m3-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-space-grey",
-    "price": 2639.0,
-    "previous_price": 2639.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1C92LL"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -2308,6 +2264,17 @@
     "savings_price": 500.0,
     "saving_percentage": 0.15156107911488328,
     "model": "FRW43LL"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G17ZELL/A/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-38%E2%80%91Core-GPU",
+    "price": 2929.0,
+    "previous_price": 2929.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17ZELL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Silver",
@@ -2541,17 +2508,6 @@
     "model": "FRW63LL"
   },
   {
-    "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G17Z6LL/A/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
-    "price": 3349.0,
-    "previous_price": 3349.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G17Z6LL"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M3 Pro Chip with 11\u2010Core CPU and 14\u2010Core GPU - Space Black",
     "family": "mac",
     "store": "ca",
@@ -2638,6 +2594,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1AK0LL"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G17Z2LL/A/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
+    "price": 3559.0,
+    "previous_price": 3559.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17Z2LL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M3 Max Chip with 14\u2010Core CPU and 30\u2010Core GPU - Space Black",
