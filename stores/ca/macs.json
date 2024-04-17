@@ -165,17 +165,6 @@
     "model": "FGNE3LL"
   },
   {
-    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU, 10GB Ethernet",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G16L2LL/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-10gb-ethernet",
-    "price": 1209.0,
-    "previous_price": 1209.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16L2LL"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
     "family": "mac",
     "store": "ca",
@@ -652,17 +641,6 @@
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Blue",
     "family": "mac",
     "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G1970LL/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-8-Core-GPU-Blue",
-    "price": 1649.0,
-    "previous_price": 1649.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1970LL"
-  },
-  {
-    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Blue",
-    "family": "mac",
-    "store": "ca",
     "url": "https://www.apple.com/ca/shop/product/G1972LL/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-8-Core-GPU-Blue",
     "price": 1649.0,
     "previous_price": 1649.0,
@@ -957,6 +935,17 @@
     "model": "G1613LL"
   },
   {
+    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G16L9LL/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu",
+    "price": 1739.0,
+    "previous_price": 1739.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G16L9LL"
+  },
+  {
     "name": "Refurbished 14-inch MacBook Pro Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
     "family": "mac",
     "store": "ca",
@@ -1021,6 +1010,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1981LL"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Pink",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G1983LL/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-8-Core-GPU-Pink",
+    "price": 1859.0,
+    "previous_price": 1859.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1983LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Silver",
@@ -1659,17 +1659,6 @@
     "savings_price": 410.0,
     "saving_percentage": 0.1519081141163394,
     "model": "FRX63LL"
-  },
-  {
-    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Yellow",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G19G5LL/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Yellow",
-    "price": 2289.0,
-    "previous_price": 2289.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G19G5LL"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Green",
