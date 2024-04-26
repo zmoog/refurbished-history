@@ -66,17 +66,6 @@
     "model": "FLXY3B"
   },
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FLY13B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-starlight",
-    "price": 849.0,
-    "previous_price": 999.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.15015015015015015,
-    "model": "FLY13B"
-  },
-  {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
     "family": "mac",
     "store": "uk",
@@ -284,17 +273,6 @@
     "savings_price": 180.0,
     "saving_percentage": 0.1501251042535446,
     "model": "FQKW3B"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/G15W3B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-silver",
-    "price": 1019.0,
-    "previous_price": 1019.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G15W3B"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
@@ -1067,17 +1045,6 @@
     "model": "FPHG3B"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M3 Max Chip with 14\u2010Core CPU and 30\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FRX83B/A/refurbished-14-inch-macbook-pro-apple-m3-max-chip-with-14%E2%80%91core-cpu-and-30%E2%80%91core-gpu-silver",
-    "price": 2799.0,
-    "previous_price": 3299.0,
-    "savings_price": 500.0,
-    "saving_percentage": 0.15156107911488328,
-    "model": "FRX83B"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro Apple M3 Max Chip with 14\u2010Core CPU and 30\u2010Core GPU - Space Black",
     "family": "mac",
     "store": "uk",
@@ -1131,5 +1098,27 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G14KFB"
+  },
+  {
+    "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 76-core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G171HB/A",
+    "price": 7989.0,
+    "previous_price": 7989.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G171HB"
+  },
+  {
+    "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 76-core GPU",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G171JB/A",
+    "price": 8499.0,
+    "previous_price": 8499.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G171JB"
   }
 ]
