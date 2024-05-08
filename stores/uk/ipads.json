@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FK0C2ZM/A/refurbished-apple-pencil",
-    "price": 79.0,
-    "previous_price": 99.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.20202020202020202,
-    "model": "FK0C2ZM"
-  },
-  {
     "name": "Refurbished Apple Pencil (2nd Generation)",
     "family": "ipad",
     "store": "uk",
@@ -108,17 +97,6 @@
     "savings_price": 200.0,
     "saving_percentage": 0.26702269692923897,
     "model": "FHQT3B"
-  },
-  {
-    "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Grey",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FK7T3B/A/refurbished-ipad-mini-6-wi-fi-256gb-space-grey",
-    "price": 549.0,
-    "previous_price": 649.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.15408320493066255,
-    "model": "FK7T3B"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Starlight",
@@ -350,6 +328,17 @@
     "savings_price": 460.0,
     "saving_percentage": 0.24223275408109532,
     "model": "FHWF3B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 2TB - Space Grey (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FHNP3B/A/refurbished-129-inch-ipad-pro-wi-fi-2tb-space-grey-5th-generation",
+    "price": 1549.0,
+    "previous_price": 1999.0,
+    "savings_price": 450.0,
+    "saving_percentage": 0.22511255627813906,
+    "model": "FHNP3B"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 2TB - Space Grey (5th Generation)",
