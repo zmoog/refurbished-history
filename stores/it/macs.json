@@ -308,17 +308,6 @@
     "model": "FGPT3T"
   },
   {
-    "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core, Gigabit Ethernet - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G12Q0T/A/iMac-24-ricondizionato-con-chip-Apple-M1-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Gigabit-Ethernet-Argento",
-    "price": 1649.0,
-    "previous_price": 1649.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G12Q0T"
-  },
-  {
     "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Blu",
     "family": "mac",
     "store": "it",
@@ -418,6 +407,17 @@
     "model": "G12X3T"
   },
   {
+    "name": "Mac Studio ricondizionato, chip Apple M2 Max con CPU 12\u2010core e GPU 30\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQH73T/A/Mac-Studio-ricondizionato-chip-Apple-M2-Max-con-CPU-12%E2%80%91core-e-GPU-30-core",
+    "price": 2079.0,
+    "previous_price": 2449.0,
+    "savings_price": 370.0,
+    "saving_percentage": 0.15108207431604737,
+    "model": "FQH73T"
+  },
+  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Pro, CPU 10\u2010core e GPU 16\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -462,17 +462,6 @@
     "model": "G1C91T"
   },
   {
-    "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 11\u2010core e GPU 14\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FRX63T/A/macbook-pro-14-pollici-ricondizionato-con-chip-apple-m3-pro-cpu-11%E2%80%91core-e-gpu-14%E2%80%91core-argento",
-    "price": 2209.0,
-    "previous_price": 2599.0,
-    "savings_price": 390.0,
-    "saving_percentage": 0.15005771450557906,
-    "model": "FRX63T"
-  },
-  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 11\u2010core e GPU 14\u2010core - Nero siderale",
     "family": "mac",
     "store": "it",
@@ -482,6 +471,17 @@
     "savings_price": 390.0,
     "saving_percentage": 0.15005771450557906,
     "model": "FRX33T"
+  },
+  {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 11\u2010core e GPU 14\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FRX63T/A/macbook-pro-14-pollici-ricondizionato-con-chip-apple-m3-pro-cpu-11%E2%80%91core-e-gpu-14%E2%80%91core-argento",
+    "price": 2209.0,
+    "previous_price": 2599.0,
+    "savings_price": 390.0,
+    "saving_percentage": 0.15005771450557906,
+    "model": "FRX63T"
   },
   {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
@@ -504,6 +504,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1617T"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M2 Max con CPU 12\u2010core e GPU 30\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G17Z0T/A/Mac-Studio-ricondizionato-chip-Apple-M2-Max-con-CPU-12%E2%80%91core-e-GPU-30-core",
+    "price": 2269.0,
+    "previous_price": 2269.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17Z0T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
@@ -625,6 +636,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1AU3T"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M2 Max con CPU 12\u2010core e GPU 30\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G17Z5T/A/Mac-Studio-ricondizionato-chip-Apple-M2-Max-con-CPU-12%E2%80%91core-e-GPU-30-core",
+    "price": 2669.0,
+    "previous_price": 2669.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17Z5T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M2 Pro, CPU 10\u2010core e GPU 16\u2010core - Grigio siderale",
