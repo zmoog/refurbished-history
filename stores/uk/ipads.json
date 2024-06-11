@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished Apple Pencil",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FK0C2ZM/A/refurbished-apple-pencil",
+    "price": 79.0,
+    "previous_price": 99.0,
+    "savings_price": 20.0,
+    "saving_percentage": 0.20202020202020202,
+    "model": "FK0C2ZM"
+  },
+  {
     "name": "Refurbished Apple Pencil (2nd Generation)",
     "family": "ipad",
     "store": "uk",
@@ -53,6 +64,17 @@
     "savings_price": 80.0,
     "saving_percentage": 0.16032064128256512,
     "model": "FLWL3B"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi 128GB - Space Grey (2nd Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FY232B/A/Refurbished-iPad-Pro-11-inch-2nd-Generation-128GB-Space-Grey",
+    "price": 469.0,
+    "previous_price": 649.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.2773497688751926,
+    "model": "FY232B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Space Grey (4th Generation)",
@@ -185,6 +207,28 @@
     "savings_price": 230.0,
     "saving_percentage": 0.270906949352179,
     "model": "FHQV3B"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi + Cellular 256GB - Space Grey (2nd Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FXE42B/A/Refurbished-11-inch-iPad-Pro-Wi-Fi-Cellular-256GB-Space-Grey-2nd-Generation",
+    "price": 629.0,
+    "previous_price": 899.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.3003337041156841,
+    "model": "FXE42B"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi + Cellular 256GB - Silver (2nd Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FXE52B/A/Refurbished-11-inch-iPad-Pro-Wi-Fi-Cellular-256GB-Silver-2nd-Generation",
+    "price": 629.0,
+    "previous_price": 899.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.3003337041156841,
+    "model": "FXE52B"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 128GB - Space Grey (3rd Generation)",
