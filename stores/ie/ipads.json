@@ -11,17 +11,6 @@
     "model": "FU8F2ZM"
   },
   {
-    "name": "Refurbished iPad Wi-Fi+Cellular 128GB - Gold (8th Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FYMN2B/A/Refurbished-iPad-Wi-FiCellular-128GB-Gold-8th-Generation",
-    "price": 479.0,
-    "previous_price": 629.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.2384737678855326,
-    "model": "FYMN2B"
-  },
-  {
     "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Space Grey",
     "family": "ipad",
     "store": "ie",
@@ -121,17 +110,6 @@
     "model": "FYH72B"
   },
   {
-    "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Purple",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FK7X3B/A/refurbished-ipad-mini-6-wi-fi-256gb-purple",
-    "price": 669.0,
-    "previous_price": 789.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.1520912547528517,
-    "model": "FK7X3B"
-  },
-  {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Starlight",
     "family": "ipad",
     "store": "ie",
@@ -141,6 +119,17 @@
     "savings_price": 120.0,
     "saving_percentage": 0.1520912547528517,
     "model": "FK7V3B"
+  },
+  {
+    "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Purple",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FK7X3B/A/refurbished-ipad-mini-6-wi-fi-256gb-purple",
+    "price": 669.0,
+    "previous_price": 789.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.1520912547528517,
+    "model": "FK7X3B"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Pink",
@@ -319,6 +308,17 @@
     "model": "FHQY3B"
   },
   {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi 1TB - Silver (3rd Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FHR03B/A/refurbished-11-inch-ipad-pro-wi-fi-1tb-silver-3rd-generation",
+    "price": 1279.0,
+    "previous_price": 1679.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.23823704586063132,
+    "model": "FHR03B"
+  },
+  {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 1TB - Space Grey (3rd Generation)",
     "family": "ipad",
     "store": "ie",
@@ -328,6 +328,17 @@
     "savings_price": 430.0,
     "saving_percentage": 0.23255813953488372,
     "model": "FHWC3B"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 1TB - Silver (3rd Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FHWD3B/A/refurbished-11-inch-ipad-pro-wi-ficellular-1tb-silver-3rd-generation",
+    "price": 1419.0,
+    "previous_price": 1849.0,
+    "savings_price": 430.0,
+    "saving_percentage": 0.23255813953488372,
+    "model": "FHWD3B"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 2TB - Space Grey (3rd Generation)",
@@ -341,6 +352,17 @@
     "model": "FHR23B"
   },
   {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi 2TB - Silver (3rd Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FHR33B/A/refurbished-11-inch-ipad-pro-wi-fi-2tb-silver-3rd-generation",
+    "price": 1619.0,
+    "previous_price": 2119.0,
+    "savings_price": 500.0,
+    "saving_percentage": 0.23596035865974516,
+    "model": "FHR33B"
+  },
+  {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 1TB - Silver (5th Generation)",
     "family": "ipad",
     "store": "ie",
@@ -350,5 +372,27 @@
     "savings_price": 500.0,
     "saving_percentage": 0.23052097740894423,
     "model": "FHRC3B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 2TB - Space Grey (5th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FHRD3B/A/refurbished-129-inch-ipad-pro-wi-ficellular-2tb-space-grey-5th-generation",
+    "price": 2019.0,
+    "previous_price": 2609.0,
+    "savings_price": 590.0,
+    "saving_percentage": 0.22614028363357608,
+    "model": "FHRD3B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 2TB - Silver (5th Generation)",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FHRE3B/A/refurbished-129-inch-ipad-pro-wi-ficellular-2tb-silver-5th-generation",
+    "price": 2019.0,
+    "previous_price": 2609.0,
+    "savings_price": 590.0,
+    "saving_percentage": 0.22614028363357608,
+    "model": "FHRE3B"
   }
 ]
