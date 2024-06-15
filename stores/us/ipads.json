@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FK0C2AM/A/refurbished-apple-pencil",
-    "price": 85.0,
-    "previous_price": 99.0,
-    "savings_price": 14.0,
-    "saving_percentage": 0.1414141414141414,
-    "model": "FK0C2AM"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 32GB - Gold (8th Generation)",
     "family": "ipad",
     "store": "us",
@@ -130,6 +119,17 @@
     "savings_price": 230.0,
     "saving_percentage": 0.3290414878397711,
     "model": "FYFW2LL"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Rose Gold (4th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FYFX2LL/A/Refurbished-iPad-Air-Wi-Fi-256GB-Rose-Gold-4th-Generation",
+    "price": 469.0,
+    "previous_price": 699.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.3290414878397711,
+    "model": "FYFX2LL"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi 256GB - Green (4th Generation)",
