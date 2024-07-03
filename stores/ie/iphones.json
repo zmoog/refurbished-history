@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPhone 13 mini 256GB - Midnight (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLK53B/A/refurbished-iphone-13-mini-256gb-midnight-sim-free",
-    "price": 649.0,
-    "previous_price": 949.0,
-    "savings_price": 300.0,
-    "saving_percentage": 0.31612223393045313,
-    "model": "FLK53B"
-  },
-  {
     "name": "Refurbished iPhone 13 128GB - Midnight (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -53,17 +42,6 @@
     "savings_price": 150.0,
     "saving_percentage": 0.14866204162537167,
     "model": "FPVX3ZD"
-  },
-  {
-    "name": "Refurbished iPhone 13 mini 512GB - Midnight (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLKA3B/A/refurbished-iphone-13-mini-512gb-midnight-sim-free",
-    "price": 869.0,
-    "previous_price": 1179.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.26293469041560646,
-    "model": "FLKA3B"
   },
   {
     "name": "Refurbished iPhone 13 Pro 256GB - Graphite (SIM-Free)",
@@ -121,28 +99,6 @@
     "model": "FLL93B"
   },
   {
-    "name": "Refurbished iPhone 14 Pro 128GB - Space Black (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FPXV3ZD/A/Refurbished-iPhone-14-Pro-128GB-Space-Black-SIM-Free",
-    "price": 959.0,
-    "previous_price": 1129.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.15057573073516387,
-    "model": "FPXV3ZD"
-  },
-  {
-    "name": "Refurbished iPhone 13 512GB - Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FLQG3B/A/refurbished-iphone-13-512gb-blue-sim-free",
-    "price": 969.0,
-    "previous_price": 1139.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.14925373134328357,
-    "model": "FLQG3B"
-  },
-  {
     "name": "Refurbished iPhone 13 512GB - Midnight (SIM-Free)",
     "family": "iphone",
     "store": "ie",
@@ -163,6 +119,17 @@
     "savings_price": 170.0,
     "saving_percentage": 0.14925373134328357,
     "model": "FLQD3B"
+  },
+  {
+    "name": "Refurbished iPhone 13 512GB - Blue (SIM-Free)",
+    "family": "iphone",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FLQG3B/A/refurbished-iphone-13-512gb-blue-sim-free",
+    "price": 969.0,
+    "previous_price": 1139.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.14925373134328357,
+    "model": "FLQG3B"
   },
   {
     "name": "Refurbished iPhone 14 Pro Max 128GB - Space Black (SIM-Free)",
