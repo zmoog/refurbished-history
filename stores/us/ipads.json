@@ -22,6 +22,17 @@
     "model": "FYLC2LL"
   },
   {
+    "name": "Refurbished iPad Wi-Fi 64GB - Space Gray (9th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FK2K3LL/A/refurbished-ipad-wi-fi-64gb-space-gray-9th-generation",
+    "price": 249.0,
+    "previous_price": 329.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.24316109422492402,
+    "model": "FK2K3LL"
+  },
+  {
     "name": "Refurbished iPad Wi-Fi 64GB - Silver (9th Generation)",
     "family": "ipad",
     "store": "us",
@@ -75,17 +86,6 @@
     "savings_price": 100.0,
     "saving_percentage": 0.20876826722338204,
     "model": "FK2N3LL"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Space Gray (4th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FYFM2LL/A/Refurbished-iPad-Air-Wi-Fi-64GB-Space-Gray-4th-Generation",
-    "price": 399.0,
-    "previous_price": 549.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.273224043715847,
-    "model": "FYFM2LL"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi 64GB - Silver (4th Generation)",
@@ -176,6 +176,17 @@
     "model": "FYFY2LL"
   },
   {
+    "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Sky Blue (4th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FYJ12LL/A/Refurbished-iPad-Air-Wi-FiCellular-64GB-Sky-Blue-4th-Generation",
+    "price": 499.0,
+    "previous_price": 679.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.2650957290132548,
+    "model": "FYJ12LL"
+  },
+  {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Gray",
     "family": "ipad",
     "store": "us",
@@ -220,37 +231,26 @@
     "model": "FLWR3LL"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi  256GB - Space Gray (3rd Generation)",
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 256GB - Space Gray (3rd Generation)",
     "family": "ipad",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FHQU3LL/A/refurbished-11-inch-ipad-pro-wi-fi-256gb-space-gray-3rd-generation",
-    "price": 619.0,
-    "previous_price": 849.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.270906949352179,
-    "model": "FHQU3LL"
+    "url": "https://www.apple.com/shop/product/FHMV3LL/A/refurbished-11-inch-ipad-pro-wi-ficellular-256gb-space-gray-3rd-generation",
+    "price": 759.0,
+    "previous_price": 1049.0,
+    "savings_price": 290.0,
+    "saving_percentage": 0.27645376549094375,
+    "model": "FHMV3LL"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi  256GB - Silver (3rd Generation)",
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 256GB - Silver (3rd Generation)",
     "family": "ipad",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FHQV3LL/A/refurbished-11-inch-ipad-pro-wi-fi-256gb-silver-3rd-generation",
-    "price": 619.0,
-    "previous_price": 849.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.270906949352179,
-    "model": "FHQV3LL"
-  },
-  {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 128GB - Space Gray (3rd Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FHMT3LL/A/refurbished-11-inch-ipad-pro-wi-ficellular-128gb-space-gray-3rd-generation",
-    "price": 689.0,
-    "previous_price": 949.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.273972602739726,
-    "model": "FHMT3LL"
+    "url": "https://www.apple.com/shop/product/FHMW3LL/A/refurbished-11-inch-ipad-pro-wi-ficellular-256gb-silver-3rd-generation",
+    "price": 759.0,
+    "previous_price": 1049.0,
+    "savings_price": 290.0,
+    "saving_percentage": 0.27645376549094375,
+    "model": "FHMW3LL"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi  512GB - Space Gray (3rd Generation)",
@@ -383,5 +383,16 @@
     "savings_price": 520.0,
     "saving_percentage": 0.28123309897241755,
     "model": "FHR33LL"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 2TB - Silver (3rd Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FHN33LL/A/refurbished-11-inch-ipad-pro-wi-ficellular-2tb-silver-3rd-generation",
+    "price": 1479.0,
+    "previous_price": 2049.0,
+    "savings_price": 570.0,
+    "saving_percentage": 0.2781844802342606,
+    "model": "FHN33LL"
   }
 ]
