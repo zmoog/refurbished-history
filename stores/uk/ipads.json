@@ -154,15 +154,26 @@
     "model": "FLWR3B"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 256GB - Space Grey (3rd Generation)",
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 128GB - Space Grey (3rd Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FHQU3B/A/refurbished-11-inch-ipad-pro-wi-fi-256gb-space-grey-3rd-generation",
-    "price": 619.0,
-    "previous_price": 849.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.270906949352179,
-    "model": "FHQU3B"
+    "url": "https://www.apple.com/uk/shop/product/FHW53B/A/refurbished-11-inch-ipad-pro-wi-ficellular-128gb-space-grey-3rd-generation",
+    "price": 649.0,
+    "previous_price": 899.0,
+    "savings_price": 250.0,
+    "saving_percentage": 0.27808676307007785,
+    "model": "FHW53B"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 128GB - Silver (3rd Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FHW63B/A/refurbished-11-inch-ipad-pro-wi-ficellular-128gb-silver-3rd-generation",
+    "price": 649.0,
+    "previous_price": 899.0,
+    "savings_price": 250.0,
+    "saving_percentage": 0.27808676307007785,
+    "model": "FHW63B"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 256GB - Silver (3rd Generation)",
@@ -174,6 +185,17 @@
     "savings_price": 280.0,
     "saving_percentage": 0.2802802802802803,
     "model": "FHW83B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 128GB - Silver (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FHNG3B/A/refurbished-129-inch-ipad-pro-wi-fi-128gb-silver-5th-generation",
+    "price": 759.0,
+    "previous_price": 999.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.24024024024024024,
+    "model": "FHNG3B"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi + Cellular 512GB - Space Grey (2nd Generation)",
