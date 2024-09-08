@@ -737,17 +737,6 @@
     "model": "G1AU0B"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/G17K4B/A/refurbished-14-inch-macbook-pro-apple-m2-pro-chip-with-10-core-cpu-and-16-core-gpu-silver",
-    "price": 2009.0,
-    "previous_price": 2009.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G17K4B"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Blue",
     "family": "mac",
     "store": "uk",
@@ -779,6 +768,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1334B"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FPHF3B/A/refurbished-14-inch-macbook-pro-apple-m2-pro-chip-with-12-core-cpu-and-19-core-gpu-space-grey",
+    "price": 2029.0,
+    "previous_price": 2389.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.1506906655504395,
+    "model": "FPHF3B"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Yellow",
@@ -1164,6 +1164,17 @@
     "savings_price": 620.0,
     "saving_percentage": 0.15125640400097584,
     "model": "FUW63B"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M3 Max Chip with 16\u2010Core CPU and 40\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FUW73B/A/refurbished-16-inch-macbook-pro-apple-m3-max-chip-with-16%E2%80%91core-cpu-and-40%E2%80%91core-gpu-silver",
+    "price": 3479.0,
+    "previous_price": 4099.0,
+    "savings_price": 620.0,
+    "saving_percentage": 0.15125640400097584,
+    "model": "FUW73B"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Space Grey",

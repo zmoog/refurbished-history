@@ -781,17 +781,6 @@
     "model": "G1334B"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G17K4B/A/refurbished-14-inch-macbook-pro-apple-m2-pro-chip-with-10-core-cpu-and-16-core-gpu-silver",
-    "price": 2479.0,
-    "previous_price": 2479.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G17K4B"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ie",
@@ -812,6 +801,17 @@
     "savings_price": 450.0,
     "saving_percentage": 0.15156618390030313,
     "model": "FNWC3B"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FPHF3B/A/refurbished-14-inch-macbook-pro-apple-m2-pro-chip-with-12-core-cpu-and-19-core-gpu-space-grey",
+    "price": 2519.0,
+    "previous_price": 2969.0,
+    "savings_price": 450.0,
+    "saving_percentage": 0.15156618390030313,
+    "model": "FPHF3B"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Green",
@@ -1164,6 +1164,17 @@
     "savings_price": 740.0,
     "saving_percentage": 0.14952515659729237,
     "model": "FUW63B"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M3 Max Chip with 16\u2010Core CPU and 40\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FUW73B/A/refurbished-16-inch-macbook-pro-apple-m3-max-chip-with-16%E2%80%91core-cpu-and-40%E2%80%91core-gpu-silver",
+    "price": 4209.0,
+    "previous_price": 4949.0,
+    "savings_price": 740.0,
+    "saving_percentage": 0.14952515659729237,
+    "model": "FUW73B"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Space Grey",
