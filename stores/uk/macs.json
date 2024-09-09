@@ -33,6 +33,17 @@
     "model": "FLY13B"
   },
   {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FLY33B/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight",
+    "price": 849.0,
+    "previous_price": 999.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.15015015015015015,
+    "model": "FLY33B"
+  },
+  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "uk",
@@ -97,6 +108,17 @@
     "savings_price": 170.0,
     "saving_percentage": 0.15468607825295724,
     "model": "FRXV3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Blue",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FJV93B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-7%E2%80%91Core-GPU-Blue",
+    "price": 1019.0,
+    "previous_price": 1349.0,
+    "savings_price": 330.0,
+    "saving_percentage": 0.2446256486286138,
+    "model": "FJV93B"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
@@ -383,17 +405,6 @@
     "savings_price": 200.0,
     "saving_percentage": 0.14295925661186562,
     "model": "FQKX3B"
-  },
-  {
-    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FRYT3B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight",
-    "price": 1269.0,
-    "previous_price": 1499.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.1534356237491661,
-    "model": "FRYT3B"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Silver",
@@ -913,17 +924,6 @@
     "model": "FPHG3B"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M3 Max Chip with 14\u2010Core CPU and 30\u2010Core GPU - Space Black",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FRX53B/A/refurbished-14-inch-macbook-pro-apple-m3-max-chip-with-14%E2%80%91core-cpu-and-30%E2%80%91core-gpu-space-black",
-    "price": 2799.0,
-    "previous_price": 3299.0,
-    "savings_price": 500.0,
-    "saving_percentage": 0.15156107911488328,
-    "model": "FRX53B"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M3 Max Chip with 14\u2010Core CPU and 30\u2010Core GPU - Silver",
     "family": "mac",
     "store": "uk",
@@ -933,6 +933,17 @@
     "savings_price": 500.0,
     "saving_percentage": 0.15156107911488328,
     "model": "FRX83B"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M3 Max Chip with 14\u2010Core CPU and 30\u2010Core GPU - Space Black",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FRX53B/A/refurbished-14-inch-macbook-pro-apple-m3-max-chip-with-14%E2%80%91core-cpu-and-30%E2%80%91core-gpu-space-black",
+    "price": 2799.0,
+    "previous_price": 3299.0,
+    "savings_price": 500.0,
+    "saving_percentage": 0.15156107911488328,
+    "model": "FRX53B"
   },
   {
     "name": "Refurbished 14-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Space Grey",
