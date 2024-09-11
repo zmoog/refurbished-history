@@ -121,17 +121,6 @@
     "model": "FK4E3B"
   },
   {
-    "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Space Grey (4th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FYGW2B/A/Refurbished-iPad-Air-Wi-FiCellular-64GB-Space-Grey-4th-Generation",
-    "price": 499.0,
-    "previous_price": 649.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.23112480739599384,
-    "model": "FYGW2B"
-  },
-  {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Sky Blue (4th Generation)",
     "family": "ipad",
     "store": "uk",
@@ -537,6 +526,17 @@
     "savings_price": 460.0,
     "saving_percentage": 0.24223275408109532,
     "model": "FHWF3B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 2TB - Space Grey (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FHNP3B/A/refurbished-129-inch-ipad-pro-wi-fi-2tb-space-grey-5th-generation",
+    "price": 1549.0,
+    "previous_price": 1999.0,
+    "savings_price": 450.0,
+    "saving_percentage": 0.22511255627813906,
+    "model": "FHNP3B"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 2TB - Space Grey (5th Generation)",
