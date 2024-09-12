@@ -341,17 +341,6 @@
     "model": "FQKX3B"
   },
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FRYN3B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Space-Grey",
-    "price": 1269.0,
-    "previous_price": 1499.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.1534356237491661,
-    "model": "FRYN3B"
-  },
-  {
     "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
     "family": "mac",
     "store": "uk",
@@ -361,6 +350,17 @@
     "savings_price": 230.0,
     "saving_percentage": 0.1534356237491661,
     "model": "FRYQ3B"
+  },
+  {
+    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FRYN3B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Space-Grey",
+    "price": 1269.0,
+    "previous_price": 1499.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.1534356237491661,
+    "model": "FRYN3B"
   },
   {
     "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
@@ -542,23 +542,23 @@
     "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/G1BP1B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Space-Grey",
-    "price": 1439.0,
-    "previous_price": 1439.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1BP1B"
-  },
-  {
-    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
-    "family": "mac",
-    "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/G1BQ2B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Space-Grey",
     "price": 1439.0,
     "previous_price": 1439.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1BQ2B"
+  },
+  {
+    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/G1BP1B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Space-Grey",
+    "price": 1439.0,
+    "previous_price": 1439.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1BP1B"
   },
   {
     "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
