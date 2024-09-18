@@ -88,17 +88,6 @@
     "model": "FK7P3B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Space Grey (9th Generation)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FK4E3B/A/refurbished-ipad-wi-fi-cellular-256gb-space-grey-9th-generation",
-    "price": 599.0,
-    "previous_price": 739.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.18944519621109607,
-    "model": "FK4E3B"
-  },
-  {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Sky Blue (4th Generation)",
     "family": "ipad",
     "store": "ie",
@@ -121,17 +110,6 @@
     "model": "FYH22B"
   },
   {
-    "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Grey",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FK7T3B/A/refurbished-ipad-mini-6-wi-fi-256gb-space-grey",
-    "price": 669.0,
-    "previous_price": 789.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.1520912547528517,
-    "model": "FK7T3B"
-  },
-  {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Purple",
     "family": "ipad",
     "store": "ie",
@@ -141,6 +119,17 @@
     "savings_price": 120.0,
     "saving_percentage": 0.1520912547528517,
     "model": "FK7X3B"
+  },
+  {
+    "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Grey",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FK7T3B/A/refurbished-ipad-mini-6-wi-fi-256gb-space-grey",
+    "price": 669.0,
+    "previous_price": 789.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.1520912547528517,
+    "model": "FK7T3B"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Pink",
