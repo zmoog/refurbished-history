@@ -99,17 +99,6 @@
     "model": "FLWL3LL"
   },
   {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Pink (5th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FM9D3LL/A/refurbished-ipad-air-wi-fi-64gb-pink-5th-generation",
-    "price": 469.0,
-    "previous_price": 549.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.14571948998178508,
-    "model": "FM9D3LL"
-  },
-  {
     "name": "Refurbished iPad Air Wi-Fi 64GB - Blue (5th Generation)",
     "family": "ipad",
     "store": "us",
@@ -119,6 +108,17 @@
     "savings_price": 80.0,
     "saving_percentage": 0.14571948998178508,
     "model": "FM9E3LL"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Purple (5th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FME23LL/A/refurbished-ipad-air-wi-fi-64gb-purple-5th-generation",
+    "price": 469.0,
+    "previous_price": 549.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.14571948998178508,
+    "model": "FME23LL"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Sky Blue (4th Generation)",
@@ -143,15 +143,26 @@
     "model": "FK7X3LL"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 128GB Silver (4th Generation)",
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Space Gray (5th Generation)",
     "family": "ipad",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FNXE3LL/A/refurbished-11-inch-ipad-pro-wi-fi-128gb-silver-4th-generation",
-    "price": 639.0,
-    "previous_price": 799.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.2002503128911139,
-    "model": "FNXE3LL"
+    "url": "https://www.apple.com/shop/product/FM9L3LL/A/refurbished-ipad-air-wi-fi-256gb-space-gray-5th-generation",
+    "price": 549.0,
+    "previous_price": 649.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.15408320493066255,
+    "model": "FM9L3LL"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Pink (5th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FM9M3LL/A/refurbished-ipad-air-wi-fi-256gb-pink-5th-generation",
+    "price": 549.0,
+    "previous_price": 649.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.15408320493066255,
+    "model": "FM9M3LL"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Space Gray (4th Generation)",
