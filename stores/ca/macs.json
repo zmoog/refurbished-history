@@ -33,17 +33,6 @@
     "model": "FLY33LL"
   },
   {
-    "name": "Refurbished Mac mini 3.0GHz 6-core Intel Core i5 - Space Grey",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FXNG2LL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray",
-    "price": 1189.0,
-    "previous_price": 1399.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.1501072194424589,
-    "model": "FXNG2LL"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -1408,17 +1397,6 @@
     "model": "G1BS3LL"
   },
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G1BU3LL/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight",
-    "price": 2119.0,
-    "previous_price": 2119.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1BU3LL"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Silver",
     "family": "mac",
     "store": "ca",
@@ -1725,6 +1703,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G17G9LL"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G17Z9LL/A/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-38%E2%80%91Core-GPU",
+    "price": 2499.0,
+    "previous_price": 2499.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17Z9LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
@@ -2077,6 +2066,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G17GDLL"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G17Z6LL/A/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
+    "price": 3349.0,
+    "previous_price": 3349.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17Z6LL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Space Grey",
@@ -2783,17 +2783,6 @@
     "model": "G1761LL"
   },
   {
-    "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/G17Z3LL/A/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
-    "price": 4839.0,
-    "previous_price": 4839.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G17Z3LL"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU - Space Grey",
     "family": "mac",
     "store": "ca",
@@ -3300,6 +3289,17 @@
     "model": "G17MELL"
   },
   {
+    "name": "Refurbished Mac Studio Apple M2 Ultra Chip with 24\u2010Core CPU and 60\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G1807LL/A/Refurbished-Mac-Studio-Apple-M2-Ultra-Chip-with-24%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+    "price": 6369.0,
+    "previous_price": 6369.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1807LL"
+  },
+  {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 64\u2010Core GPU",
     "family": "mac",
     "store": "ca",
@@ -3320,6 +3320,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1766LL"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M2 Ultra Chip with 24\u2010Core CPU and 60\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G1805LL/A/Refurbished-Mac-Studio-Apple-M2-Ultra-Chip-with-24%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+    "price": 6579.0,
+    "previous_price": 6579.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1805LL"
   },
   {
     "name": "Refurbished Mac Studio Apple M1 Ultra Chip with 20\u2010Core CPU and 64\u2010Core GPU",
@@ -3443,6 +3454,17 @@
     "model": "G14KDLL"
   },
   {
+    "name": "Refurbished Mac Studio Apple M2 Ultra Chip with 24\u2010Core CPU and 76\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G180LLL/A/Refurbished-Mac-Studio-Apple-M2-Ultra-Chip-with-24%E2%80%91Core-CPU-and-76%E2%80%91Core-GPU",
+    "price": 7859.0,
+    "previous_price": 7859.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G180LLL"
+  },
+  {
     "name": "Refurbished Mac Pro Rack Apple M2 Ultra with 24-core CPU and 60-core GPU",
     "family": "mac",
     "store": "ca",
@@ -3518,6 +3540,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1719LL"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M2 Ultra Chip with 24\u2010Core CPU and 76\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/G180NLL/A/Refurbished-Mac-Studio-Apple-M2-Ultra-Chip-with-24%E2%80%91Core-CPU-and-76%E2%80%91Core-GPU",
+    "price": 9769.0,
+    "previous_price": 9769.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G180NLL"
   },
   {
     "name": "Refurbished Mac Pro Rack Apple M2 Ultra with 24-core CPU and 60-core GPU",
