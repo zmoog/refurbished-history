@@ -22,17 +22,6 @@
     "model": "FMFK3B"
   },
   {
-    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/G16K1B/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu",
-    "price": 719.0,
-    "previous_price": 719.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G16K1B"
-  },
-  {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Gold",
     "family": "mac",
     "store": "uk",
@@ -264,17 +253,6 @@
     "model": "FNH73B"
   },
   {
-    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Pink",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FQRD3B/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-8-Core-GPU-Pink",
-    "price": 1189.0,
-    "previous_price": 1399.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.1501072194424589,
-    "model": "FQRD3B"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Silver",
     "family": "mac",
     "store": "uk",
@@ -306,6 +284,17 @@
     "savings_price": 210.0,
     "saving_percentage": 0.1501072194424589,
     "model": "FQRC3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 8-Core GPU - Pink",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FQRD3B/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-8-Core-GPU-Pink",
+    "price": 1189.0,
+    "previous_price": 1399.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.1501072194424589,
+    "model": "FQRD3B"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Pink",
