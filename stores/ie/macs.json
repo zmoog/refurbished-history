@@ -1,14 +1,14 @@
 [
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
+    "name": "Refurbished Mac mini Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU",
     "family": "mac",
     "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FRXT3B/A/Refurbished-13-inch-MacBook-Air-Apple-M3-Chip-with-8-core-CPU-and-8-core-GPU-Starlight",
-    "price": 1149.0,
-    "previous_price": 1349.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.14825796886582654,
-    "model": "FRXT3B"
+    "url": "https://www.apple.com/ie/shop/product/FMFJ3B/A/refurbished-mac-mini-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu",
+    "price": 619.0,
+    "previous_price": 729.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15089163237311384,
+    "model": "FMFJ3B"
   },
   {
     "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Space Grey",
@@ -484,17 +484,6 @@
     "model": "FUW63B"
   },
   {
-    "name": "Refurbished 16-inch MacBook Pro Apple M3 Max Chip with 16\u2010Core CPU and 40\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FUW73B/A/refurbished-16-inch-macbook-pro-apple-m3-max-chip-with-16%E2%80%91core-cpu-and-40%E2%80%91core-gpu-silver",
-    "price": 4209.0,
-    "previous_price": 4949.0,
-    "savings_price": 740.0,
-    "saving_percentage": 0.14952515659729237,
-    "model": "FUW73B"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M3 Max Chip with 14\u2010Core CPU and 30\u2010Core GPU - Space Black",
     "family": "mac",
     "store": "ie",
@@ -570,5 +559,16 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1CMAB"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M2 Ultra Chip with 24\u2010Core CPU and 76\u2010Core GPU",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G180JB/A/Refurbished-Mac-Studio-Apple-M2-Ultra-Chip-with-24%E2%80%91Core-CPU-and-76%E2%80%91Core-GPU",
+    "price": 8069.0,
+    "previous_price": 8069.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G180JB"
   }
 ]
