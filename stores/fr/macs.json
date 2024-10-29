@@ -77,28 +77,6 @@
     "model": "FLY33F"
   },
   {
-    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 8 c\u0153urs \u2013 Gris side\u0301ral",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FRXN3F/A/MacBook-Air-13-pouces-reconditionn%C3%A9-avec-puce-Apple-M3-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gris-sid%C3%A9ral",
-    "price": 1099.0,
-    "previous_price": 1299.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.15396458814472672,
-    "model": "FRXN3F"
-  },
-  {
-    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 8 c\u0153urs \u2013 Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FRXQ3F/A/MacBook-Air-13-pouces-reconditionn%C3%A9-avec-puce-Apple-M3-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Argent",
-    "price": 1099.0,
-    "previous_price": 1299.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.15396458814472672,
-    "model": "FRXQ3F"
-  },
-  {
     "name": "MacBook Air 13,3 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -220,6 +198,17 @@
     "model": "FYDC2FN"
   },
   {
+    "name": "Mac mini reconditionne\u0301 avec puce Apple M2 Pro, CPU 10 c\u0153urs et GPU 16 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FNH73F/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-10-c%C5%93urs-et-gpu-16-c%C5%93urs",
+    "price": 1299.0,
+    "previous_price": 1529.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.15042511445389142,
+    "model": "FNH73F"
+  },
+  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M1, CPU 8 c\u0153urs et GPU 8 c\u0153urs, Gigabit Ethernet - Vert",
     "family": "mac",
     "store": "fr",
@@ -251,17 +240,6 @@
     "savings_price": 460.0,
     "saving_percentage": 0.26003391746749577,
     "model": "FGPP3FN"
-  },
-  {
-    "name": "Mac mini reconditionne\u0301 avec puce Apple M2 Pro, CPU 10 c\u0153urs et GPU 16 c\u0153urs",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FNH73F/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-10-c%C5%93urs-et-gpu-16-c%C5%93urs",
-    "price": 1319.0,
-    "previous_price": 1549.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.1484828921885087,
-    "model": "FNH73F"
   },
   {
     "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 10 c\u0153urs \u2013 Gris side\u0301ral",
@@ -466,22 +444,11 @@
     "family": "mac",
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/G1701F/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-10-c%C5%93urs-et-gpu-16-c%C5%93urs",
-    "price": 1509.0,
-    "previous_price": 1509.0,
+    "price": 1489.0,
+    "previous_price": 1489.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1701F"
-  },
-  {
-    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 10 c\u0153urs \u2013 Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FRYQ3F/A/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M3-CPU-8-c%C5%93urs-et-GPU-10-c%C5%93urs-Argent",
-    "price": 1549.0,
-    "previous_price": 1829.0,
-    "savings_price": 280.0,
-    "saving_percentage": 0.1530891197375615,
-    "model": "FRYQ3F"
   },
   {
     "name": "MacBook Pro 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
@@ -609,8 +576,8 @@
     "family": "mac",
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/G170XF/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-12-c%C5%93urs-et-gpu-19-c%C5%93urs",
-    "price": 2199.0,
-    "previous_price": 2199.0,
+    "price": 2169.0,
+    "previous_price": 2169.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G170XF"
@@ -620,8 +587,8 @@
     "family": "mac",
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/G170YF/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-12-c%C5%93urs-gpu-19-c%C5%93urs-et-10-gigabit-ethernet",
-    "price": 2299.0,
-    "previous_price": 2299.0,
+    "price": 2259.0,
+    "previous_price": 2259.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G170YF"
@@ -697,8 +664,8 @@
     "family": "mac",
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/G170ZF/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-12-c%C5%93urs-et-gpu-19-c%C5%93urs",
-    "price": 2589.0,
-    "previous_price": 2589.0,
+    "price": 2549.0,
+    "previous_price": 2549.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G170ZF"
@@ -719,8 +686,8 @@
     "family": "mac",
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/G1930F/A/mac-mini-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-12-c%C5%93urs-gpu-19-c%C5%93urs-et-10-gigabit-ethernet",
-    "price": 2689.0,
-    "previous_price": 2689.0,
+    "price": 2649.0,
+    "previous_price": 2649.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1930F"
