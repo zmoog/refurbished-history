@@ -176,17 +176,6 @@
     "model": "FGNA3T"
   },
   {
-    "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core - Oro",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FGNE3T/A/macbook-air-133-ricondizionato-con-chip-apple-m1-cpu-8%E2%80%91core-e-gpu-8%E2%80%91core-oro",
-    "price": 1049.0,
-    "previous_price": 1429.0,
-    "savings_price": 380.0,
-    "saving_percentage": 0.26592022393282017,
-    "model": "FGNE3T"
-  },
-  {
     "name": "iMac 24\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 7\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -218,6 +207,39 @@
     "savings_price": 430.0,
     "saving_percentage": 0.27405991077119185,
     "model": "FJVA3T"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 8\u2010core - Rosa",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQRD3T/A/iMac-24-pollici-ricondizionato-con-chip-Apple-M3-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Rosa",
+    "price": 1199.0,
+    "previous_price": 1409.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.149041873669269,
+    "model": "FQRD3T"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 8\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQR93T/A/iMac-24-pollici-ricondizionato-con-chip-Apple-M3-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Argento",
+    "price": 1199.0,
+    "previous_price": 1409.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.149041873669269,
+    "model": "FQR93T"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 8\u2010core - Blu",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQRC3T/A/iMac-24-pollici-ricondizionato-con-chip-Apple-M3-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Blu",
+    "price": 1199.0,
+    "previous_price": 1409.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.149041873669269,
+    "model": "FQRC3T"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Argento",
@@ -407,6 +429,17 @@
     "model": "G16U2T"
   },
   {
+    "name": "iMac 24\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 8\u2010core - Verde",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G1960T/A/iMac-24-pollici-ricondizionato-con-chip-Apple-M3-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Verde",
+    "price": 1359.0,
+    "previous_price": 1359.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1960T"
+  },
+  {
     "name": "iMac 24\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Verde",
     "family": "mac",
     "store": "it",
@@ -484,17 +517,6 @@
     "model": "FTL73T"
   },
   {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FRYN3T/A/MacBook-Air-15-pollici-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-10-core-Grigio-siderale",
-    "price": 1499.0,
-    "previous_price": 1759.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.14781125639567935,
-    "model": "FRYN3T"
-  },
-  {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -504,6 +526,17 @@
     "savings_price": 260.0,
     "saving_percentage": 0.14781125639567935,
     "model": "FRYQ3T"
+  },
+  {
+    "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FRYN3T/A/MacBook-Air-15-pollici-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-10-core-Grigio-siderale",
+    "price": 1499.0,
+    "previous_price": 1759.0,
+    "savings_price": 260.0,
+    "saving_percentage": 0.14781125639567935,
+    "model": "FRYN3T"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Mezzanotte",
@@ -627,6 +660,17 @@
     "model": "G19K0T"
   },
   {
+    "name": "iMac 24\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Blu",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQRR3T/A/iMac-24-pollici-ricondizionato-con-chip-Apple-M3-CPU-8%E2%80%91core-e-GPU-10%E2%80%91core-Blu",
+    "price": 1589.0,
+    "previous_price": 1869.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.149812734082397,
+    "model": "FQRR3T"
+  },
+  {
     "name": "Mac mini ricondizionato, chip Apple M2 Pro con CPU 10\u2010core e GPU 16\u2010core",
     "family": "mac",
     "store": "it",
@@ -636,6 +680,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1709T"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Blu",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G19L2T/A/iMac-24-pollici-ricondizionato-con-chip-Apple-M3-CPU-8%E2%80%91core-e-GPU-10%E2%80%91core-Blu",
+    "price": 1729.0,
+    "previous_price": 1729.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G19L2T"
   },
   {
     "name": "Apple Studio Display ricondizionato, vetro nanotexture, sostegno a inclinazione regolabile",
@@ -768,17 +823,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G12Z4T"
-  },
-  {
-    "name": "MacBook Pro 16\" ricondizionato con chip Apple M2 Pro, CPU 12\u2010core e GPU 19\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FNW83T/A/macbook-pro-16-ricondizionato-con-chip-apple-m2-pro-cpu-12%E2%80%91core-e-gpu-19%E2%80%91core-grigio-siderale",
-    "price": 2359.0,
-    "previous_price": 2969.0,
-    "savings_price": 610.0,
-    "saving_percentage": 0.2054563826204109,
-    "model": "FNW83T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 12-core e GPU 18-core - Nero siderale",
