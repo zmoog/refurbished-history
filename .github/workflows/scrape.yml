@@ -24,7 +24,7 @@ jobs:
             PRODUCTS="stores/$STORE"
             mkdir -p ${PRODUCTS}
 
-            for PRODUCT in "ipads" "iphones" "macs"
+            for PRODUCT in "accessories" "ipads" "iphones" "macs"
             do
                 echo "Scraping $STORE $PRODUCT"
             rfrb ${STORE} ${PRODUCT} --format json 2> /dev/null > ${PRODUCTS}/${PRODUCT}.json
