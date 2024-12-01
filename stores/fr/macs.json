@@ -88,17 +88,6 @@
     "model": "FYDA2FN"
   },
   {
-    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 8 c\u0153urs \u2013 Gris side\u0301ral",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FRXN3F/A/MacBook-Air-13-pouces-reconditionn%C3%A9-avec-puce-Apple-M3-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Gris-sid%C3%A9ral",
-    "price": 999.0,
-    "previous_price": 1179.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.15267175572519084,
-    "model": "FRXN3F"
-  },
-  {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 8 c\u0153urs \u2013 Minuit",
     "family": "mac",
     "store": "fr",
@@ -867,6 +856,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1758F"
+  },
+  {
+    "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M3 Max, CPU 14 c\u0153urs et GPU 30 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/FRW33F/A/macbook-pro-16-pouces-reconditionn%C3%A9-avec-puce-apple-m3-max-cpu-14-c%C5%93urs-et-gpu-30-c%C5%93urs-noir-sid%C3%A9ral",
+    "price": 3379.0,
+    "previous_price": 3979.0,
+    "savings_price": 600.0,
+    "saving_percentage": 0.15079165619502388,
+    "model": "FRW33F"
   },
   {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M3 Max, CPU 14 c\u0153urs et GPU 30 c\u0153urs - Argent",
