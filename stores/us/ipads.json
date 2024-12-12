@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished Apple Pencil (USB-C)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FUWA3AM/A/refurbished-apple-pencil-usb-c",
+    "price": 69.0,
+    "previous_price": 79.0,
+    "savings_price": 10.0,
+    "saving_percentage": 0.12658227848101267,
+    "model": "FUWA3AM"
+  },
+  {
     "name": "Refurbished iPad Wi-Fi 64GB - Silver (10th Generation)",
     "family": "ipad",
     "store": "us",
@@ -374,17 +385,6 @@
     "model": "FME63LL"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB - Space Gray (2nd Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FXDE2LL/A/Refurbished-11-inch-iPad-Pro-Wi-Fi-512GB-Space-Gray-2nd-Generation",
-    "price": 649.0,
-    "previous_price": 999.0,
-    "savings_price": 350.0,
-    "saving_percentage": 0.35035035035035034,
-    "model": "FXDE2LL"
-  },
-  {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB - Silver (2nd Generation)",
     "family": "ipad",
     "store": "us",
@@ -418,15 +418,15 @@
     "model": "FHNG3LL"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi + Cellular 512GB - Space Gray (2nd Generation)",
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi + Cellular 512GB - Silver  (2nd Generation)",
     "family": "ipad",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FXEY2LL/A/Refurbished-11-inch-iPad-Pro-Wi-Fi-Cellular-512GB-Space-Gray-2nd-Generation",
+    "url": "https://www.apple.com/shop/product/FXF02LL/A/Refurbished-11-inch-iPad-Pro-Wi-Fi-Cellular-512GB-Silver--2nd-Generation",
     "price": 759.0,
     "previous_price": 1149.0,
     "savings_price": 390.0,
     "saving_percentage": 0.3394255874673629,
-    "model": "FXEY2LL"
+    "model": "FXF02LL"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi  512GB - Space Gray (3rd Generation)",
@@ -592,6 +592,17 @@
     "savings_price": 370.0,
     "saving_percentage": 0.2742772424017791,
     "model": "FHNW3LL"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 256GB - Silver (5th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FHNX3LL/A/refurbished-129-inch-ipad-pro-wi-ficellular-256gb-silver-5th-generation",
+    "price": 979.0,
+    "previous_price": 1349.0,
+    "savings_price": 370.0,
+    "saving_percentage": 0.2742772424017791,
+    "model": "FHNX3LL"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 256GB Space Gray (6th Generation)",
