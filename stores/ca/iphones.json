@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPhone 13 256GB - Midnight (Unlocked)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FLNH3VC/A/refurbished-iphone-13-256gb-midnight-unlocked",
-    "price": 729.0,
-    "previous_price": 849.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.1413427561837456,
-    "model": "FLNH3VC"
-  },
-  {
     "name": "Refurbished iPhone 13 Pro Max 128GB - Silver (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -141,6 +130,17 @@
     "savings_price": 460.0,
     "saving_percentage": 0.25288620120945576,
     "model": "FLJQ3VC"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 512GB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FLJV3VC/A/refurbished-iphone-13-pro-max-512gb-gold-unlocked",
+    "price": 1359.0,
+    "previous_price": 1819.0,
+    "savings_price": 460.0,
+    "saving_percentage": 0.25288620120945576,
+    "model": "FLJV3VC"
   },
   {
     "name": "Refurbished iPhone 13 Pro Max 512GB - Sierra Blue (Unlocked)",
