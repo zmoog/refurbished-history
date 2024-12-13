@@ -407,17 +407,6 @@
     "model": "G15Z3T"
   },
   {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FRYN3T/A/MacBook-Air-15-pollici-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-10-core-Grigio-siderale",
-    "price": 1499.0,
-    "previous_price": 1759.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.14781125639567935,
-    "model": "FRYN3T"
-  },
-  {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -427,6 +416,17 @@
     "savings_price": 260.0,
     "saving_percentage": 0.14781125639567935,
     "model": "FRYQ3T"
+  },
+  {
+    "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FRYN3T/A/MacBook-Air-15-pollici-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-10-core-Grigio-siderale",
+    "price": 1499.0,
+    "previous_price": 1759.0,
+    "savings_price": 260.0,
+    "saving_percentage": 0.14781125639567935,
+    "model": "FRYN3T"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Galassia",
@@ -834,17 +834,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1764T"
-  },
-  {
-    "name": "MacBook Pro 16\" ricondizionato con chip Apple M2 Max, CPU 12\u2010core e GPU 38\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G1767T/A/macbook-pro-16-ricondizionato-con-chip-apple-m2-max-cpu-12%E2%80%91core-e-gpu-38%E2%80%91core-grigio-siderale",
-    "price": 3939.0,
-    "previous_price": 3939.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1767T"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M2 Max, CPU 12\u2010core e GPU 38\u2010core - Argento",
