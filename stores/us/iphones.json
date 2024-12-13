@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPhone 14 128GB - Midnight (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FPUA3LL/A/Refurbished-iPhone-14-128GB-Midnight-Unlocked",
-    "price": 529.0,
-    "previous_price": 629.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.1589825119236884,
-    "model": "FPUA3LL"
-  },
-  {
     "name": "Refurbished iPhone 14 256GB - Midnight (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -20,6 +9,17 @@
     "savings_price": 110.0,
     "saving_percentage": 0.15089163237311384,
     "model": "FPVV3LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro 256GB - Alpine Green (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FNDU3LL/A/refurbished-iphone-13-pro-256gb-alpine-green-unlocked",
+    "price": 679.0,
+    "previous_price": 999.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.3203203203203203,
+    "model": "FNDU3LL"
   },
   {
     "name": "Refurbished iPhone 14 Pro 128GB - Space Black (Unlocked)",
@@ -42,6 +42,39 @@
     "savings_price": 230.0,
     "saving_percentage": 0.24757804090419805,
     "model": "FLN23LL"
+  },
+  {
+    "name": "Refurbished iPhone 14 Pro 256GB - Space Black (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FQ0N3LL/A/Refurbished-iPhone-14-Pro-256GB-Space-Black-Unlocked",
+    "price": 759.0,
+    "previous_price": 999.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.24024024024024024,
+    "model": "FQ0N3LL"
+  },
+  {
+    "name": "Refurbished iPhone 14 Pro 256GB - Silver (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FQ0X3LL/A/Refurbished-iPhone-14-Pro-256GB-Silver-Unlocked",
+    "price": 759.0,
+    "previous_price": 999.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.24024024024024024,
+    "model": "FQ0X3LL"
+  },
+  {
+    "name": "Refurbished iPhone 14 Pro 256GB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FQ163LL/A/Refurbished-iPhone-14-Pro-256GB-Gold-Unlocked",
+    "price": 759.0,
+    "previous_price": 999.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.24024024024024024,
+    "model": "FQ163LL"
   },
   {
     "name": "Refurbished iPhone 14 Pro 256GB - Deep Purple (Unlocked)",
@@ -75,6 +108,17 @@
     "savings_price": 370.0,
     "saving_percentage": 0.2848344880677444,
     "model": "FLKX3LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 512GB - Sierra Blue (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLL03LL/A/refurbished-iphone-13-pro-max-512gb-sierra-blue-unlocked",
+    "price": 929.0,
+    "previous_price": 1299.0,
+    "savings_price": 370.0,
+    "saving_percentage": 0.2848344880677444,
+    "model": "FLL03LL"
   },
   {
     "name": "Refurbished iPhone 13 Pro Max 512GB - Alpine Green (Unlocked)",
@@ -187,6 +231,17 @@
     "model": "FQ913LL"
   },
   {
+    "name": "Refurbished iPhone 13 Pro Max 1TB - Gold (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLL43LL/A/refurbished-iphone-13-pro-max-1tb-gold-unlocked",
+    "price": 1099.0,
+    "previous_price": 1499.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.266844563042028,
+    "model": "FLL43LL"
+  },
+  {
     "name": "Refurbished iPhone 13 Pro Max 1TB - Sierra Blue (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -196,6 +251,17 @@
     "savings_price": 400.0,
     "saving_percentage": 0.266844563042028,
     "model": "FLL53LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 Pro Max 1TB - Alpine Green (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FNCT3LL/A/refurbished-iphone-13-pro-max-1tb-alpine-green-unlocked",
+    "price": 1099.0,
+    "previous_price": 1499.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.266844563042028,
+    "model": "FNCT3LL"
   },
   {
     "name": "Refurbished iPhone 14 Pro 1TB - Space Black (Unlocked)",
