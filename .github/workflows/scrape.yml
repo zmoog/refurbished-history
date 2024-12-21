@@ -24,10 +24,10 @@ jobs:
             PRODUCTS="stores/$STORE"
             mkdir -p ${PRODUCTS}
 
-            for PRODUCT in "accessories" "ipads" "iphones" "macs"
+            for PRODUCT in "accessories" "appletvs" "ipads" "iphones" "macs"
             do
                 echo "Scraping $STORE $PRODUCT"
-            rfrb ${STORE} ${PRODUCT} --format json 2> /dev/null > ${PRODUCTS}/${PRODUCT}.json
+                rfrb ${STORE} ${PRODUCT} --format json 2> /dev/null > ${PRODUCTS}/${PRODUCT}.json
             done
         done        
     - name: Commit and push if it changed
