@@ -22,17 +22,6 @@
     "model": "FK2K3LL"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 64GB - Silver (10th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FPQ03LL/A/Refurbished-iPad-Wi-Fi-64GB-Silver-10th-Generation",
-    "price": 299.0,
-    "previous_price": 349.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.14326647564469913,
-    "model": "FPQ03LL"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 64GB - Blue (10th Generation)",
     "family": "ipad",
     "store": "us",
@@ -53,6 +42,17 @@
     "savings_price": 50.0,
     "saving_percentage": 0.14326647564469913,
     "model": "FPQ23LL"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 64GB - Pink (10th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FPQ33LL/A/Refurbished-iPad-Wi-Fi-64GB-Pink-10th-Generation",
+    "price": 299.0,
+    "previous_price": 349.0,
+    "savings_price": 50.0,
+    "saving_percentage": 0.14326647564469913,
+    "model": "FPQ33LL"
   },
   {
     "name": "Refurbished iPad Wi-Fi 128GB - Gold (8th Generation)",
@@ -405,17 +405,6 @@
     "savings_price": 120.0,
     "saving_percentage": 0.18489984591679506,
     "model": "FME63LL"
-  },
-  {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi  128GB - Silver (3rd Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FHQT3LL/A/refurbished-11-inch-ipad-pro-wi-fi-128gb-silver-3rd-generation",
-    "price": 549.0,
-    "previous_price": 749.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.26702269692923897,
-    "model": "FHQT3LL"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 128GB - Space Gray (5th Generation)",
