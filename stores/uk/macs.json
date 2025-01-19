@@ -616,17 +616,6 @@
     "model": "G19R0B"
   },
   {
-    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FQRK3B/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Silver",
-    "price": 1359.0,
-    "previous_price": 1599.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.150093808630394,
-    "model": "FQRK3B"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Yellow",
     "family": "mac",
     "store": "uk",
@@ -636,6 +625,17 @@
     "savings_price": 240.0,
     "saving_percentage": 0.150093808630394,
     "model": "FQRM3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Silver",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FQRK3B/A/Refurbished-24-inch-iMac-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Silver",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "FQRK3B"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Green",
@@ -1122,17 +1122,6 @@
     "model": "G19Q4B"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M3 Pro Chip with 12\u2010Core CPU and 18\u2010Core GPU - Space Black",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FRX43B/A/refurbished-14-inch-macbook-pro-apple-m3-pro-chip-with-12%E2%80%91core-cpu-and-18%E2%80%91core-gpu-space-black",
-    "price": 1949.0,
-    "previous_price": 2299.0,
-    "savings_price": 350.0,
-    "saving_percentage": 0.15224010439321445,
-    "model": "FRX43B"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M3 Pro Chip with 12\u2010Core CPU and 18\u2010Core GPU - Silver",
     "family": "mac",
     "store": "uk",
@@ -1142,6 +1131,17 @@
     "savings_price": 350.0,
     "saving_percentage": 0.15224010439321445,
     "model": "FRX73B"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M3 Pro Chip with 12\u2010Core CPU and 18\u2010Core GPU - Space Black",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FRX43B/A/refurbished-14-inch-macbook-pro-apple-m3-pro-chip-with-12%E2%80%91core-cpu-and-18%E2%80%91core-gpu-space-black",
+    "price": 1949.0,
+    "previous_price": 2299.0,
+    "savings_price": 350.0,
+    "saving_percentage": 0.15224010439321445,
+    "model": "FRX43B"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Pro Chip with 12\u2010Core CPU and 19\u2010Core GPU - Silver",
@@ -1155,17 +1155,6 @@
     "model": "FNWC3B"
   },
   {
-    "name": "Refurbished 16-inch MacBook Pro Apple M3 Pro Chip with 12\u2010Core CPU and 18\u2010Core GPU - Space Black",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FRW13B/A/refurbished-16-inch-macbook-pro-apple-m3-pro-chip-with-12%E2%80%91core-cpu-and-18%E2%80%91core-gpu-space-black",
-    "price": 2039.0,
-    "previous_price": 2399.0,
-    "savings_price": 360.0,
-    "saving_percentage": 0.15006252605252188,
-    "model": "FRW13B"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro Apple M3 Pro Chip with 12\u2010Core CPU and 18\u2010Core GPU - Silver",
     "family": "mac",
     "store": "uk",
@@ -1175,6 +1164,17 @@
     "savings_price": 360.0,
     "saving_percentage": 0.15006252605252188,
     "model": "FRW43B"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M3 Pro Chip with 12\u2010Core CPU and 18\u2010Core GPU - Space Black",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FRW13B/A/refurbished-16-inch-macbook-pro-apple-m3-pro-chip-with-12%E2%80%91core-cpu-and-18%E2%80%91core-gpu-space-black",
+    "price": 2039.0,
+    "previous_price": 2399.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.15006252605252188,
+    "model": "FRW13B"
   },
   {
     "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU",
