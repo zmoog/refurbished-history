@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil (USB-C)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FUWA3AM/A/refurbished-apple-pencil-usb-c",
-    "price": 69.0,
-    "previous_price": 79.0,
-    "savings_price": 10.0,
-    "saving_percentage": 0.12658227848101267,
-    "model": "FUWA3AM"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 64GB - Space Gray (9th Generation)",
     "family": "ipad",
     "store": "us",
@@ -31,6 +20,17 @@
     "savings_price": 80.0,
     "saving_percentage": 0.24316109422492402,
     "model": "FK2L3LL"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 64GB - Yellow (10th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FPQ23LL/A/Refurbished-iPad-Wi-Fi-64GB-Yellow-10th-Generation",
+    "price": 299.0,
+    "previous_price": 349.0,
+    "savings_price": 50.0,
+    "saving_percentage": 0.14326647564469913,
+    "model": "FPQ23LL"
   },
   {
     "name": "Refurbished iPad Wi-Fi 256GB - Space Gray (9th Generation)",

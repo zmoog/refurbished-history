@@ -22,17 +22,6 @@
     "model": "FLPF3B"
   },
   {
-    "name": "Refurbished iPhone 13 128GB - Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FLPK3B/A/refurbished-iphone-13-128gb-blue-sim-free",
-    "price": 419.0,
-    "previous_price": 499.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.16032064128256512,
-    "model": "FLPK3B"
-  },
-  {
     "name": "Refurbished iPhone 13 mini 256GB - Midnight (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -418,17 +407,6 @@
     "model": "FND03B"
   },
   {
-    "name": "Refurbished iPhone 14 512GB - Blue (SIM-Free)",
-    "family": "iphone",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FPXN3ZD/A/Refurbished-iPhone-14-512GB-Blue-SIM-Free",
-    "price": 759.0,
-    "previous_price": 899.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.1557285873192436,
-    "model": "FPXN3ZD"
-  },
-  {
     "name": "Refurbished iPhone 14 512GB - Midnight (SIM-Free)",
     "family": "iphone",
     "store": "uk",
@@ -460,6 +438,17 @@
     "savings_price": 140.0,
     "saving_percentage": 0.1557285873192436,
     "model": "FPX93ZD"
+  },
+  {
+    "name": "Refurbished iPhone 14 512GB - Blue (SIM-Free)",
+    "family": "iphone",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FPXN3ZD/A/Refurbished-iPhone-14-512GB-Blue-SIM-Free",
+    "price": 759.0,
+    "previous_price": 899.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.1557285873192436,
+    "model": "FPXN3ZD"
   },
   {
     "name": "Refurbished iPhone 14 Pro 256GB - Silver (SIM-Free)",
