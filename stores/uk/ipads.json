@@ -22,14 +22,47 @@
     "model": "FU8F2ZM"
   },
   {
+    "name": "Refurbished iPad Wi-Fi 64GB - Space Grey (9th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FK2K3B/A/refurbished-ipad-wi-fi-64gb-space-grey-9th-generation",
+    "price": 199.0,
+    "previous_price": 309.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.3559870550161812,
+    "model": "FK2K3B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 64GB - Silver (9th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FK2L3B/A/refurbished-ipad-wi-fi-64gb-silver-9th-generation",
+    "price": 199.0,
+    "previous_price": 309.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.3559870550161812,
+    "model": "FK2L3B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 128GB - Space Grey (8th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FYLD2B/A/Refurbished-iPad-Wi-Fi-128GB-Space-Gray-8th-Generation",
+    "price": 209.0,
+    "previous_price": 399.0,
+    "savings_price": 190.0,
+    "saving_percentage": 0.47619047619047616,
+    "model": "FYLD2B"
+  },
+  {
     "name": "Refurbished iPad Wi-Fi 64GB - Silver (10th Generation)",
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FCM74NF/A/refurbished-ipad-wi-fi-64gb-silver-10th-generation",
-    "price": 279.0,
-    "previous_price": 329.0,
+    "price": 229.0,
+    "previous_price": 279.0,
     "savings_price": 50.0,
-    "saving_percentage": 0.1519756838905775,
+    "saving_percentage": 0.17921146953405018,
     "model": "FCM74NF"
   },
   {
@@ -37,10 +70,10 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FCM94NF/A/refurbished-ipad-wi-fi-64gb-yellow-10th-generation",
-    "price": 279.0,
-    "previous_price": 329.0,
+    "price": 229.0,
+    "previous_price": 279.0,
     "savings_price": 50.0,
-    "saving_percentage": 0.1519756838905775,
+    "saving_percentage": 0.17921146953405018,
     "model": "FCM94NF"
   },
   {
@@ -48,22 +81,110 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FCMC4NF/A/refurbished-ipad-wi-fi-64gb-pink-10th-generation",
-    "price": 279.0,
-    "previous_price": 329.0,
+    "price": 229.0,
+    "previous_price": 279.0,
     "savings_price": 50.0,
-    "saving_percentage": 0.1519756838905775,
+    "saving_percentage": 0.17921146953405018,
     "model": "FCMC4NF"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 128GB - Space Grey (8th Generation)",
+    "name": "Refurbished iPad Wi-Fi 256GB - Space Grey (9th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FYLD2B/A/Refurbished-iPad-Wi-Fi-128GB-Space-Gray-8th-Generation",
-    "price": 279.0,
-    "previous_price": 399.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.3007518796992481,
-    "model": "FYLD2B"
+    "url": "https://www.apple.com/uk/shop/product/FK2N3B/A/refurbished-ipad-wi-fi-256gb-space-grey-9th-generation",
+    "price": 269.0,
+    "previous_price": 459.0,
+    "savings_price": 190.0,
+    "saving_percentage": 0.4139433551198257,
+    "model": "FK2N3B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 256GB - Silver (10th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FCMD4NF/A/refurbished-ipad-wi-fi-256gb-silver-10th-generation",
+    "price": 319.0,
+    "previous_price": 379.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.158311345646438,
+    "model": "FCMD4NF"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 256GB - Blue (10th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FCMF4NF/A/refurbished-ipad-wi-fi-256gb-blue-10th-generation",
+    "price": 319.0,
+    "previous_price": 379.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.158311345646438,
+    "model": "FCMF4NF"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 256GB - Yellow (10th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FCMG4NF/A/refurbished-ipad-wi-fi-256gb-yellow-10th-generation",
+    "price": 319.0,
+    "previous_price": 379.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.158311345646438,
+    "model": "FCMG4NF"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 256GB - Pink (10th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FCMH4NF/A/refurbished-ipad-wi-fi-256gb-pink-10th-generation",
+    "price": 319.0,
+    "previous_price": 379.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.158311345646438,
+    "model": "FCMH4NF"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi + Cellular 64GB - Silver (10th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FCMJ4NF/A/refurbished-ipad-wi-fi-cellular-64gb-silver-10th-generation",
+    "price": 359.0,
+    "previous_price": 429.0,
+    "savings_price": 70.0,
+    "saving_percentage": 0.16317016317016317,
+    "model": "FCMJ4NF"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi + Cellular 64GB - Pink (10th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FCMM4NF/A/refurbished-ipad-wi-fi-cellular-64gb-pink-10th-generation",
+    "price": 359.0,
+    "previous_price": 429.0,
+    "savings_price": 70.0,
+    "saving_percentage": 0.16317016317016317,
+    "model": "FCMM4NF"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Space Grey (9th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FK4E3B/A/refurbished-ipad-wi-fi-cellular-256gb-space-grey-9th-generation",
+    "price": 369.0,
+    "previous_price": 589.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.3735144312393888,
+    "model": "FK4E3B"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Silver (9th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FK4H3B/A/refurbished-ipad-wi-fi-cellular-256gb-silver-9th-generation",
+    "price": 369.0,
+    "previous_price": 589.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.3735144312393888,
+    "model": "FK4H3B"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Space Grey",
@@ -99,70 +220,81 @@
     "model": "FK7R3B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 256GB - Silver (10th Generation)",
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Space Grey (5th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMD4NF/A/refurbished-ipad-wi-fi-256gb-silver-10th-generation",
-    "price": 399.0,
-    "previous_price": 479.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.16701461377870563,
-    "model": "FCMD4NF"
+    "url": "https://www.apple.com/uk/shop/product/FM9C3B/A/refurbished-ipad-air-wi-Fi-64gb-space-grey-5th-generation",
+    "price": 379.0,
+    "previous_price": 549.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.30965391621129323,
+    "model": "FM9C3B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 256GB - Blue (10th Generation)",
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Pink (5th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMF4NF/A/refurbished-ipad-wi-fi-256gb-blue-10th-generation",
-    "price": 399.0,
-    "previous_price": 479.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.16701461377870563,
-    "model": "FCMF4NF"
+    "url": "https://www.apple.com/uk/shop/product/FM9D3B/A/refurbished-ipad-air-wi-fi-64gb-pink-5th-generation",
+    "price": 379.0,
+    "previous_price": 549.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.30965391621129323,
+    "model": "FM9D3B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 256GB - Yellow (10th Generation)",
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Blue (5th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMG4NF/A/refurbished-ipad-wi-fi-256gb-yellow-10th-generation",
-    "price": 399.0,
-    "previous_price": 479.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.16701461377870563,
-    "model": "FCMG4NF"
+    "url": "https://www.apple.com/uk/shop/product/FM9E3B/A/refurbished-ipad-air-wi-fi-64gb-blue-5th-generation",
+    "price": 379.0,
+    "previous_price": 549.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.30965391621129323,
+    "model": "FM9E3B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 256GB - Pink (10th Generation)",
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Starlight (5th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMH4NF/A/refurbished-ipad-wi-fi-256gb-pink-10th-generation",
-    "price": 399.0,
-    "previous_price": 479.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.16701461377870563,
-    "model": "FCMH4NF"
+    "url": "https://www.apple.com/uk/shop/product/FM9F3B/A/refurbished-ipad-air-wi-fi-64gb-starlight-5th-generation",
+    "price": 379.0,
+    "previous_price": 549.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.30965391621129323,
+    "model": "FM9F3B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi + Cellular 64GB - Silver (10th Generation)",
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Purple (5th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMJ4NF/A/refurbished-ipad-wi-fi-cellular-64gb-silver-10th-generation",
-    "price": 399.0,
-    "previous_price": 479.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.16701461377870563,
-    "model": "FCMJ4NF"
+    "url": "https://www.apple.com/uk/shop/product/FME23B/A/refurbished-ipad-air-wi-fi-64gb-purple-5th-generation",
+    "price": 379.0,
+    "previous_price": 549.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.30965391621129323,
+    "model": "FME23B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi + Cellular 64GB - Pink (10th Generation)",
+    "name": "Refurbished iPad Wi-Fi + Cellular 256GB - Silver (10th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMM4NF/A/refurbished-ipad-wi-fi-cellular-64gb-pink-10th-generation",
-    "price": 399.0,
-    "previous_price": 479.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.16701461377870563,
-    "model": "FCMM4NF"
+    "url": "https://www.apple.com/uk/shop/product/FCMN4NF/A/refurbished-ipad-wi-fi-cellular-256gb-silver-10th-generation",
+    "price": 439.0,
+    "previous_price": 529.0,
+    "savings_price": 90.0,
+    "saving_percentage": 0.17013232514177692,
+    "model": "FCMN4NF"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi + Cellular 256GB - Pink (10th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FCMR4NF/A/refurbished-ipad-wi-fi-cellular-256gb-pink-10th-generation",
+    "price": 439.0,
+    "previous_price": 529.0,
+    "savings_price": 90.0,
+    "saving_percentage": 0.17013232514177692,
+    "model": "FCMR4NF"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Grey",
@@ -198,179 +330,14 @@
     "model": "FLWR3B"
   },
   {
-    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Space Grey (9th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FK4E3B/A/refurbished-ipad-wi-fi-cellular-256gb-space-grey-9th-generation",
-    "price": 469.0,
-    "previous_price": 589.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.2037351443123939,
-    "model": "FK4E3B"
-  },
-  {
-    "name": "Refurbished iPad Wi-Fi+Cellular 256GB - Silver (9th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FK4H3B/A/refurbished-ipad-wi-fi-cellular-256gb-silver-9th-generation",
-    "price": 469.0,
-    "previous_price": 589.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.2037351443123939,
-    "model": "FK4H3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Space Grey (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9C3B/A/refurbished-ipad-air-wi-Fi-64gb-space-grey-5th-generation",
-    "price": 469.0,
-    "previous_price": 549.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.14571948998178508,
-    "model": "FM9C3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Pink (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9D3B/A/refurbished-ipad-air-wi-fi-64gb-pink-5th-generation",
-    "price": 469.0,
-    "previous_price": 549.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.14571948998178508,
-    "model": "FM9D3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Blue (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9E3B/A/refurbished-ipad-air-wi-fi-64gb-blue-5th-generation",
-    "price": 469.0,
-    "previous_price": 549.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.14571948998178508,
-    "model": "FM9E3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Starlight (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9F3B/A/refurbished-ipad-air-wi-fi-64gb-starlight-5th-generation",
-    "price": 469.0,
-    "previous_price": 549.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.14571948998178508,
-    "model": "FM9F3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 64GB - Purple (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FME23B/A/refurbished-ipad-air-wi-fi-64gb-purple-5th-generation",
-    "price": 469.0,
-    "previous_price": 549.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.14571948998178508,
-    "model": "FME23B"
-  },
-  {
-    "name": "Refurbished iPad Wi-Fi + Cellular 256GB - Silver (10th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMN4NF/A/refurbished-ipad-wi-fi-cellular-256gb-silver-10th-generation",
-    "price": 519.0,
-    "previous_price": 629.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.17488076311605724,
-    "model": "FCMN4NF"
-  },
-  {
-    "name": "Refurbished iPad Wi-Fi + Cellular 256GB - Pink (10th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FCMR4NF/A/refurbished-ipad-wi-fi-cellular-256gb-pink-10th-generation",
-    "price": 519.0,
-    "previous_price": 629.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.17488076311605724,
-    "model": "FCMR4NF"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 256GB - Pink (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9M3B/A/refurbished-ipad-air-wi-fi-256gb-pink-5th-generation",
-    "price": 519.0,
-    "previous_price": 649.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.20030816640986132,
-    "model": "FM9M3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 256GB - Space Grey (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9L3B/A/refurbished-ipad-air-wi-fi-256gb-space-gray-5th-generation",
-    "price": 519.0,
-    "previous_price": 649.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.20030816640986132,
-    "model": "FM9L3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 256GB - Blue (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9N3B/A/refurbished-ipad-air-wi-fi-256gb-blue-5th-generation",
-    "price": 519.0,
-    "previous_price": 649.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.20030816640986132,
-    "model": "FM9N3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 256GB - Starlight (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9P3B/A/refurbished-ipad-air-wi-fi-256gb-starlight-5th-generation",
-    "price": 519.0,
-    "previous_price": 649.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.20030816640986132,
-    "model": "FM9P3B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi 256GB - Purple (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FME63B/A/refurbished-ipad-air-wi-fi-256gb-purple-5th-generation",
-    "price": 519.0,
-    "previous_price": 649.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.20030816640986132,
-    "model": "FME63B"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Starlight (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM6V3B/A/refurbished-ipad-air-wi-fi-cellular-64gb-starlight-5th-generation",
-    "price": 589.0,
-    "previous_price": 699.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15736766809728184,
-    "model": "FM6V3B"
-  },
-  {
     "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Space Grey (5th Generation)",
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FM6R3B/A/refurbished-ipad-air-wi-fi-cellular-64gb-space-gray-5th-generation",
-    "price": 589.0,
+    "price": 499.0,
     "previous_price": 699.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15736766809728184,
+    "savings_price": 200.0,
+    "saving_percentage": 0.2861230329041488,
     "model": "FM6R3B"
   },
   {
@@ -378,10 +345,10 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FM6T3B/A/refurbished-ipad-air-wi-fi-cellular-64gb-pink-5th-generation",
-    "price": 589.0,
+    "price": 499.0,
     "previous_price": 699.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15736766809728184,
+    "savings_price": 200.0,
+    "saving_percentage": 0.2861230329041488,
     "model": "FM6T3B"
   },
   {
@@ -389,21 +356,87 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FM6U3B/A/refurbished-ipad-air-wi-fi-cellular-64gb-blue-5th-generation",
-    "price": 589.0,
+    "price": 499.0,
     "previous_price": 699.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15736766809728184,
+    "savings_price": 200.0,
+    "saving_percentage": 0.2861230329041488,
     "model": "FM6U3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Starlight (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FM6V3B/A/refurbished-ipad-air-wi-fi-cellular-64gb-starlight-5th-generation",
+    "price": 499.0,
+    "previous_price": 699.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.2861230329041488,
+    "model": "FM6V3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Space Grey (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FM9L3B/A/refurbished-ipad-air-wi-fi-256gb-space-gray-5th-generation",
+    "price": 499.0,
+    "previous_price": 649.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.23112480739599384,
+    "model": "FM9L3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Pink (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FM9M3B/A/refurbished-ipad-air-wi-fi-256gb-pink-5th-generation",
+    "price": 499.0,
+    "previous_price": 649.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.23112480739599384,
+    "model": "FM9M3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Blue (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FM9N3B/A/refurbished-ipad-air-wi-fi-256gb-blue-5th-generation",
+    "price": 499.0,
+    "previous_price": 649.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.23112480739599384,
+    "model": "FM9N3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Starlight (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FM9P3B/A/refurbished-ipad-air-wi-fi-256gb-starlight-5th-generation",
+    "price": 499.0,
+    "previous_price": 649.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.23112480739599384,
+    "model": "FM9P3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Purple (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FME63B/A/refurbished-ipad-air-wi-fi-256gb-purple-5th-generation",
+    "price": 499.0,
+    "previous_price": 649.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.23112480739599384,
+    "model": "FME63B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Purple (5th Generation)",
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FME93B/A/refurbished-ipad-air-wi-fi-cellular-64gb-purple-5th-generation",
-    "price": 589.0,
+    "price": 499.0,
     "previous_price": 699.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15736766809728184,
+    "savings_price": 200.0,
+    "saving_percentage": 0.2861230329041488,
     "model": "FME93B"
   },
   {
@@ -411,10 +444,10 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FM713B/A/refurbished-ipad-air-wi-fi-cellular-256gb-space-gray-5th-generation",
-    "price": 639.0,
+    "price": 629.0,
     "previous_price": 799.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.2002503128911139,
+    "savings_price": 170.0,
+    "saving_percentage": 0.2127659574468085,
     "model": "FM713B"
   },
   {
@@ -422,10 +455,10 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FM723B/A/refurbished-ipad-air-wi-fi-cellular-256gb-pink-5th-generation",
-    "price": 639.0,
+    "price": 629.0,
     "previous_price": 799.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.2002503128911139,
+    "savings_price": 170.0,
+    "saving_percentage": 0.2127659574468085,
     "model": "FM723B"
   },
   {
@@ -433,10 +466,10 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FM733B/A/refurbished-ipad-air-wi-fi-cellular-256gb-blue-5th-generation",
-    "price": 639.0,
+    "price": 629.0,
     "previous_price": 799.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.2002503128911139,
+    "savings_price": 170.0,
+    "saving_percentage": 0.2127659574468085,
     "model": "FM733B"
   },
   {
@@ -444,10 +477,10 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FM743B/A/refurbished-ipad-air-wi-fi-cellular-256gb-starlight-5th-generation",
-    "price": 639.0,
+    "price": 629.0,
     "previous_price": 799.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.2002503128911139,
+    "savings_price": 170.0,
+    "saving_percentage": 0.2127659574468085,
     "model": "FM743B"
   },
   {
@@ -455,10 +488,10 @@
     "family": "ipad",
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/FMED3B/A/refurbished-ipad-air-wi-fi-cellular-256gb-purple-5th-generation",
-    "price": 639.0,
+    "price": 629.0,
     "previous_price": 799.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.2002503128911139,
+    "savings_price": 170.0,
+    "saving_percentage": 0.2127659574468085,
     "model": "FMED3B"
   },
   {
@@ -550,17 +583,6 @@
     "model": "FXE62B"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB - Space Grey (3rd Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FHQW3B/A/refurbished-11-inch-ipad-pro-wi-fi-512gb-space-grey-3rd-generation",
-    "price": 769.0,
-    "previous_price": 1049.0,
-    "savings_price": 280.0,
-    "saving_percentage": 0.2669208770257388,
-    "model": "FHQW3B"
-  },
-  {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi+Cellular 128GB - Space Grey (5th Generation)",
     "family": "ipad",
     "store": "uk",
@@ -627,17 +649,6 @@
     "model": "FXE92B"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Silver (4th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FNXJ3B/A/refurbished-11-inch-ipad-pro-wi-fi-512gb-silver-4th-generation",
-    "price": 889.0,
-    "previous_price": 1099.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.1910828025477707,
-    "model": "FNXJ3B"
-  },
-  {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Space Grey (4th Generation)",
     "family": "ipad",
     "store": "uk",
@@ -647,6 +658,17 @@
     "savings_price": 210.0,
     "saving_percentage": 0.1910828025477707,
     "model": "FNXH3B"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Silver (4th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FNXJ3B/A/refurbished-11-inch-ipad-pro-wi-fi-512gb-silver-4th-generation",
+    "price": 889.0,
+    "previous_price": 1099.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.1910828025477707,
+    "model": "FNXJ3B"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 128GB Space Grey (6th Generation)",
@@ -1043,5 +1065,16 @@
     "savings_price": 400.0,
     "saving_percentage": 0.17028522775649213,
     "model": "FP263B"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 2TB Silver (6th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FP273B/A/refurbished-129-inch-ipad-pro-wi-fi-cellular-2tb-silver-6th-generation",
+    "price": 1949.0,
+    "previous_price": 2349.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.17028522775649213,
+    "model": "FP273B"
   }
 ]
