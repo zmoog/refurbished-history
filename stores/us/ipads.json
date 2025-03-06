@@ -11,17 +11,6 @@
     "model": "FK0C2AM"
   },
   {
-    "name": "Refurbished Apple Pencil (2nd Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FU8F2AM/A/refurbished-apple-pencil-2nd-generation",
-    "price": 109.0,
-    "previous_price": 129.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.15503875968992248,
-    "model": "FU8F2AM"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 64GB - Space Gray (9th Generation)",
     "family": "ipad",
     "store": "us",
@@ -64,6 +53,17 @@
     "savings_price": 200.0,
     "saving_percentage": 0.4175365344467641,
     "model": "FK2P3LL"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 64GB - Green (4th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FYFR2LL/A/Refurbished-iPad-Air-Wi-Fi-64GB-Green-4th-Generation",
+    "price": 319.0,
+    "previous_price": 549.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.41894353369763204,
+    "model": "FYFR2LL"
   },
   {
     "name": "Refurbished iPad Wi-Fi 256GB - Blue (10th Generation)",
@@ -119,17 +119,6 @@
     "savings_price": 70.0,
     "saving_percentage": 0.155902004454343,
     "model": "FK7P3LL"
-  },
-  {
-    "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Pink",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FLWL3LL/A/refurbished-ipad-mini-6-wi-fi-64gb-pink",
-    "price": 379.0,
-    "previous_price": 449.0,
-    "savings_price": 70.0,
-    "saving_percentage": 0.155902004454343,
-    "model": "FLWL3LL"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi 64GB - Space Gray (5th Generation)",
