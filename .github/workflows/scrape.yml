@@ -19,7 +19,7 @@ jobs:
     - run: pip install -r requirements.txt
     - name: Fetch latest data
       run: |-
-        for STORE in "it" "uk" "us" "cn" "ie" "fr" "ca"
+        for STORE in "it" "uk" "us" "cn" "ie" "fr" "ca" "tw"
         do
             PRODUCTS="stores/$STORE"
             mkdir -p ${PRODUCTS}
