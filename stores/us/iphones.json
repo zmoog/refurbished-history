@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished iPhone 13 128GB - Blue (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLMT3LL/A/refurbished-iphone-13-128gb-blue-unlocked",
+    "price": 449.0,
+    "previous_price": 629.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.2861685214626391,
+    "model": "FLMT3LL"
+  },
+  {
     "name": "Refurbished iPhone 13 256GB - Starlight (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -9,6 +20,17 @@
     "savings_price": 200.0,
     "saving_percentage": 0.27434842249657065,
     "model": "FLMX3LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 256GB - Pink (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLMY3LL/A/refurbished-iphone-13-256gb-pink-unlocked",
+    "price": 529.0,
+    "previous_price": 729.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.27434842249657065,
+    "model": "FLMY3LL"
   },
   {
     "name": "Refurbished iPhone 13 256GB - Blue (Unlocked)",
@@ -22,26 +44,70 @@
     "model": "FLN13LL"
   },
   {
-    "name": "Refurbished iPhone 13 Pro 128GB - Alpine Green (Unlocked)",
+    "name": "Refurbished iPhone 14 128GB - Purple (Unlocked)",
     "family": "iphone",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FNDT3LL/A/refurbished-iphone-13-pro-128gb-alpine-green-unlocked",
-    "price": 589.0,
-    "previous_price": 899.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.3448275862068966,
-    "model": "FNDT3LL"
+    "url": "https://www.apple.com/shop/product/FPUX3LL/A/Refurbished-iPhone-14-128GB-Purple-Unlocked",
+    "price": 529.0,
+    "previous_price": 629.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.1589825119236884,
+    "model": "FPUX3LL"
   },
   {
-    "name": "Refurbished iPhone 14 Pro Max 128GB - Gold (Unlocked)",
+    "name": "Refurbished iPhone 14 256GB - Purple (Unlocked)",
     "family": "iphone",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FQ8Q3LL/A/Refurbished-iPhone-14-Pro-Max-128GB-Gold-Unlocked",
+    "url": "https://www.apple.com/shop/product/FPW83LL/A/Refurbished-iPhone-14-256GB-Purple-Unlocked",
+    "price": 619.0,
+    "previous_price": 729.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15089163237311384,
+    "model": "FPW83LL"
+  },
+  {
+    "name": "Refurbished iPhone 14 256GB - Blue (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FPWM3LL/A/Refurbished-iPhone-14-256GB-Blue-Unlocked",
+    "price": 619.0,
+    "previous_price": 729.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15089163237311384,
+    "model": "FPWM3LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 mini 512GB - Midnight (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLHY3LL/A/refurbished-iphone-13-mini-512gb-midnight-unlocked",
+    "price": 659.0,
+    "previous_price": 929.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.2906350914962325,
+    "model": "FLHY3LL"
+  },
+  {
+    "name": "Refurbished iPhone 13 512GB - Midnight (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLN23LL/A/refurbished-iphone-13-512gb-midnight-unlocked",
+    "price": 699.0,
+    "previous_price": 929.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.24757804090419805,
+    "model": "FLN23LL"
+  },
+  {
+    "name": "Refurbished iPhone 14 Pro Max 128GB - Deep Purple (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FQ8R3LL/A/Refurbished-iPhone-14-Pro-Max-128GB-Deep-Purple-Unlocked",
     "price": 759.0,
     "previous_price": 999.0,
     "savings_price": 240.0,
     "saving_percentage": 0.24024024024024024,
-    "model": "FQ8Q3LL"
+    "model": "FQ8R3LL"
   },
   {
     "name": "Refurbished iPhone 14 Pro Max 512GB - Silver (Unlocked)",
