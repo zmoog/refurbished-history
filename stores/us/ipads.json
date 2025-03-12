@@ -33,17 +33,6 @@
     "model": "FK2L3LL"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 64GB - Silver (10th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FPQ03LL/A/Refurbished-iPad-Wi-Fi-64GB-Silver-10th-Generation",
-    "price": 249.0,
-    "previous_price": 299.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.16722408026755853,
-    "model": "FPQ03LL"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 64GB - Blue (10th Generation)",
     "family": "ipad",
     "store": "us",
@@ -75,6 +64,17 @@
     "savings_price": 200.0,
     "saving_percentage": 0.4175365344467641,
     "model": "FK2P3LL"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 256GB - Silver (10th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FPQ83LL/A/Refurbished-iPad-Wi-Fi-256GB-Silver-10th-Generation",
+    "price": 339.0,
+    "previous_price": 399.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.15037593984962405,
+    "model": "FPQ83LL"
   },
   {
     "name": "Refurbished iPad Wi-Fi 256GB - Blue (10th Generation)",
@@ -240,17 +240,6 @@
     "savings_price": 280.0,
     "saving_percentage": 0.4005722460658083,
     "model": "FYFY2LL"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Sky Blue (4th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FYJ12LL/A/Refurbished-iPad-Air-Wi-FiCellular-64GB-Sky-Blue-4th-Generation",
-    "price": 419.0,
-    "previous_price": 679.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.38291605301914583,
-    "model": "FYJ12LL"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Starlight",
