@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished Apple Pencil (USB-C)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FUWA3AM/A/refurbished-apple-pencil-usb-c",
+    "price": 69.0,
+    "previous_price": 79.0,
+    "savings_price": 10.0,
+    "saving_percentage": 0.12658227848101267,
+    "model": "FUWA3AM"
+  },
+  {
     "name": "Refurbished iPad Wi-Fi 256GB - Space Gray (9th Generation)",
     "family": "ipad",
     "store": "us",
@@ -20,6 +31,17 @@
     "savings_price": 200.0,
     "saving_percentage": 0.4175365344467641,
     "model": "FK2P3LL"
+  },
+  {
+    "name": "Refurbished iPad Wi-Fi 256GB - Silver (10th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FPQ83LL/A/Refurbished-iPad-Wi-Fi-256GB-Silver-10th-Generation",
+    "price": 339.0,
+    "previous_price": 399.0,
+    "savings_price": 60.0,
+    "saving_percentage": 0.15037593984962405,
+    "model": "FPQ83LL"
   },
   {
     "name": "Refurbished iPad Wi-Fi 256GB - Blue (10th Generation)",
@@ -647,5 +669,16 @@
     "savings_price": 400.0,
     "saving_percentage": 0.16673614005835766,
     "model": "FP663LL"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 2TB Silver (6th Generation)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FP673LL/A/refurbished-129-inch-ipad-pro-wi-fi-cellular-2tb-silver-6th-generation",
+    "price": 1999.0,
+    "previous_price": 2399.0,
+    "savings_price": 400.0,
+    "saving_percentage": 0.16673614005835766,
+    "model": "FP673LL"
   }
 ]
