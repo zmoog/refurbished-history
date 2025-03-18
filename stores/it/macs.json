@@ -1,5 +1,16 @@
 [
   {
+    "name": "Mac mini ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FU9D3T/A/Mac-mini-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Gigabit-Ethernet",
+    "price": 619.0,
+    "previous_price": 729.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15089163237311384,
+    "model": "FU9D3T"
+  },
+  {
     "name": "Mac mini ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, 10Gb Ethernet",
     "family": "mac",
     "store": "it",
@@ -31,17 +42,6 @@
     "savings_price": 380.0,
     "saving_percentage": 0.30919446704637915,
     "model": "FRXQ3T"
-  },
-  {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 8\u2010core - Galassia",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FRXT3T/A/MacBook-Air-13-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-8-core-Galassia",
-    "price": 849.0,
-    "previous_price": 1229.0,
-    "savings_price": 380.0,
-    "saving_percentage": 0.30919446704637915,
-    "model": "FRXT3T"
   },
   {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Grigio siderale",
@@ -308,6 +308,17 @@
     "model": "G1BW2T"
   },
   {
+    "name": "Mac mini ricondizionato con chip Apple M4 Pro, CPU 12\u2010core e GPU 16\u2010core, Gigabit Ethernet",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FCX44T/A/Mac-mini-ricondizionato-con-chip-Apple-M4-Pro-CPU-12%E2%80%91core-e-GPU-16%E2%80%91core-Gigabit-Ethernet",
+    "price": 1429.0,
+    "previous_price": 1729.0,
+    "savings_price": 300.0,
+    "saving_percentage": 0.1735106998264893,
+    "model": "FCX44T"
+  },
+  {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -526,6 +537,17 @@
     "savings_price": 400.0,
     "saving_percentage": 0.16333197223356472,
     "model": "FCX04T"
+  },
+  {
+    "name": "Mac mini ricondizionato, chip Apple M2 Pro con CPU 12\u2010core e GPU 19\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G170PT/A/mac-mini-ricondizionato-chip-apple-m2-pro-con-cpu-12%E2%80%91core-e-gpu-19%E2%80%91core",
+    "price": 2079.0,
+    "previous_price": 2079.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G170PT"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Mezzanotte",
