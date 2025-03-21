@@ -165,17 +165,6 @@
     "model": "FLWR3B"
   },
   {
-    "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Starlight (5th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM6V3B/A/refurbished-ipad-air-wi-fi-cellular-64gb-starlight-5th-generation",
-    "price": 499.0,
-    "previous_price": 699.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.2861230329041488,
-    "model": "FM6V3B"
-  },
-  {
     "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Space Grey (5th Generation)",
     "family": "ipad",
     "store": "uk",
@@ -209,15 +198,15 @@
     "model": "FM6U3B"
   },
   {
-    "name": "Refurbished iPad Air Wi-Fi 256GB - Pink (5th Generation)",
+    "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Starlight (5th Generation)",
     "family": "ipad",
     "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FM9M3B/A/refurbished-ipad-air-wi-fi-256gb-pink-5th-generation",
+    "url": "https://www.apple.com/uk/shop/product/FM6V3B/A/refurbished-ipad-air-wi-fi-cellular-64gb-starlight-5th-generation",
     "price": 499.0,
-    "previous_price": 649.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.23112480739599384,
-    "model": "FM9M3B"
+    "previous_price": 699.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.2861230329041488,
+    "model": "FM6V3B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi 256GB - Space Grey (5th Generation)",
@@ -229,6 +218,17 @@
     "savings_price": 150.0,
     "saving_percentage": 0.23112480739599384,
     "model": "FM9L3B"
+  },
+  {
+    "name": "Refurbished iPad Air Wi-Fi 256GB - Pink (5th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FM9M3B/A/refurbished-ipad-air-wi-fi-256gb-pink-5th-generation",
+    "price": 499.0,
+    "previous_price": 649.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.23112480739599384,
+    "model": "FM9M3B"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi 256GB - Blue (5th Generation)",
