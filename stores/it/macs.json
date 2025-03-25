@@ -11,28 +11,6 @@
     "model": "G1CF4T"
   },
   {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FLXW3T/A/MacBook-Air-13-ricondizionato-con-chip-Apple-M2-CPU-8%E2%80%91core-e-GPU-8%E2%80%91core-Grigio-siderale",
-    "price": 779.0,
-    "previous_price": 1129.0,
-    "savings_price": 350.0,
-    "saving_percentage": 0.3100088573959256,
-    "model": "FLXW3T"
-  },
-  {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Galassia",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FLY13T/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-starlight",
-    "price": 779.0,
-    "previous_price": 1129.0,
-    "savings_price": 350.0,
-    "saving_percentage": 0.3100088573959256,
-    "model": "FLY13T"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 8\u2010core - Galassia",
     "family": "mac",
     "store": "it",
@@ -922,6 +900,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1FGGT"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M2 Ultra con CPU 24\u2010core e GPU 60\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FQH63T/A/Mac-Studio-ricondizionato-chip-Apple-M2-Ultra-con-CPU-24%E2%80%91core-e-GPU-60-core",
+    "price": 3899.0,
+    "previous_price": 4589.0,
+    "savings_price": 690.0,
+    "saving_percentage": 0.1503595554587056,
+    "model": "FQH63T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Max, CPU 16\u2010core e GPU 40\u2010core, display con nanotexture - Nero siderale",
