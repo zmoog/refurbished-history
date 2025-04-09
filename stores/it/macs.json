@@ -44,17 +44,6 @@
     "model": "G1CF9T"
   },
   {
-    "name": "MacBook Air 13,3\" ricondizionato con chip Apple M1, CPU 8\u2010core e GPU 8\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FGNA3T/A/macbook-air-133-ricondizionato-con-chip-apple-m1-cpu-8%E2%80%91core-e-gpu-8%E2%80%91core-argento",
-    "price": 949.0,
-    "previous_price": 1429.0,
-    "savings_price": 480.0,
-    "saving_percentage": 0.3358992302309307,
-    "model": "FGNA3T"
-  },
-  {
     "name": "Mac mini ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet",
     "family": "mac",
     "store": "it",
@@ -64,6 +53,17 @@
     "savings_price": 220.0,
     "saving_percentage": 0.1790073230268511,
     "model": "FCYT4T"
+  },
+  {
+    "name": "Mac mini ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G1CF7T/A/Mac-mini-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Gigabit-Ethernet",
+    "price": 1009.0,
+    "previous_price": 1009.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1CF7T"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 10\u2010core - Galassia",
@@ -658,6 +658,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1FGFT"
+  },
+  {
+    "name": "Mac mini ricondizionato con chip Apple M4 Pro, CPU 14\u2010core e GPU 20\u2010core, 10Gb Ethernet",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G1JVYT/A/Mac-mini-ricondizionato-con-chip-Apple-M4-Pro-CPU-14%E2%80%91core-e-GPU-20%E2%80%91core-10Gb-Ethernet",
+    "price": 3449.0,
+    "previous_price": 3449.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1JVYT"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Max, CPU 14\u2010core e GPU 30\u2010core - Nero siderale",
