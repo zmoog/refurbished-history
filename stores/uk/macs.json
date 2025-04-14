@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/G1BR0B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Silver",
-    "price": 929.0,
-    "previous_price": 929.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1BR0B"
-  },
-  {
     "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "uk",
@@ -218,6 +207,17 @@
     "savings_price": 570.0,
     "saving_percentage": 0.3259005145797599,
     "model": "FGPQ3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M1 Chip with 8\u2010Core CPU and 8\u2010Core GPU, Gigabit Ethernet - Orange",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FGPT3B/A/Refurbished-24-inch-iMac-Apple-M1-Chip-with-8%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Gigabit-Ethernet-Silver",
+    "price": 1179.0,
+    "previous_price": 1749.0,
+    "savings_price": 570.0,
+    "saving_percentage": 0.3259005145797599,
+    "model": "FGPT3B"
   },
   {
     "name": "Refurbished 14-inch MacBook Pro Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
@@ -977,17 +977,6 @@
     "savings_price": 470.0,
     "saving_percentage": 0.1516618263956115,
     "model": "FRX83B"
-  },
-  {
-    "name": "Refurbished 14-inch MacBook Pro Apple M4 Max Chip with 14\u2010Core CPU and 32\u2010Core GPU \u2013 Space Black",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FX2K3B/A/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black",
-    "price": 2719.0,
-    "previous_price": 3199.0,
-    "savings_price": 480.0,
-    "saving_percentage": 0.15004688965301657,
-    "model": "FX2K3B"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M3 Max Chip with 16\u2010Core CPU and 40\u2010Core GPU - Space Black",
