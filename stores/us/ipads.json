@@ -1,5 +1,27 @@
 [
   {
+    "name": "Refurbished Apple Pencil (USB-C)",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FUWA3AM/A/refurbished-apple-pencil-usb-c",
+    "price": 69.0,
+    "previous_price": 79.0,
+    "savings_price": 10.0,
+    "saving_percentage": 0.12658227848101267,
+    "model": "FUWA3AM"
+  },
+  {
+    "name": "Refurbished Apple Pencil",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FK0C2AM/A/refurbished-apple-pencil",
+    "price": 85.0,
+    "previous_price": 99.0,
+    "savings_price": 14.0,
+    "saving_percentage": 0.1414141414141414,
+    "model": "FK0C2AM"
+  },
+  {
     "name": "Refurbished iPad Wi-Fi 256GB - Yellow (10th Generation)",
     "family": "ipad",
     "store": "us",
@@ -119,17 +141,6 @@
     "savings_price": 170.0,
     "saving_percentage": 0.30965391621129323,
     "model": "FME23LL"
-  },
-  {
-    "name": "Refurbished iPad Air Wi-Fi+Cellular 64GB - Sky Blue (4th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FYJ12LL/A/Refurbished-iPad-Air-Wi-FiCellular-64GB-Sky-Blue-4th-Generation",
-    "price": 419.0,
-    "previous_price": 679.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.38291605301914583,
-    "model": "FYJ12LL"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Gray",
