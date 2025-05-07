@@ -264,17 +264,6 @@
     "model": "FTUF3VC"
   },
   {
-    "name": "Refurbished iPhone 15 Pro Max  256GB - White Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FU6Q3VC/A/refurbished-iphone-15-pro-max-256gb-white-titanium-unlocked",
-    "price": 1359.0,
-    "previous_price": 1599.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.150093808630394,
-    "model": "FU6Q3VC"
-  },
-  {
     "name": "Refurbished iPhone 15 Pro Max  256GB - Black Titanium (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -284,6 +273,17 @@
     "savings_price": 240.0,
     "saving_percentage": 0.150093808630394,
     "model": "FU6P3VC"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro Max  256GB - White Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FU6Q3VC/A/refurbished-iphone-15-pro-max-256gb-white-titanium-unlocked",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "FU6Q3VC"
   },
   {
     "name": "Refurbished iPhone 15 Pro Max 256GB - Natural Titanium (Unlocked)",
@@ -350,16 +350,5 @@
     "savings_price": 290.0,
     "saving_percentage": 0.15271195365982096,
     "model": "FU6X3VC"
-  },
-  {
-    "name": "Refurbished iPhone 15 Pro Max  1TB - Natural Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FU713VC/A/refurbished-iphone-15-pro-max-1tb-Natural-titanium-unlocked",
-    "price": 1869.0,
-    "previous_price": 2199.0,
-    "savings_price": 330.0,
-    "saving_percentage": 0.15006821282401092,
-    "model": "FU713VC"
   }
 ]
