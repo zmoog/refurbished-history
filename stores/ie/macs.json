@@ -66,17 +66,6 @@
     "model": "FCYT4B"
   },
   {
-    "name": "Refurbished Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G1CFAB/A/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-",
-    "price": 1009.0,
-    "previous_price": 1009.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1CFAB"
-  },
-  {
     "name": "Refurbished Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, 10Gb Ethernet",
     "family": "mac",
     "store": "ie",
@@ -86,6 +75,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1CF1B"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G1BD2B/A/Refurbished-13-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Midnight",
+    "price": 1169.0,
+    "previous_price": 1169.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1BD2B"
   },
   {
     "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU",
@@ -264,6 +264,17 @@
     "model": "FCX44B"
   },
   {
+    "name": "Refurbished 14-inch MacBook Pro Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FTL73B/A/refurbished-14-inch-macbook-pro-apple-m3-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-space-grey",
+    "price": 1449.0,
+    "previous_price": 1709.0,
+    "savings_price": 260.0,
+    "saving_percentage": 0.1521357519016969,
+    "model": "FTL73B"
+  },
+  {
     "name": "Refurbished 24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU \u2013 Purple",
     "family": "mac",
     "store": "ie",
@@ -352,17 +363,6 @@
     "model": "G1BU5B"
   },
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/G1BW5B/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Midnight",
-    "price": 1629.0,
-    "previous_price": 1629.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1BW5B"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
     "family": "mac",
     "store": "ie",
@@ -385,17 +385,6 @@
     "model": "FTL83B"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M4 Chip with 10\u2010Core CPU and 10\u2010Core GPU - Space Black",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/FW2U3B/A/refurbished-14-inch-macbook-pro-apple-m4-chip-with-10%E2%80%91core-cpu-and-10%E2%80%91core-gpu-space-black",
-    "price": 1659.0,
-    "previous_price": 1949.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.1487942534633145,
-    "model": "FW2U3B"
-  },
-  {
     "name": "Refurbished Mac mini Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU, Gigabit Ethernet",
     "family": "mac",
     "store": "ie",
@@ -416,6 +405,17 @@
     "savings_price": 580.0,
     "saving_percentage": 0.23491292021061158,
     "model": "FPHE3B"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/FPHH3B/A/refurbished-14-inch-macbook-pro-apple-m2-pro-chip-with-10-core-cpu-and-16-core-gpu-silver",
+    "price": 1889.0,
+    "previous_price": 2469.0,
+    "savings_price": 580.0,
+    "saving_percentage": 0.23491292021061158,
+    "model": "FPHH3B"
   },
   {
     "name": "Refurbished 24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU \u2013 Silver",
@@ -757,6 +757,17 @@
     "savings_price": 820.0,
     "saving_percentage": 0.1673810981833027,
     "model": "FX313B"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/G17MGB/A/refurbished-14-inch-macbook-pro-apple-m2-max-chip-with-12-core-cpu-and-38-core-gpu-silver",
+    "price": 4119.0,
+    "previous_price": 4119.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G17MGB"
   },
   {
     "name": "Refurbished Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet",
