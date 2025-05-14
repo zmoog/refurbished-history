@@ -22,17 +22,6 @@
     "model": "G1CF4F"
   },
   {
-    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FLXY3F/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-silver",
-    "price": 749.0,
-    "previous_price": 1079.0,
-    "savings_price": 330.0,
-    "saving_percentage": 0.30583873957367935,
-    "model": "FLXY3F"
-  },
-  {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Minuit",
     "family": "mac",
     "store": "fr",
@@ -86,6 +75,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1603F"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Minuit",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/G160CF/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-midnight",
+    "price": 859.0,
+    "previous_price": 859.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G160CF"
   },
   {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Argent",
@@ -174,17 +174,6 @@
     "savings_price": 300.0,
     "saving_percentage": 0.17657445556209536,
     "model": "FCX44F"
-  },
-  {
-    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/FTL73F/A/macbook-pro-14-pouces-reconditionn%C3%A9-avec-puce-apple-m3-cpu-8-c%C5%93urs-et-gpu-10-c%C5%93urs-gris-sid%C3%A9ral",
-    "price": 1409.0,
-    "previous_price": 1659.0,
-    "savings_price": 250.0,
-    "saving_percentage": 0.1506931886678722,
-    "model": "FTL73F"
   },
   {
     "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Argent",
