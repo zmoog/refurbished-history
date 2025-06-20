@@ -44,15 +44,26 @@
     "model": "G16L1LL"
   },
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "us",
-    "url": "https://www.apple.com/shop/product/FRXT3LL/A/Refurbished-13-inch-MacBook-Air-Apple-M3-Chip-with-8-core-CPU-and-8-core-GPU-Starlight",
-    "price": 679.0,
-    "previous_price": 999.0,
-    "savings_price": 320.0,
-    "saving_percentage": 0.3203203203203203,
-    "model": "FRXT3LL"
+    "url": "https://www.apple.com/shop/product/FLY13LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-starlight",
+    "price": 629.0,
+    "previous_price": 899.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.3003337041156841,
+    "model": "FLY13LL"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLY33LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight",
+    "price": 629.0,
+    "previous_price": 899.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.3003337041156841,
+    "model": "FLY33LL"
   },
   {
     "name": "Refurbished Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
@@ -165,17 +176,6 @@
     "model": "G1BA3LL"
   },
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1BACLL/A/Refurbished-13-inch-MacBook-Air-Apple-M3-Chip-with-8-core-CPU-and-10-core-GPU-Starlight",
-    "price": 759.0,
-    "previous_price": 759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1BACLL"
-  },
-  {
     "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 8\u2010Core GPU - Midnight",
     "family": "mac",
     "store": "us",
@@ -187,17 +187,6 @@
     "model": "G1BC3LL"
   },
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1BCCLL/A/Refurbished-13-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Midnight",
-    "price": 759.0,
-    "previous_price": 759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1BCCLL"
-  },
-  {
     "name": "Refurbished Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, 10Gb Ethernet",
     "family": "mac",
     "store": "us",
@@ -207,6 +196,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1CF5LL"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Gray",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FLXX3LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-space-gray",
+    "price": 799.0,
+    "previous_price": 1099.0,
+    "savings_price": 300.0,
+    "saving_percentage": 0.272975432211101,
+    "model": "FLXX3LL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
@@ -319,17 +319,6 @@
     "model": "FRYR3LL"
   },
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FRYU3LL/A/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight",
-    "price": 849.0,
-    "previous_price": 1199.0,
-    "savings_price": 350.0,
-    "saving_percentage": 0.2919099249374479,
-    "model": "FRYU3LL"
-  },
-  {
     "name": "Refurbished 13-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 8\u2010Core GPU - Silver",
     "family": "mac",
     "store": "us",
@@ -385,6 +374,28 @@
     "model": "G1CFALL"
   },
   {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Silver",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G15X2LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver",
+    "price": 879.0,
+    "previous_price": 879.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15X2LL"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1612LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-midnight",
+    "price": 879.0,
+    "previous_price": 879.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1612LL"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Space Gray",
     "family": "mac",
     "store": "us",
@@ -438,17 +449,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1BB2LL"
-  },
-  {
-    "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1BCDLL/A/Refurbished-13-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Midnight",
-    "price": 929.0,
-    "previous_price": 929.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1BCDLL"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M3 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
@@ -702,6 +702,39 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G15T3LL"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Starlight",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G15Z3LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-starlight",
+    "price": 1049.0,
+    "previous_price": 1049.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G15Z3LL"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1613LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-midnight",
+    "price": 1049.0,
+    "previous_price": 1049.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1613LL"
+  },
+  {
+    "name": "Refurbished 13-inch MacBook Air Apple M2 Chip with 8\u2010Core CPU and 10\u2010Core GPU - Midnight",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1615LL/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-midnight",
+    "price": 1049.0,
+    "previous_price": 1049.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1615LL"
   },
   {
     "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU, 10GB Ethernet",
@@ -2574,17 +2607,6 @@
     "model": "G1H00LL"
   },
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 10\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1H02LL/A/Refurbished-15-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver",
-    "price": 1529.0,
-    "previous_price": 1529.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1H02LL"
-  },
-  {
     "name": "Refurbished 15-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 10\u2010Core GPU - Starlight",
     "family": "mac",
     "store": "us",
@@ -4257,17 +4279,6 @@
     "model": "G1DX2LL"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M4 Pro Chip with 12\u2010Core CPU and 16\u2010Core GPU, Nano-texture display - Space Black",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1FEELL/A/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-12%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black",
-    "price": 1999.0,
-    "previous_price": 1999.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1FEELL"
-  },
-  {
     "name": "Refurbished Mac mini Apple M2 Pro Chip with 10\u2010Core CPU and 16\u2010Core GPU",
     "family": "mac",
     "store": "us",
@@ -4444,17 +4455,6 @@
     "model": "G1AX8LL"
   },
   {
-    "name": "Refurbished 16-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FX2T3LL/A/Refurbished-16-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver",
-    "price": 2119.0,
-    "previous_price": 2499.0,
-    "savings_price": 380.0,
-    "saving_percentage": 0.1520608243297319,
-    "model": "FX2T3LL"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU - Space Black",
     "family": "mac",
     "store": "us",
@@ -4510,17 +4510,6 @@
     "model": "G1JVDLL"
   },
   {
-    "name": "Refurbished 24-inch iMac Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet, Nano-texture glass - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1K11LL/A/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-silver",
-    "price": 2119.0,
-    "previous_price": 2119.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1K11LL"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet- Silver",
     "family": "mac",
     "store": "us",
@@ -4541,17 +4530,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1K51LL"
-  },
-  {
-    "name": "Refurbished 14-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU, Nano-texture display - Space Black",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1FF5LL/A/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black",
-    "price": 2169.0,
-    "previous_price": 2169.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1FF5LL"
   },
   {
     "name": "Refurbished 14-inch MacBook Pro Apple M4 Chip with 10\u2010Core CPU and 10\u2010Core GPU, Nano-texture display - Space Black",
@@ -4884,28 +4862,6 @@
     "model": "G14JCLL"
   },
   {
-    "name": "Refurbished 16-inch MacBook Pro Apple M3 Pro Chip with 12\u2010Core CPU and 18\u2010Core GPU - Space Black",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FRW23LL/A/refurbished-16-inch-macbook-pro-apple-m3-pro-chip-with-12%E2%80%91core-cpu-and-18%E2%80%91core-gpu-space-black",
-    "price": 2379.0,
-    "previous_price": 2799.0,
-    "savings_price": 420.0,
-    "saving_percentage": 0.15005359056806003,
-    "model": "FRW23LL"
-  },
-  {
-    "name": "Refurbished 14-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU - Space Black",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1FF0LL/A/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black",
-    "price": 2379.0,
-    "previous_price": 2379.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1FF0LL"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU - Space Black",
     "family": "mac",
     "store": "us",
@@ -4981,17 +4937,6 @@
     "savings_price": 440.0,
     "saving_percentage": 0.1517764746464298,
     "model": "FX2U3LL"
-  },
-  {
-    "name": "Refurbished 16-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU - Space Black",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FX2Y3LL/A/Refurbished-16-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black",
-    "price": 2459.0,
-    "previous_price": 2899.0,
-    "savings_price": 440.0,
-    "saving_percentage": 0.1517764746464298,
-    "model": "FX2Y3LL"
   },
   {
     "name": "Refurbished Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, 10Gb Ethernet",
@@ -5113,17 +5058,6 @@
     "savings_price": 470.0,
     "saving_percentage": 0.1516618263956115,
     "model": "FRX83LL"
-  },
-  {
-    "name": "Refurbished Mac Studio Apple M4 Max chip with 16\u2010Core CPU and 40\u2010Core GPU",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1CD8LL/A/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
-    "price": 2629.0,
-    "previous_price": 2629.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1CD8LL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU - Silver",
@@ -5652,6 +5586,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1CDDLL"
+  },
+  {
+    "name": "Refurbished 14-inch MacBook Pro Apple M4 Max Chip with 16\u2010Core CPU and 40\u2010Core GPU - Space Black",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/G1FG7LL/A/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black",
+    "price": 3309.0,
+    "previous_price": 3309.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1FG7LL"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M4 Max Chip with 14\u2010Core CPU and 32\u2010Core GPU - Space Black",
@@ -6446,17 +6391,6 @@
     "model": "G1FWHLL"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M4 Max Chip with 14\u2010Core CPU and 32\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1FD2LL/A/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver",
-    "price": 4589.0,
-    "previous_price": 4589.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1FD2LL"
-  },
-  {
     "name": "Refurbished 16-inch MacBook Pro Apple M4 Max Chip with 16\u2010Core CPU and 40\u2010Core GPU - Silver",
     "family": "mac",
     "store": "us",
@@ -7038,17 +6972,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1JZLLL"
-  },
-  {
-    "name": "Refurbished Mac Pro Rack Apple M2 Ultra with 24-core CPU and 76-core GPU (USB-C)",
-    "family": "mac",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/G1K0HLL/A/Refurbished-Mac-Pro-Rack-Apple-M2-Ultra-with-24-core-CPU-and-76-core-GPU-USB-C",
-    "price": 8239.0,
-    "previous_price": 8239.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1K0HLL"
   },
   {
     "name": "Refurbished Mac Studio Apple M3 Ultra chip with 32\u2010Core CPU and 80\u2010Core GPU",
