@@ -363,17 +363,6 @@
     "model": "G1EQ2T"
   },
   {
-    "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 11\u2010core e GPU 14\u2010core - Nero siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FRX33T/A/macbook-pro-14-pollici-ricondizionato-con-chip-apple-m3-pro-cpu-11%E2%80%91core-e-gpu-14%E2%80%91core-nero-siderale",
-    "price": 2019.0,
-    "previous_price": 2379.0,
-    "savings_price": 360.0,
-    "saving_percentage": 0.15132408575031525,
-    "model": "FRX33T"
-  },
-  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 11\u2010core e GPU 14\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -383,6 +372,17 @@
     "savings_price": 360.0,
     "saving_percentage": 0.15132408575031525,
     "model": "FRX63T"
+  },
+  {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 11\u2010core e GPU 14\u2010core - Nero siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FRX33T/A/macbook-pro-14-pollici-ricondizionato-con-chip-apple-m3-pro-cpu-11%E2%80%91core-e-gpu-14%E2%80%91core-nero-siderale",
+    "price": 2019.0,
+    "previous_price": 2379.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.15132408575031525,
+    "model": "FRX33T"
   },
   {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
@@ -440,6 +440,17 @@
     "model": "FX2E3T"
   },
   {
+    "name": "Mac Studio ricondizionato, chip Apple M1 Max con CPU 10\u2010core e GPU 24\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G14J1T/A/mac-studio-ricondizionato-chip-apple-m1-max-con-cpu-10%E2%80%91core-e-gpu-24%E2%80%91core",
+    "price": 2199.0,
+    "previous_price": 2199.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G14J1T"
+  },
+  {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M2 Pro, CPU 12\u2010core e GPU 19\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -462,17 +473,6 @@
     "model": "FNWC3T"
   },
   {
-    "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Pro, CPU 12\u2010core e GPU 18\u2010core - Nero siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FRW13T/A/macbook-pro-16-ricondizionato-con-chip-apple-m3-pro-cpu-12%E2%80%91core-e-gpu-18%E2%80%91core-nero-siderale",
-    "price": 2449.0,
-    "previous_price": 2879.0,
-    "savings_price": 430.0,
-    "saving_percentage": 0.14935741576936437,
-    "model": "FRW13T"
-  },
-  {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Pro, CPU 12\u2010core e GPU 18\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -482,6 +482,17 @@
     "savings_price": 430.0,
     "saving_percentage": 0.14935741576936437,
     "model": "FRW43T"
+  },
+  {
+    "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Pro, CPU 12\u2010core e GPU 18\u2010core - Nero siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FRW13T/A/macbook-pro-16-ricondizionato-con-chip-apple-m3-pro-cpu-12%E2%80%91core-e-gpu-18%E2%80%91core-nero-siderale",
+    "price": 2449.0,
+    "previous_price": 2879.0,
+    "savings_price": 430.0,
+    "saving_percentage": 0.14935741576936437,
+    "model": "FRW13T"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M4 Pro, CPU 14\u2010core e GPU 20\u2010core - Argento",
@@ -592,6 +603,17 @@
     "savings_price": 570.0,
     "saving_percentage": 0.15083355385022493,
     "model": "FRX83T"
+  },
+  {
+    "name": "Mac Studio ricondizionato, chip Apple M1 Ultra con CPU 20\u2010core e GPU 48\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FJMW3T/A/mac-studio-ricondizionato-chip-apple-m1-ultra-con-cpu-20%E2%80%91core-e-gpu-48%E2%80%91core",
+    "price": 3309.0,
+    "previous_price": 4419.0,
+    "savings_price": 1110.0,
+    "saving_percentage": 0.25118805159538354,
+    "model": "FJMW3T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Max, CPU 14\u2010core e GPU 32\u2010core - Nero siderale",
