@@ -2277,17 +2277,6 @@
     "model": "G1GT2CH"
   },
   {
-    "name": "\u7ffb\u65b0 13 \u82f1\u5bf8 MacBook Air Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u5348\u591c\u8272",
-    "family": "mac",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/G1GU0CH/A",
-    "price": 10599,
-    "previous_price": 10599,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1GU0CH"
-  },
-  {
     "name": "\u7ffb\u65b0 13 \u82f1\u5bf8 MacBook Air Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u5929\u84dd\u8272",
     "family": "mac",
     "store": "cn",
@@ -5577,17 +5566,6 @@
     "model": "FUW73CH"
   },
   {
-    "name": "\u7ffb\u65b0 16 \u82f1\u5bf8 MacBook Pro Apple M2 Max \u82af\u7247 (\u914d\u5907 12 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 38 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u94f6\u8272",
-    "family": "mac",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/G1794CH/A",
-    "price": 26699,
-    "previous_price": 26699,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1794CH"
-  },
-  {
     "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M3 Max \u82af\u7247 (\u914d\u5907 16 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 40 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
     "family": "mac",
     "store": "cn",
@@ -5663,6 +5641,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G1FWBCH"
+  },
+  {
+    "name": "\u7ffb\u65b0 16 \u82f1\u5bf8 MacBook Pro Apple M3 Max \u82af\u7247 (\u914d\u5907 16 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 40 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/G1CM3CH/A",
+    "price": 27799,
+    "previous_price": 27799,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1CM3CH"
   },
   {
     "name": "\u7ffb\u65b0 Mac Studio Apple M3 Ultra \u82af\u7247 (\u914d\u5907 28 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 60 \u6838\u56fe\u5f62\u5904\u7406\u5668)",
