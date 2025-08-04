@@ -22,17 +22,6 @@
     "model": "FU9D3T"
   },
   {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Galassia",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FLY13T/A/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-starlight",
-    "price": 779.0,
-    "previous_price": 1129.0,
-    "savings_price": 350.0,
-    "saving_percentage": 0.3100088573959256,
-    "model": "FLY13T"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M2, CPU 8\u2010core e GPU 8\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -308,6 +297,17 @@
     "model": "FC6C4T"
   },
   {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Celeste",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/FC6V4T/A/MacBook-Air-13-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Celeste",
+    "price": 1489.0,
+    "previous_price": 1749.0,
+    "savings_price": 260.0,
+    "saving_percentage": 0.14865637507146942,
+    "model": "FC6V4T"
+  },
+  {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Argento",
     "family": "mac",
     "store": "it",
@@ -471,6 +471,17 @@
     "savings_price": 380.0,
     "saving_percentage": 0.16673979815708645,
     "model": "FD2Q4T"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G1EJ0T/A/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10-core-e-gpu-10-core-gigabit-ethernet-argento",
+    "price": 1899.0,
+    "previous_price": 1899.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1EJ0T"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, display con nanotexture - Argento",
