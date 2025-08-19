@@ -22,17 +22,6 @@
     "model": "FU9D3T"
   },
   {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 8\u2010core - Galassia",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/FRXT3T/A/MacBook-Air-13-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-8-core-Galassia",
-    "price": 849.0,
-    "previous_price": 1229.0,
-    "savings_price": 380.0,
-    "saving_percentage": 0.30919446704637915,
-    "model": "FRXT3T"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Galassia",
     "family": "mac",
     "store": "it",
@@ -262,6 +251,17 @@
     "savings_price": 230.0,
     "saving_percentage": 0.1534356237491661,
     "model": "FW133T"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/G1B70T/A/MacBook-Air-13-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-10-core-Grigio-siderale",
+    "price": 1269.0,
+    "previous_price": 1269.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "G1B70T"
   },
   {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 8\u2010core e GPU 8\u2010core - Blu",
@@ -1285,28 +1285,6 @@
     "savings_price": 380.0,
     "saving_percentage": 0.1520608243297319,
     "model": "FX2H3T"
-  },
-  {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G1H23T/A/MacBook-Air-15-inch-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Mezzanotte",
-    "price": 2159.0,
-    "previous_price": 2159.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1H23T"
-  },
-  {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Celeste",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/G1HF3T/A/MacBook-Air-15-inch-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Celeste",
-    "price": 2159.0,
-    "previous_price": 2159.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "G1HF3T"
   },
   {
     "name": "Mac Studio ricondizionato, chip Apple M1 Max con CPU 10\u2010core e GPU 24\u2010core",
