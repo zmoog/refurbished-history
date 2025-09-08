@@ -44,17 +44,6 @@
     "model": "FQ1D3LL"
   },
   {
-    "name": "Refurbished iPhone 14 Pro Max 128GB - Deep Purple (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FQ8R3LL/A/Refurbished-iPhone-14-Pro-Max-128GB-Deep-Purple-Unlocked",
-    "price": 759.0,
-    "previous_price": 999.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.24024024024024024,
-    "model": "FQ8R3LL"
-  },
-  {
     "name": "Refurbished iPhone 14 Pro 512GB - Space Black (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -86,6 +75,17 @@
     "savings_price": 180.0,
     "saving_percentage": 0.1501251042535446,
     "model": "FTQY3LL"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro 512GB - Blue Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FTU03LL/A/Refurbished-iPhone-15-Pro-512GB-Blue-Titanium-Unlocked",
+    "price": 1019.0,
+    "previous_price": 1199.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.1501251042535446,
+    "model": "FTU03LL"
   },
   {
     "name": "Refurbished iPhone 14 Pro 1TB - Space Black (Unlocked)",
@@ -174,6 +174,17 @@
     "savings_price": 210.0,
     "saving_percentage": 0.1501072194424589,
     "model": "FTU13LL"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro 1TB - Blue Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FTU63LL/A/Refurbished-iPhone-15-Pro-1TB-Blue-Titanium-Unlocked",
+    "price": 1189.0,
+    "previous_price": 1399.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.1501072194424589,
+    "model": "FTU63LL"
   },
   {
     "name": "Refurbished iPhone 15 Pro Max 1TB - Natural Titanium (Unlocked)",
