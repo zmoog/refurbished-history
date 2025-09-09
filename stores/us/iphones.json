@@ -4,10 +4,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ063LL/A/Refurbished-iPhone-14-Pro-128GB-Gold-Unlocked",
-    "price": 679.0,
+    "price": 589.0,
     "previous_price": 899.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.2447163515016685,
+    "savings_price": 310.0,
+    "saving_percentage": 0.3448275862068966,
     "model": "FQ063LL"
   },
   {
@@ -15,10 +15,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ0E3LL/A/Refurbished-iPhone-14-Pro-128GB-Deep-Purple-Unlocked",
-    "price": 679.0,
+    "price": 589.0,
     "previous_price": 899.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.2447163515016685,
+    "savings_price": 310.0,
+    "saving_percentage": 0.3448275862068966,
     "model": "FQ0E3LL"
   },
   {
@@ -26,10 +26,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ163LL/A/Refurbished-iPhone-14-Pro-256GB-Gold-Unlocked",
-    "price": 759.0,
+    "price": 679.0,
     "previous_price": 999.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.24024024024024024,
+    "savings_price": 320.0,
+    "saving_percentage": 0.3203203203203203,
     "model": "FQ163LL"
   },
   {
@@ -37,32 +37,43 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ1D3LL/A/Refurbished-iPhone-14-Pro-256GB-Deep-Purple-Unlocked",
+    "price": 679.0,
+    "previous_price": 999.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.3203203203203203,
+    "model": "FQ1D3LL"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro 128GB - Black Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FTQM3LL/A/Refurbished-iPhone-15-Pro-128GB-Black-Titanium-Unlocked",
+    "price": 679.0,
+    "previous_price": 899.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.2447163515016685,
+    "model": "FTQM3LL"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro 256GB - Natural Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FTQU3LL/A/Refurbished-iPhone-15-Pro-256GB-Natural-Titanium-Unlocked",
     "price": 759.0,
     "previous_price": 999.0,
     "savings_price": 240.0,
     "saving_percentage": 0.24024024024024024,
-    "model": "FQ1D3LL"
-  },
-  {
-    "name": "Refurbished iPhone 14 Pro Max 256GB - Space Black (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FQ8T3LL/A/Refurbished-iPhone-14-Pro-Max-256GB-Space-Black-Unlocked",
-    "price": 849.0,
-    "previous_price": 1099.0,
-    "savings_price": 250.0,
-    "saving_percentage": 0.22747952684258416,
-    "model": "FQ8T3LL"
+    "model": "FTQU3LL"
   },
   {
     "name": "Refurbished iPhone 14 Pro 512GB - Space Black (Unlocked)",
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ1K3LL/A/Refurbished-iPhone-14-Pro-512GB-Space-Black-Unlocked",
-    "price": 929.0,
+    "price": 849.0,
     "previous_price": 1199.0,
-    "savings_price": 270.0,
-    "saving_percentage": 0.22518765638031693,
+    "savings_price": 350.0,
+    "saving_percentage": 0.2919099249374479,
     "model": "FQ1K3LL"
   },
   {
@@ -70,10 +81,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FTQX3LL/A/Refurbished-iPhone-15-Pro-512GB-White-Titanium-Unlocked",
-    "price": 1019.0,
+    "price": 929.0,
     "previous_price": 1199.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.1501251042535446,
+    "savings_price": 270.0,
+    "saving_percentage": 0.22518765638031693,
     "model": "FTQX3LL"
   },
   {
@@ -81,10 +92,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FTQY3LL/A/Refurbished-iPhone-15-Pro-512GB-Natural-Titanium-Unlocked",
-    "price": 1019.0,
+    "price": 929.0,
     "previous_price": 1199.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.1501251042535446,
+    "savings_price": 270.0,
+    "saving_percentage": 0.22518765638031693,
     "model": "FTQY3LL"
   },
   {
@@ -92,10 +103,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ2E3LL/A/Refurbished-iPhone-14-Pro-1TB-Space-Black-Unlocked",
-    "price": 1099.0,
+    "price": 1019.0,
     "previous_price": 1399.0,
-    "savings_price": 300.0,
-    "saving_percentage": 0.21443888491779842,
+    "savings_price": 380.0,
+    "saving_percentage": 0.27162258756254465,
     "model": "FQ2E3LL"
   },
   {
@@ -103,10 +114,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ2L3LL/A/Refurbished-iPhone-14-Pro-1TB-Silver-Unlocked",
-    "price": 1099.0,
+    "price": 1019.0,
     "previous_price": 1399.0,
-    "savings_price": 300.0,
-    "saving_percentage": 0.21443888491779842,
+    "savings_price": 380.0,
+    "saving_percentage": 0.27162258756254465,
     "model": "FQ2L3LL"
   },
   {
@@ -114,10 +125,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ2T3LL/A/Refurbished-iPhone-14-Pro-1TB-Gold-Unlocked",
-    "price": 1099.0,
+    "price": 1019.0,
     "previous_price": 1399.0,
-    "savings_price": 300.0,
-    "saving_percentage": 0.21443888491779842,
+    "savings_price": 380.0,
+    "saving_percentage": 0.27162258756254465,
     "model": "FQ2T3LL"
   },
   {
@@ -125,10 +136,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ923LL/A/Refurbished-iPhone-14-Pro-Max-1TB-Space-Black-Unlocked",
-    "price": 1189.0,
+    "price": 1099.0,
     "previous_price": 1499.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.2068045363575717,
+    "savings_price": 400.0,
+    "saving_percentage": 0.266844563042028,
     "model": "FQ923LL"
   },
   {
@@ -136,10 +147,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ933LL/A/Refurbished-iPhone-14-Pro-Max-1TB-Silver-Unlocked",
-    "price": 1189.0,
+    "price": 1099.0,
     "previous_price": 1499.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.2068045363575717,
+    "savings_price": 400.0,
+    "saving_percentage": 0.266844563042028,
     "model": "FQ933LL"
   },
   {
@@ -147,10 +158,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ943LL/A/Refurbished-iPhone-14-Pro-Max-1TB-Gold-Unlocked",
-    "price": 1189.0,
+    "price": 1099.0,
     "previous_price": 1499.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.2068045363575717,
+    "savings_price": 400.0,
+    "saving_percentage": 0.266844563042028,
     "model": "FQ943LL"
   },
   {
@@ -158,10 +169,10 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FQ953LL/A/Refurbished-iPhone-14-Pro-Max-1-TB-Deep-Purple-Unlocked",
-    "price": 1189.0,
+    "price": 1099.0,
     "previous_price": 1499.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.2068045363575717,
+    "savings_price": 400.0,
+    "saving_percentage": 0.266844563042028,
     "model": "FQ953LL"
   },
   {
@@ -169,32 +180,21 @@
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FTU13LL/A/Refurbished-iPhone-15-Pro-1TB-Black-Titanium-Unlocked",
-    "price": 1189.0,
+    "price": 1099.0,
     "previous_price": 1399.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.1501072194424589,
+    "savings_price": 300.0,
+    "saving_percentage": 0.21443888491779842,
     "model": "FTU13LL"
-  },
-  {
-    "name": "Refurbished iPhone 15 Pro 1TB - Blue Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FTU63LL/A/Refurbished-iPhone-15-Pro-1TB-Blue-Titanium-Unlocked",
-    "price": 1189.0,
-    "previous_price": 1399.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.1501072194424589,
-    "model": "FTU63LL"
   },
   {
     "name": "Refurbished iPhone 15 Pro Max 1TB - Natural Titanium (Unlocked)",
     "family": "iphone",
     "store": "us",
     "url": "https://www.apple.com/shop/product/FU6H3LL/A/refurbished-iphone-15-pro-max-1tb-natural-titanium-unlocked",
-    "price": 1269.0,
+    "price": 1189.0,
     "previous_price": 1499.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.1534356237491661,
+    "savings_price": 310.0,
+    "saving_percentage": 0.2068045363575717,
     "model": "FU6H3LL"
   }
 ]
