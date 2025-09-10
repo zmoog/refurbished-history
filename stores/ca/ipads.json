@@ -154,17 +154,6 @@
     "model": "FV2C3CL"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi+Cellular 128GB - Silver (3rd Generation)",
-    "family": "ipad",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FHW63VC/A/refurbished-11-inch-ipad-pro-wi-ficellular-128gb-silver-3rd-generation",
-    "price": 909.0,
-    "previous_price": 1199.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.24186822351959966,
-    "model": "FHW63VC"
-  },
-  {
     "name": "Refurbished 11-inch iPad Air (M2) Wi\u2010Fi 512GB - Space Grey",
     "family": "ipad",
     "store": "ca",
@@ -306,6 +295,17 @@
     "savings_price": 220.0,
     "saving_percentage": 0.15078821110349555,
     "model": "FV2L3CL"
+  },
+  {
+    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 512GB - Purple",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FV2N3CL/A/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-512GB-Purple",
+    "price": 1239.0,
+    "previous_price": 1459.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.15078821110349555,
+    "model": "FV2N3CL"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 128GB Silver (6th Generation)",
@@ -504,5 +504,16 @@
     "savings_price": 420.0,
     "saving_percentage": 0.15113350125944586,
     "model": "FNYM3VC"
+  },
+  {
+    "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 2TB Space Gray(6th Generation)",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FP263VC/A/refurbished-129-inch-ipad-pro-wi-fi-cellular-2tb-space-gray6th-generation",
+    "price": 2699.0,
+    "previous_price": 3179.0,
+    "savings_price": 480.0,
+    "saving_percentage": 0.15099087763447624,
+    "model": "FP263VC"
   }
 ]
