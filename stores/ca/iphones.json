@@ -121,17 +121,6 @@
     "model": "FTMP3VC"
   },
   {
-    "name": "Refurbished iPhone 15 256GB - Yellow (SIM-Free)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FTMQ3VC/A/refurbished-iphone-15-256gb-yellow-sim-free",
-    "price": 859.0,
-    "previous_price": 999.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.14014014014014015,
-    "model": "FTMQ3VC"
-  },
-  {
     "name": "Refurbished iPhone 15 256GB - Blue (SIM-Free)",
     "family": "iphone",
     "store": "ca",
@@ -374,28 +363,6 @@
     "model": "FQ1L3VC"
   },
   {
-    "name": "Refurbished iPhone 15 Pro Max  256GB - Black Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FU6P3VC/A/refurbished-iphone-15-pro-max-256gb-black-titanium-unlocked",
-    "price": 1239.0,
-    "previous_price": 1599.0,
-    "savings_price": 360.0,
-    "saving_percentage": 0.225140712945591,
-    "model": "FU6P3VC"
-  },
-  {
-    "name": "Refurbished iPhone 15 Pro Max  256GB - White Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/FU6Q3VC/A/refurbished-iphone-15-pro-max-256gb-white-titanium-unlocked",
-    "price": 1239.0,
-    "previous_price": 1599.0,
-    "savings_price": 360.0,
-    "saving_percentage": 0.225140712945591,
-    "model": "FU6Q3VC"
-  },
-  {
     "name": "Refurbished iPhone 15 Pro Max 256GB - Natural Titanium (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -405,6 +372,17 @@
     "savings_price": 360.0,
     "saving_percentage": 0.225140712945591,
     "model": "FU6R3VC"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro Max 256GB - Blue Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/FU6T3VC/A/refurbished-iphone-15-pro-max-256gb-blue-titanium-unlocked",
+    "price": 1239.0,
+    "previous_price": 1599.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.225140712945591,
+    "model": "FU6T3VC"
   },
   {
     "name": "Refurbished iPhone 14 Pro Max 512GB - Space Black (Unlocked)",
