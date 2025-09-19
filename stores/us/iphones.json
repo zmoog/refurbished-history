@@ -66,17 +66,6 @@
     "model": "FPXT3LL"
   },
   {
-    "name": "Refurbished iPhone 14 Pro 128GB - Silver (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/FQ003LL/A/Refurbished-iPhone-14-Pro-128GB-Silver-Unlocked",
-    "price": 589.0,
-    "previous_price": 899.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.3448275862068966,
-    "model": "FQ003LL"
-  },
-  {
     "name": "Refurbished iPhone 14 Plus 256GB - Midnight (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -317,6 +306,17 @@
     "savings_price": 350.0,
     "saving_percentage": 0.2919099249374479,
     "model": "FQ273LL"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro Max 256GB - Natural Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/FU683LL/A/refurbished-iphone-15-pro-max-256gb-natural-titanium-unlocked",
+    "price": 849.0,
+    "previous_price": 1099.0,
+    "savings_price": 250.0,
+    "saving_percentage": 0.22747952684258416,
+    "model": "FU683LL"
   },
   {
     "name": "Refurbished iPhone 15 Plus 512GB - Black (Unlocked)",
