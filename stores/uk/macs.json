@@ -429,17 +429,6 @@
     "model": "FWV83B"
   },
   {
-    "name": "Refurbished 15-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 10\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/FC6J4B/A/Refurbished-15-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver",
-    "price": 1359.0,
-    "previous_price": 1599.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.150093808630394,
-    "model": "FC6J4B"
-  },
-  {
     "name": "Refurbished 14-inch MacBook Pro Apple M4 Chip with 10\u2010Core CPU and 10\u2010Core GPU - Silver",
     "family": "mac",
     "store": "uk",
@@ -603,6 +592,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "G19L3B"
+  },
+  {
+    "name": "Refurbished 24-inch iMac Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet \u2013 Blue",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/FD2T4B/A/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-blue",
+    "price": 1609.0,
+    "previous_price": 1899.0,
+    "savings_price": 290.0,
+    "saving_percentage": 0.15271195365982096,
+    "model": "FD2T4B"
   },
   {
     "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU",
