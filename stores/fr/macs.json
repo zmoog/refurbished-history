@@ -33,17 +33,6 @@
     "model": "fryr3f"
   },
   {
-    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 10 c\u0153urs \u2013 Minuit",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fryu3f/a/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M3-CPU-8-c%C5%93urs-et-GPU-10-c%C5%93urs-Minuit",
-    "price": 989.0,
-    "previous_price": 1479.0,
-    "savings_price": 490.0,
-    "saving_percentage": 0.33130493576741044,
-    "model": "fryu3f"
-  },
-  {
     "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M3, CPU 8 c\u0153urs et GPU 10 c\u0153urs \u2013 Lumie\u0300re stellaire",
     "family": "mac",
     "store": "fr",
@@ -737,6 +726,17 @@
     "model": "g1ax8f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M2 Pro, CPU 12 c\u0153urs et GPU 19 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g17l3f/a/macbook-pro-14-pouces-reconditionn%C3%A9-avec-puce-apple-m2-pro-cpu-12-c%C5%93urs-et-gpu-19-c%C5%93urs-argent",
+    "price": 2439.0,
+    "previous_price": 2439.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g17l3f"
+  },
+  {
     "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 30 c\u0153urs - Gris side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -933,6 +933,28 @@
     "savings_price": 700.0,
     "saving_percentage": 0.17077335935594048,
     "model": "fx303f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 38 c\u0153urs - Gris side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g17jcf/a/macbook-pro-14-pouces-reconditionn%C3%A9-avec-puce-apple-m2-max-cpu-12-c%C5%93urs-et-gpu-38-c%C5%93urs-gris-sid%C3%A9ral",
+    "price": 3599.0,
+    "previous_price": 3599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g17jcf"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M2 Max, CPU 12 c\u0153urs et GPU 38 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g17mcf/a/macbook-pro-14-pouces-reconditionn%C3%A9-avec-puce-apple-m2-max-cpu-12-c%C5%93urs-et-gpu-38-c%C5%93urs-argent",
+    "price": 3599.0,
+    "previous_price": 3599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g17mcf"
   },
   {
     "name": "Mac Studio reconditionne\u0301 avec puce Apple M2 Ultra, CPU 24 c\u0153urs et GPU 60 c\u0153urs",
