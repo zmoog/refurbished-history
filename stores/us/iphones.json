@@ -1,5 +1,38 @@
 [
   {
+    "name": "Refurbished iPhone 14 128GB - Blue (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fpvh3ll/a/Refurbished-iPhone-14-128GB-Blue-Unlocked",
+    "price": 449.0,
+    "previous_price": 629.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.2861685214626391,
+    "model": "fpvh3ll"
+  },
+  {
+    "name": "Refurbished iPhone 14 128GB - Yellow (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fr3j3ll/a/Refurbished-iPhone-14-128GB-Yellow-Unlocked",
+    "price": 449.0,
+    "previous_price": 629.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.2861685214626391,
+    "model": "fr3j3ll"
+  },
+  {
+    "name": "Refurbished iPhone 14 256GB - Blue (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fpwm3ll/a/Refurbished-iPhone-14-256GB-Blue-Unlocked",
+    "price": 529.0,
+    "previous_price": 729.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.27434842249657065,
+    "model": "fpwm3ll"
+  },
+  {
     "name": "Refurbished iPhone 14 Plus 128GB - Midnight (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -42,6 +75,17 @@
     "savings_price": 200.0,
     "saving_percentage": 0.27434842249657065,
     "model": "fq3w3ll"
+  },
+  {
+    "name": "Refurbished iPhone 14 256GB - Yellow (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fr3k3ll/a/Refurbished-iPhone-14-256GB-Yellow-Unlocked",
+    "price": 529.0,
+    "previous_price": 729.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.27434842249657065,
+    "model": "fr3k3ll"
   },
   {
     "name": "Refurbished iPhone 14 Plus 128GB - Yellow (Unlocked)",
@@ -220,17 +264,6 @@
     "model": "ftm63ll"
   },
   {
-    "name": "Refurbished iPhone 15 256GB - Blue (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/ftm73ll/a/refurbished-iphone-15-256gb-blue-unlocked",
-    "price": 619.0,
-    "previous_price": 729.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.15089163237311384,
-    "model": "ftm73ll"
-  },
-  {
     "name": "Refurbished iPhone 15 Plus 128GB - Pink (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -240,6 +273,17 @@
     "savings_price": 110.0,
     "saving_percentage": 0.15089163237311384,
     "model": "ftxt3ll"
+  },
+  {
+    "name": "Refurbished iPhone 15 Plus 128GB - Blue (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/ftxv3ll/a",
+    "price": 619.0,
+    "previous_price": 729.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15089163237311384,
+    "model": "ftxv3ll"
   },
   {
     "name": "Refurbished iPhone 14 Pro 256GB - Space Black (Unlocked)",
