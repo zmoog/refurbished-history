@@ -1848,17 +1848,6 @@
     "model": "g19q4ll"
   },
   {
-    "name": "Refurbished 14-inch MacBook Pro Apple M4 Chip with 10\u2010Core CPU and 10\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/g1dx0ll/a/refurbished-14-inch-macbook-pro-apple-m4-chip-with-10%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver",
-    "price": 2409.0,
-    "previous_price": 2409.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1dx0ll"
-  },
-  {
     "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU",
     "family": "mac",
     "store": "ca",
@@ -2198,17 +2187,6 @@
     "savings_price": 540.0,
     "saving_percentage": 0.16368596544407396,
     "model": "fx2j3ll"
-  },
-  {
-    "name": "Refurbished 16-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU \u2013 Silver",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/fx2t3ll/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver",
-    "price": 2799.0,
-    "previous_price": 3299.0,
-    "savings_price": 500.0,
-    "saving_percentage": 0.15156107911488328,
-    "model": "fx2t3ll"
   },
   {
     "name": "Refurbished 15-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 10\u2010Core GPU - Silver",
@@ -2803,6 +2781,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1jz8ll"
+  },
+  {
+    "name": "Refurbished Mac Studio Apple M3 Ultra chip with 32\u2010Core CPU and 80\u2010Core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/g1cecll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+    "price": 9899.0,
+    "previous_price": 9899.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1cecll"
   },
   {
     "name": "Refurbished Mac Pro Rack Apple M2 Ultra with 24-core CPU and 76-core GPU (USB-C)",
