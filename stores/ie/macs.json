@@ -110,17 +110,6 @@
     "model": "fwuc3b"
   },
   {
-    "name": "Refurbished 24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU \u2013 Yellow",
-    "family": "mac",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/fwud3b/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Yellow",
-    "price": 1299.0,
-    "previous_price": 1529.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.15042511445389142,
-    "model": "fwud3b"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU \u2013 Green",
     "family": "mac",
     "store": "ie",
@@ -438,6 +427,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1bw6b"
+  },
+  {
+    "name": "Refurbished Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/g1jv5b/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-",
+    "price": 1789.0,
+    "previous_price": 1789.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1jv5b"
   },
   {
     "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 30\u2010Core GPU",
@@ -801,6 +801,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g17zlb"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU \u2013 Space Black",
+    "family": "mac",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/fx2y3b/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black",
+    "price": 2859.0,
+    "previous_price": 3399.0,
+    "savings_price": 540.0,
+    "saving_percentage": 0.1588702559576346,
+    "model": "fx2y3b"
   },
   {
     "name": "Refurbished 16-inch MacBook Pro Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU - Silver",
