@@ -11,6 +11,17 @@
     "model": "fu9d3b"
   },
   {
+    "name": "Refurbished 13.3-inch MacBook Air Apple M1 Chip with 8\u2010Core CPU and 7\u2010Core GPU - Space Grey",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/fgn63b/a/refurbished-133-inch-macbook-air-apple-m1-chip-with-8%E2%80%91core-cpu-and-7%E2%80%91core-gpu-space-grey",
+    "price": 589.0,
+    "previous_price": 999.0,
+    "savings_price": 410.0,
+    "saving_percentage": 0.41041041041041043,
+    "model": "fgn63b"
+  },
+  {
     "name": "Refurbished 13-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 8\u2010Core GPU - Sky Blue",
     "family": "mac",
     "store": "uk",
@@ -20,17 +31,6 @@
     "savings_price": 150.0,
     "saving_percentage": 0.15015015015015015,
     "model": "fc6t4b"
-  },
-  {
-    "name": "Refurbished Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fcyt4b/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-",
-    "price": 849.0,
-    "previous_price": 999.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.15015015015015015,
-    "model": "fcyt4b"
   },
   {
     "name": "Refurbished 13-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 8\u2010Core GPU - Silver",
@@ -1089,17 +1089,6 @@
     "model": "g1fp3b"
   },
   {
-    "name": "Refurbished 16-inch MacBook Pro Apple M4 Pro Chip with 14\u2010Core CPU and 20\u2010Core GPU, Nano-texture display \u2013 Space Black",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/g1ft3b/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Nano-texture-display-Space-Black",
-    "price": 2249.0,
-    "previous_price": 2249.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1ft3b"
-  },
-  {
     "name": "Refurbished Mac Studio Apple M2 Max Chip with 12\u2010Core CPU and 38\u2010Core GPU",
     "family": "mac",
     "store": "uk",
@@ -1417,6 +1406,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g180lb"
+  },
+  {
+    "name": "Refurbished 16-inch MacBook Pro Apple M4 Max Chip with 16\u2010Core CPU and 40\u2010Core GPU \u2013 Space Black",
+    "family": "mac",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/g1fwab/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black",
+    "price": 6119.0,
+    "previous_price": 6119.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1fwab"
   },
   {
     "name": "Refurbished Mac Studio Apple M3 Ultra chip with 32\u2010Core CPU and 80\u2010Core GPU",
