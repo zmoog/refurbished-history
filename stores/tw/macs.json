@@ -4,8 +4,8 @@
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g15wcta/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver",
-    "price": 23490,
-    "previous_price": 23490,
+    "price": 22590,
+    "previous_price": 22590,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g15wcta"
@@ -15,11 +15,33 @@
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g1612ta/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-midnight",
-    "price": 29490,
-    "previous_price": 29490,
+    "price": 25590,
+    "previous_price": 25590,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1612ta"
+  },
+  {
+    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5929\u85cd\u8272 (\u6574\u4fee\u54c1)",
+    "family": "mac",
+    "store": "tw",
+    "url": "https://www.apple.com/tw/shop/product/g1h70ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%A4%A9%E8%97%8D%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
+    "price": 27990,
+    "previous_price": 27990,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1h70ta"
+  },
+  {
+    "name": "15 \u540b MacBook Air Apple M3 \u6676\u7247\u914d\u5099 8 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u9280\u8272 (\u6574\u4fee\u54c1)",
+    "family": "mac",
+    "store": "tw",
+    "url": "https://www.apple.com/tw/shop/product/g1br0ta/a/15-%E5%90%8B-MacBook-Air-Apple-M3-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-8-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E9%8A%80%E8%89%B2-%E6%95%B4%E4%BF%AE%E5%93%81",
+    "price": 29690,
+    "previous_price": 29690,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1br0ta"
   },
   {
     "name": "15 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5929\u85cd\u8272 (\u6574\u4fee\u54c1)",
@@ -66,70 +88,26 @@
     "model": "fw1l3ta"
   },
   {
-    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5929\u85cd\u8272 (\u6574\u4fee\u54c1)",
-    "family": "mac",
-    "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/g1h70ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%A4%A9%E8%97%8D%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 30790,
-    "previous_price": 30790,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1h70ta"
-  },
-  {
-    "name": "15 \u540b MacBook Air Apple M3 \u6676\u7247\u914d\u5099 8 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u9280\u8272 (\u6574\u4fee\u54c1)",
-    "family": "mac",
-    "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/g1br0ta/a/15-%E5%90%8B-MacBook-Air-Apple-M3-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-8-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E9%8A%80%E8%89%B2-%E6%95%B4%E4%BF%AE%E5%93%81",
-    "price": 31190,
-    "previous_price": 31190,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1br0ta"
-  },
-  {
     "name": "13 \u540b MacBook Air Apple M2 \u6676\u7247\u914d\u5099 8 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u592a\u7a7a\u7070\u8272 (\u6574\u4fee\u54c1)",
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g15t3ta/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-10%E2%80%91core-gpu-space-gray",
-    "price": 35190,
-    "previous_price": 35190,
+    "price": 31490,
+    "previous_price": 31490,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g15t3ta"
   },
   {
-    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u9280\u8272 (\u6574\u4fee\u54c1)",
+    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5348\u591c\u8272 (\u6574\u4fee\u54c1)",
     "family": "mac",
     "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/g1ct1ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E9%8A%80%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 36390,
-    "previous_price": 36390,
+    "url": "https://www.apple.com/tw/shop/product/g1gu0ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%8D%88%E5%A4%9C%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
+    "price": 39790,
+    "previous_price": 39790,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "g1ct1ta"
-  },
-  {
-    "name": "15 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u661f\u5149\u8272 (\u6574\u4fee\u54c1)",
-    "family": "mac",
-    "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/fc6k4ta/a/15-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E6%98%9F%E5%85%89%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 39590,
-    "previous_price": 39590,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fc6k4ta"
-  },
-  {
-    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5929\u85cd\u8272 (\u6574\u4fee\u54c1)",
-    "family": "mac",
-    "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/g1h80ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%A4%A9%E8%97%8D%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 39590,
-    "previous_price": 39590,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1h80ta"
+    "model": "g1gu0ta"
   },
   {
     "name": "24 \u540b iMac Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU\u3001Gigabit \u4e59\u592a\u7db2\u8def - \u85cd\u8272 (\u6574\u4fee\u54c1)",
@@ -146,12 +124,23 @@
     "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5348\u591c\u8272 (\u6574\u4fee\u54c1)",
     "family": "mac",
     "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/g1gu0ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%8D%88%E5%A4%9C%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 45490,
-    "previous_price": 45490,
+    "url": "https://www.apple.com/tw/shop/product/g1gu3ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%8D%88%E5%A4%9C%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
+    "price": 45790,
+    "previous_price": 45790,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "g1gu0ta"
+    "model": "g1gu3ta"
+  },
+  {
+    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5929\u85cd\u8272 (\u6574\u4fee\u54c1)",
+    "family": "mac",
+    "store": "tw",
+    "url": "https://www.apple.com/tw/shop/product/g1h93ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%A4%A9%E8%97%8D%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
+    "price": 45790,
+    "previous_price": 45790,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1h93ta"
   },
   {
     "name": "Apple Studio Display (\u6574\u4fee\u54c1),\u5948\u7c73\u7d0b\u7406\u73bb\u7483,\u53ef\u8abf\u6574\u659c\u5ea6\u7684\u652f\u67b6",
@@ -198,45 +187,12 @@
     "model": "fyjf3ta"
   },
   {
-    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5348\u591c\u8272 (\u6574\u4fee\u54c1)",
-    "family": "mac",
-    "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/g1gu3ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%8D%88%E5%A4%9C%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 51290,
-    "previous_price": 51290,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1gu3ta"
-  },
-  {
-    "name": "13 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5929\u85cd\u8272 (\u6574\u4fee\u54c1)",
-    "family": "mac",
-    "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/g1h93ta/a/13-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%A4%A9%E8%97%8D%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 51290,
-    "previous_price": 51290,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1h93ta"
-  },
-  {
-    "name": "Apple Studio Display (\u6574\u4fee\u54c1),\u5948\u7c73\u7d0b\u7406\u73bb\u7483,\u53ef\u8abf\u6574\u659c\u5ea6\u8207\u9ad8\u5ea6\u7684\u652f\u67b6",
-    "family": "mac",
-    "store": "tw",
-    "url": "https://www.apple.com/tw/shop/product/fyjj3ta/a/Apple-Studio-Display-%E6%95%B4%E4%BF%AE%E5%93%81%E5%A5%88%E7%B1%B3%E7%B4%8B%E7%90%86%E7%8E%BB%E7%92%83%E5%8F%AF%E8%AA%BF%E6%95%B4%E6%96%9C%E5%BA%A6%E8%88%87%E9%AB%98%E5%BA%A6%E7%9A%84%E6%94%AF%E6%9E%B6",
-    "price": 56890,
-    "previous_price": 56890,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fyjj3ta"
-  },
-  {
     "name": "15 \u540b MacBook Air Apple M4 \u6676\u7247\u914d\u5099 10 \u6838\u5fc3 CPU \u8207 10 \u6838\u5fc3 GPU - \u5929\u85cd\u8272 (\u6574\u4fee\u54c1)",
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g1he1ta/a/15-%E5%90%8B-MacBook-Air-Apple-M4-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-10-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-10-%E6%A0%B8%E5%BF%83-GPU-%E5%A4%A9%E8%97%8D%E8%89%B2-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-    "price": 56990,
-    "previous_price": 56990,
+    "price": 51490,
+    "previous_price": 51490,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1he1ta"
@@ -279,8 +235,8 @@
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g1787ta/a/16-%E5%90%8B-macbook-pro-apple-m2-max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-12-%E6%A0%B8%E5%BF%83-cpu-%E8%88%87-30-%E6%A0%B8%E5%BF%83-gpu-%E9%8A%80%E8%89%B2-%E6%95%B4%E4%BF%AE%E5%93%81",
-    "price": 81990,
-    "previous_price": 81990,
+    "price": 75900,
+    "previous_price": 75900,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1787ta"
@@ -312,8 +268,8 @@
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g1fsbta/a/16-%E5%90%8B-MacBook-Pro-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU%E5%A5%88%E7%B1%B3%E7%B4%8B%E7%90%86%E9%A1%AF%E7%A4%BA%E5%99%A8-%E9%8A%80%E8%89%B2-%E6%95%B4%E4%BF%AE%E5%93%81",
-    "price": 121290,
-    "previous_price": 121290,
+    "price": 115790,
+    "previous_price": 115790,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1fsbta"
@@ -323,8 +279,8 @@
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g1fw3ta/a/16-%E5%90%8B-MacBook-Pro-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E5%A4%AA%E7%A9%BA%E9%BB%91%E8%89%B2-%E6%95%B4%E4%BF%AE%E5%93%81",
-    "price": 122790,
-    "previous_price": 122790,
+    "price": 117190,
+    "previous_price": 117190,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1fw3ta"
@@ -334,8 +290,8 @@
     "family": "mac",
     "store": "tw",
     "url": "https://www.apple.com/tw/shop/product/g1fwmta/a/16-%E5%90%8B-MacBook-Pro-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU%E5%A5%88%E7%B1%B3%E7%B4%8B%E7%90%86%E9%A1%AF%E7%A4%BA%E5%99%A8-%E5%A4%AA%E7%A9%BA%E9%BB%91%E8%89%B2-%E6%95%B4%E4%BF%AE%E5%93%81",
-    "price": 180790,
-    "previous_price": 180790,
+    "price": 175290,
+    "previous_price": 175290,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1fwmta"
