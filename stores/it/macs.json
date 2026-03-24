@@ -1,16 +1,5 @@
 [
   {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 8\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fw0w3t/a/MacBook-Air-13-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-8%E2%80%91core-Argento",
-    "price": 859.0,
-    "previous_price": 1019.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.15701668302257116,
-    "model": "fw0w3t"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 8\u2010core - Galassia",
     "family": "mac",
     "store": "it",
@@ -20,17 +9,6 @@
     "savings_price": 160.0,
     "saving_percentage": 0.15701668302257116,
     "model": "fw0y3t"
-  },
-  {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 8\u2010core - Mezzanotte",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fw123t/a/MacBook-Air-13-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-8%E2%80%91core-Mezzanotte",
-    "price": 859.0,
-    "previous_price": 1019.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.15701668302257116,
-    "model": "fw123t"
   },
   {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Galassia",
@@ -132,17 +110,6 @@
     "model": "fwuf3t"
   },
   {
-    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 8\u2010core e GPU 8\u2010core - Rosa",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fwug3t/a/iMac-24-pollici-ricondizionato-con-chip-Apple-M4-CPU-8-core-e-GPU-8-core-Rosa",
-    "price": 1299.0,
-    "previous_price": 1529.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.15042511445389142,
-    "model": "fwug3t"
-  },
-  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Nero siderale",
     "family": "mac",
     "store": "it",
@@ -163,17 +130,6 @@
     "savings_price": 350.0,
     "saving_percentage": 0.2047981275599766,
     "model": "fw2w3t"
-  },
-  {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fc6l4t/a/MacBook-Air-15-inch-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Mezzanotte",
-    "price": 1389.0,
-    "previous_price": 1689.0,
-    "savings_price": 300.0,
-    "saving_percentage": 0.17761989342806395,
-    "model": "fc6l4t"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Celeste",
@@ -253,6 +209,17 @@
     "model": "fjmv3t"
   },
   {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, display con nanotexture - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1dw2t/a/macbook-pro-14-pollici-ricondizionato-con-chip-apple-m4-con-cpu-10%E2%80%91core-e-gpu-10%E2%80%91core-display-con-nanotexture-argento",
+    "price": 1519.0,
+    "previous_price": 1519.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1dw2t"
+  },
+  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Nero siderale",
     "family": "mac",
     "store": "it",
@@ -273,17 +240,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1bw6t"
-  },
-  {
-    "name": "Apple Studio Display ricondizionato, vetro nanotexture, sostegno a inclinazione regolabile",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fyjk3t/a/Apple-Studio-Display-ricondizionato-vetro-nanotexture-sostegno-a-inclinazione-regolabile",
-    "price": 1569.0,
-    "previous_price": 1999.0,
-    "savings_price": 430.0,
-    "saving_percentage": 0.21510755377688845,
-    "model": "fyjk3t"
   },
   {
     "name": "Apple Studio Display ricondizionato, vetro nanotexture, adattatore di montaggio VESA",
