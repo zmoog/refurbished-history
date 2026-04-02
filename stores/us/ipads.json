@@ -11,17 +11,6 @@
     "model": "fx2d3am"
   },
   {
-    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Pink",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fd4e4ll/a/Refurbished-iPad-A16-Wi-Fi-128GB-Pink",
-    "price": 299.0,
-    "previous_price": 349.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.14326647564469913,
-    "model": "fd4e4ll"
-  },
-  {
     "name": "Refurbished iPad (A16) Wi-Fi 128GB - Blue",
     "family": "ipad",
     "store": "us",
@@ -42,6 +31,17 @@
     "savings_price": 50.0,
     "saving_percentage": 0.14326647564469913,
     "model": "fd4d4ll"
+  },
+  {
+    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Pink",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fd4e4ll/a/Refurbished-iPad-A16-Wi-Fi-128GB-Pink",
+    "price": 299.0,
+    "previous_price": 349.0,
+    "savings_price": 50.0,
+    "saving_percentage": 0.14326647564469913,
+    "model": "fd4e4ll"
   },
   {
     "name": "Refurbished iPad (A16) Wi-Fi 256GB - Silver",
@@ -295,17 +295,6 @@
     "savings_price": 100.0,
     "saving_percentage": 0.1669449081803005,
     "model": "fd7l4ll"
-  },
-  {
-    "name": "Refurbished 11-inch iPad Air (M3) Wi-Fi 256GB - Blue",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fca34ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-256GB-Blue",
-    "price": 549.0,
-    "previous_price": 649.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.15408320493066255,
-    "model": "fca34ll"
   },
   {
     "name": "Refurbished 11-inch iPad Air (M3) Wi-Fi 256GB - Purple",
@@ -1144,17 +1133,6 @@
     "model": "fny03ll"
   },
   {
-    "name": "Refurbished iPad Pro 13\u2010inch (M4) Wi-Fi + Cellular 1TB with Nano-texture glass - Silver",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fwt03ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Nano-texture-glass-Silver",
-    "price": 1779.0,
-    "previous_price": 2099.0,
-    "savings_price": 320.0,
-    "saving_percentage": 0.15245354930919486,
-    "model": "fwt03ll"
-  },
-  {
     "name": "Refurbished iPad Pro 13\u2010inch (M4) Wi-Fi + Cellular 1TB with Nano-texture glass - Space Black",
     "family": "ipad",
     "store": "us",
@@ -1164,6 +1142,17 @@
     "savings_price": 320.0,
     "saving_percentage": 0.15245354930919486,
     "model": "fwry3ll"
+  },
+  {
+    "name": "Refurbished iPad Pro 13\u2010inch (M4) Wi-Fi + Cellular 1TB with Nano-texture glass - Silver",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fwt03ll/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Nano-texture-glass-Silver",
+    "price": 1779.0,
+    "previous_price": 2099.0,
+    "savings_price": 320.0,
+    "saving_percentage": 0.15245354930919486,
+    "model": "fwt03ll"
   },
   {
     "name": "Refurbished iPad Pro 13\u2010inch (M4) Wi-Fi 2TB with Standard glass - Space Black",
