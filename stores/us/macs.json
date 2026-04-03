@@ -1661,6 +1661,17 @@
     "model": "g1jzcll"
   },
   {
+    "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 60-core GPU",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/g1715ll/a/Refurbished-Mac-Pro-Apple-M2-Ultra-with-24-core-CPU-and-60-core-GPU",
+    "price": 6969.0,
+    "previous_price": 6969.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1715ll"
+  },
+  {
     "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 76-core GPU",
     "family": "mac",
     "store": "us",
@@ -1703,5 +1714,16 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1k0dll"
+  },
+  {
+    "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 76-core GPU (USB-C)",
+    "family": "mac",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/g1jzjll/a/Refurbished-Mac-Pro-Apple-M2-Ultra-with-24-core-CPU-and-76-core-GPU-USB-C",
+    "price": 8329.0,
+    "previous_price": 8329.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1jzjll"
   }
 ]
