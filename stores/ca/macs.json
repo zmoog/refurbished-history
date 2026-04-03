@@ -726,17 +726,6 @@
     "model": "g1gu3ll"
   },
   {
-    "name": "Refurbished 13-inch MacBook Air Apple M4 chip with 10\u2010Core CPU and 10\u2010Core GPU - Sky Blue",
-    "family": "mac",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/g1h93ll/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue",
-    "price": 1939.0,
-    "previous_price": 1939.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1h93ll"
-  },
-  {
     "name": "Refurbished 24-inch iMac Apple M3 Chip with 8-Core CPU and 10-Core GPU - Pink",
     "family": "mac",
     "store": "ca",
@@ -1639,6 +1628,17 @@
     "model": "g1k00ll"
   },
   {
+    "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 60-core GPU",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/g1715ll/a/Refurbished-Mac-Pro-Apple-M2-Ultra-with-24-core-CPU-and-60-core-GPU",
+    "price": 8919.0,
+    "previous_price": 8919.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1715ll"
+  },
+  {
     "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 60-core GPU (USB-C)",
     "family": "mac",
     "store": "ca",
@@ -1703,5 +1703,16 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1k0dll"
+  },
+  {
+    "name": "Refurbished Mac Pro Apple M2 Ultra with 24-core CPU and 76-core GPU (USB-C)",
+    "family": "mac",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/g1jzjll/a/Refurbished-Mac-Pro-Apple-M2-Ultra-with-24-core-CPU-and-76-core-GPU-USB-C",
+    "price": 11219.0,
+    "previous_price": 11219.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1jzjll"
   }
 ]
