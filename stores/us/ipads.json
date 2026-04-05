@@ -11,17 +11,6 @@
     "model": "fx2d3am"
   },
   {
-    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Blue",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fd4a4ll/a/Refurbished-iPad-A16-Wi-Fi-128GB-Blue",
-    "price": 299.0,
-    "previous_price": 349.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.14326647564469913,
-    "model": "fd4a4ll"
-  },
-  {
     "name": "Refurbished iPad (A16) Wi-Fi 256GB - Silver",
     "family": "ipad",
     "store": "us",
@@ -440,17 +429,6 @@
     "model": "fp563ll"
   },
   {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 512GB - Space Gray",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fv2j3ll/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-512GB-Space-Gray",
-    "price": 759.0,
-    "previous_price": 1049.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.27645376549094375,
-    "model": "fv2j3ll"
-  },
-  {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Space Gray (4th Generation)",
     "family": "ipad",
     "store": "us",
@@ -627,17 +605,6 @@
     "model": "fvvd3ll"
   },
   {
-    "name": "Refurbished iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass - Silver",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fvw23ll/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver",
-    "price": 929.0,
-    "previous_price": 1099.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.15468607825295724,
-    "model": "fvw23ll"
-  },
-  {
     "name": "Refurbished iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass - Space Black",
     "family": "ipad",
     "store": "us",
@@ -647,6 +614,17 @@
     "savings_price": 170.0,
     "saving_percentage": 0.15468607825295724,
     "model": "fvw13ll"
+  },
+  {
+    "name": "Refurbished iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass - Silver",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fvw23ll/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver",
+    "price": 929.0,
+    "previous_price": 1099.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.15468607825295724,
+    "model": "fvw23ll"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi\u2010Fi+Cellular 512GB Space Gray (4th Generation)",
