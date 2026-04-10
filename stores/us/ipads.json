@@ -11,17 +11,6 @@
     "model": "fx2d3am"
   },
   {
-    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Blue",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fd4a4ll/a/Refurbished-iPad-A16-Wi-Fi-128GB-Blue",
-    "price": 299.0,
-    "previous_price": 349.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.14326647564469913,
-    "model": "fd4a4ll"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 256GB - Silver (10th Generation)",
     "family": "ipad",
     "store": "us",
@@ -97,17 +86,6 @@
     "savings_price": 70.0,
     "saving_percentage": 0.155902004454343,
     "model": "fd4j4ll"
-  },
-  {
-    "name": "Refurbished iPad (A16) Wi-Fi 256GB - Pink",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fd4p4ll/a/Refurbished-iPad-A16-Wi-Fi-256GB-Pink",
-    "price": 379.0,
-    "previous_price": 449.0,
-    "savings_price": 70.0,
-    "saving_percentage": 0.155902004454343,
-    "model": "fd4p4ll"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 64GB - Space Gray",
@@ -396,17 +374,6 @@
     "model": "fcfy4ll"
   },
   {
-    "name": "Refurbished 11-inch iPad Air (M3) Wi-Fi + Cellular 256GB - Space Gray",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fcg04ll/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-Cellular-256GB-Space-Gray",
-    "price": 679.0,
-    "previous_price": 799.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.15018773466833543,
-    "model": "fcg04ll"
-  },
-  {
     "name": "Refurbished 11-inch iPad Air (M3) Wi-Fi + Cellular 256GB - Blue",
     "family": "ipad",
     "store": "us",
@@ -603,28 +570,6 @@
     "savings_price": 290.0,
     "saving_percentage": 0.27645376549094375,
     "model": "fv2l3ll"
-  },
-  {
-    "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi 256GB with Standard glass - Space Black",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fvv83ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Space-Black",
-    "price": 759.0,
-    "previous_price": 899.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.1557285873192436,
-    "model": "fvv83ll"
-  },
-  {
-    "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi 256GB with Standard glass - Silver",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fvv93ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Silver",
-    "price": 759.0,
-    "previous_price": 899.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.1557285873192436,
-    "model": "fvv93ll"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Space Gray (4th Generation)",
@@ -825,17 +770,6 @@
     "model": "fvvd3ll"
   },
   {
-    "name": "Refurbished iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass - Space Black",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fvw13ll/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black",
-    "price": 929.0,
-    "previous_price": 1099.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.15468607825295724,
-    "model": "fvw13ll"
-  },
-  {
     "name": "Refurbished iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass - Silver",
     "family": "ipad",
     "store": "us",
@@ -845,6 +779,17 @@
     "savings_price": 170.0,
     "saving_percentage": 0.15468607825295724,
     "model": "fvw23ll"
+  },
+  {
+    "name": "Refurbished iPad pro 11-inch (M4) Wi-Fi + Cellular 256GB with Standard glass - Space Black",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fvw13ll/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black",
+    "price": 929.0,
+    "previous_price": 1099.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.15468607825295724,
+    "model": "fvw13ll"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi\u2010Fi+Cellular 512GB Space Gray (4th Generation)",
