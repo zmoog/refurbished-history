@@ -121,17 +121,6 @@
     "model": "g1cw0f"
   },
   {
-    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Bleu ciel",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/g1h80f/a/MacBook-Air-13-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Bleu-ciel",
-    "price": 1159.0,
-    "previous_price": 1159.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1h80f"
-  },
-  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet - Jaune",
     "family": "mac",
     "store": "fr",
@@ -152,17 +141,6 @@
     "savings_price": 260.0,
     "saving_percentage": 0.14865637507146942,
     "model": "fwv13f"
-  },
-  {
-    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/g1e22f/a/iMac-24-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-8-c%C5%93urs-et-GPU-8-c%C5%93urs-Argent",
-    "price": 1659.0,
-    "previous_price": 1659.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1e22f"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Bleu",
@@ -352,6 +330,17 @@
     "model": "fx2y3f"
   },
   {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M4 Max, CPU 16 c\u0153urs et GPU 40 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1cd5f/a/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-16-c%C5%93urs-et-GPU-40-c%C5%93urs",
+    "price": 2829.0,
+    "previous_price": 2829.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1cd5f"
+  },
+  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet, e\u0301cran nano-texture\u0301 - Rose",
     "family": "mac",
     "store": "fr",
@@ -449,6 +438,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1793f"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M4 Max, CPU 16 c\u0153urs et GPU 40 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1cd9f/a/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-16-c%C5%93urs-et-GPU-40-c%C5%93urs",
+    "price": 3219.0,
+    "previous_price": 3219.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1cd9f"
   },
   {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M3 Max, CPU 14 c\u0153urs et GPU 30 c\u0153urs - Argent",
@@ -614,6 +614,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1fw3f"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M4 Max, CPU 16 c\u0153urs et GPU 40 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1cdaf/a/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-16-c%C5%93urs-et-GPU-40-c%C5%93urs",
+    "price": 3999.0,
+    "previous_price": 3999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1cdaf"
+  },
+  {
+    "name": "Mac Studio reconditionne\u0301 avec puce Apple M3 Ultra, CPU 28 c\u0153urs et GPU 60 c\u0153urs",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fu973f/a/Mac-Studio-reconditionn%C3%A9-avec-puce-Apple-M3-Ultra-CPU-28-c%C5%93urs-et-GPU-60-c%C5%93urs",
+    "price": 4079.0,
+    "previous_price": 4799.0,
+    "savings_price": 720.0,
+    "saving_percentage": 0.1500312565117733,
+    "model": "fu973f"
   },
   {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M4 Max, CPU 16 c\u0153urs, GPU 40 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
