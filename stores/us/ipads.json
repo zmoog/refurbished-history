@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil (USB-C)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fuwa3am/a/refurbished-apple-pencil-usb-c",
-    "price": 69.0,
-    "previous_price": 79.0,
-    "savings_price": 10.0,
-    "saving_percentage": 0.12658227848101267,
-    "model": "fuwa3am"
-  },
-  {
     "name": "Refurbished Apple Pencil Pro",
     "family": "ipad",
     "store": "us",
@@ -20,28 +9,6 @@
     "savings_price": 20.0,
     "saving_percentage": 0.15503875968992248,
     "model": "fx2d3am"
-  },
-  {
-    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Silver",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fd3y4ll/a/Refurbished-iPad-A16-Wi-Fi-128GB-Silver",
-    "price": 299.0,
-    "previous_price": 349.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.14326647564469913,
-    "model": "fd3y4ll"
-  },
-  {
-    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Blue",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fd4a4ll/a/Refurbished-iPad-A16-Wi-Fi-128GB-Blue",
-    "price": 299.0,
-    "previous_price": 349.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.14326647564469913,
-    "model": "fd4a4ll"
   },
   {
     "name": "Refurbished iPad (A16) Wi-Fi 128GB - Yellow",
@@ -64,17 +31,6 @@
     "savings_price": 60.0,
     "saving_percentage": 0.15037593984962405,
     "model": "fpq83ll"
-  },
-  {
-    "name": "Refurbished iPad Wi-Fi 256GB - Blue (10th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fpq93ll/a/Refurbished-iPad-Wi-Fi-256GB-Blue-10th-Generation",
-    "price": 339.0,
-    "previous_price": 399.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.15037593984962405,
-    "model": "fpq93ll"
   },
   {
     "name": "Refurbished iPad Wi-Fi 256GB - Pink (10th Generation)",
@@ -174,6 +130,17 @@
     "savings_price": 70.0,
     "saving_percentage": 0.155902004454343,
     "model": "flwl3ll"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Air (M2) Wi\u2010Fi 128GB - Blue",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fuwd3ll/a/Refurbished-11-inch-iPad-Air-M2-Wi-Fi-128GB-Blue",
+    "price": 399.0,
+    "previous_price": 549.0,
+    "savings_price": 150.0,
+    "saving_percentage": 0.273224043715847,
+    "model": "fuwd3ll"
   },
   {
     "name": "Refurbished iPad Air Wi-Fi + Cellular 64GB - Pink (5th Generation)",
@@ -319,28 +286,6 @@
     "model": "fd7l4ll"
   },
   {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 128GB - Space Gray",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fv273ll/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-128GB-Space-Gray",
-    "price": 539.0,
-    "previous_price": 749.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.2803738317757009,
-    "model": "fv273ll"
-  },
-  {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 128GB - Blue",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fv283ll/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-128GB-Blue",
-    "price": 539.0,
-    "previous_price": 749.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.2803738317757009,
-    "model": "fv283ll"
-  },
-  {
     "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 128GB - Starlight",
     "family": "ipad",
     "store": "us",
@@ -350,17 +295,6 @@
     "savings_price": 210.0,
     "saving_percentage": 0.2803738317757009,
     "model": "fv293ll"
-  },
-  {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 128GB - Purple",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fv2c3ll/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-128GB-Purple",
-    "price": 539.0,
-    "previous_price": 749.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.2803738317757009,
-    "model": "fv2c3ll"
   },
   {
     "name": "Refurbished 11-inch iPad Air (M3) Wi-Fi 256GB - Space Gray",
@@ -691,6 +625,17 @@
     "savings_price": 280.0,
     "saving_percentage": 0.2802802802802803,
     "model": "fv6x3ll"
+  },
+  {
+    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi+Cellular 256GB - Purple",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fv6y3ll/a/Refurbished-13-inch-iPad-Air-M2-Wi-FiCellular-256GB-Purple",
+    "price": 719.0,
+    "previous_price": 999.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.2802802802802803,
+    "model": "fv6y3ll"
   },
   {
     "name": "Refurbished 13-inch iPad Air (M3) Wi-Fi + Cellular 128GB - Space Gray",
