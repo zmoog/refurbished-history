@@ -1,5 +1,16 @@
 [
   {
+    "name": "Refurbished iPhone 15 128GB - Black (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/ftlv3ll/a/refurbished-iphone-15-128gb-black-unlocked",
+    "price": 529.0,
+    "previous_price": 629.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.1589825119236884,
+    "model": "ftlv3ll"
+  },
+  {
     "name": "Refurbished iPhone 15 Plus 128GB - Blue (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -9,6 +20,17 @@
     "savings_price": 110.0,
     "saving_percentage": 0.15089163237311384,
     "model": "ftxv3ll"
+  },
+  {
+    "name": "Refurbished iPhone 16 128GB - Teal (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fyaw3ll/a/refurbished-iphone-16-128gb-teal-unlocked",
+    "price": 619.0,
+    "previous_price": 729.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15089163237311384,
+    "model": "fyaw3ll"
   },
   {
     "name": "Refurbished iPhone 15 Pro 512GB - White Titanium (Unlocked)",
@@ -152,5 +174,16 @@
     "savings_price": 310.0,
     "saving_percentage": 0.2068045363575717,
     "model": "fu6j3ll"
+  },
+  {
+    "name": "Refurbished iPhone 16 Pro Max 1TB - White Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fywd3ll/a/refurbished-iphone-16-pro-max-1tb-white-titanium-unlocked",
+    "price": 1269.0,
+    "previous_price": 1499.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.1534356237491661,
+    "model": "fywd3ll"
   }
 ]
