@@ -1,5 +1,27 @@
 [
   {
+    "name": "Refurbished iPhone 15 512GB - Black (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/ftm93ll/a/refurbished-iphone-15-512gb-black-unlocked",
+    "price": 789.0,
+    "previous_price": 929.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.15069967707212056,
+    "model": "ftm93ll"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro Max 256GB - Black Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fu663ll/a/refurbished-iphone-15-pro-max-256gb-black-titanium-unlocked",
+    "price": 849.0,
+    "previous_price": 1099.0,
+    "savings_price": 250.0,
+    "saving_percentage": 0.22747952684258416,
+    "model": "fu663ll"
+  },
+  {
     "name": "Refurbished iPhone 15 Pro 512GB - White Titanium (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -75,16 +97,5 @@
     "savings_price": 280.0,
     "saving_percentage": 0.2155504234026174,
     "model": "fu6e3ll"
-  },
-  {
-    "name": "Refurbished iPhone 15 Pro Max 1TB - Black Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fu6f3ll/a/refurbished-iphone-15-pro-max-1tb-black-titanium-unlocked",
-    "price": 1189.0,
-    "previous_price": 1499.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.2068045363575717,
-    "model": "fu6f3ll"
   }
 ]
