@@ -33,17 +33,6 @@
     "model": "fw1k3t"
   },
   {
-    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 8\u2010core e GPU 8\u2010core - Giallo",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fwud3t/a/iMac-24-pollici-ricondizionato-con-chip-Apple-M4-CPU-8-core-e-GPU-8-core-Giallo",
-    "price": 1299.0,
-    "previous_price": 1529.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.15042511445389142,
-    "model": "fwud3t"
-  },
-  {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 8\u2010core e GPU 8\u2010core, Gigabit Ethernet - Arancione",
     "family": "mac",
     "store": "it",
@@ -132,17 +121,6 @@
     "model": "fx2e3t"
   },
   {
-    "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Pro, CPU 12\u2010core e GPU 18\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/frw43t/a/macbook-pro-16-ricondizionato-con-chip-apple-m3-pro-cpu-12%E2%80%91core-e-gpu-18%E2%80%91core-argento",
-    "price": 2239.0,
-    "previous_price": 2879.0,
-    "savings_price": 640.0,
-    "saving_percentage": 0.22229940951719346,
-    "model": "frw43t"
-  },
-  {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Pro, CPU 12\u2010core e GPU 18\u2010core - Nero siderale",
     "family": "mac",
     "store": "it",
@@ -152,6 +130,17 @@
     "savings_price": 640.0,
     "saving_percentage": 0.22229940951719346,
     "model": "frw13t"
+  },
+  {
+    "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Pro, CPU 12\u2010core e GPU 18\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/frw43t/a/macbook-pro-16-ricondizionato-con-chip-apple-m3-pro-cpu-12%E2%80%91core-e-gpu-18%E2%80%91core-argento",
+    "price": 2239.0,
+    "previous_price": 2879.0,
+    "savings_price": 640.0,
+    "saving_percentage": 0.22229940951719346,
+    "model": "frw43t"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Pro, CPU 14\u2010core e GPU 20\u2010core - Nero siderale",
