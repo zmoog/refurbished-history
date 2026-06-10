@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPhone 15 128GB - Green (SIM-Free)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/ftmm3vc/a/refurbished-iphone-15-128gb-green-SIM-Free",
-    "price": 719.0,
-    "previous_price": 849.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.15312131919905772,
-    "model": "ftmm3vc"
-  },
-  {
     "name": "Refurbished iPhone 15 Plus 128GB - Black (SIM-Free)",
     "family": "iphone",
     "store": "ca",
@@ -77,6 +66,17 @@
     "model": "fxvc3vc"
   },
   {
+    "name": "Refurbished iPhone 16 Plus 128GB - Pink (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvd3vc/a/Refurbished-iPhone-16-Plus-128GB-Pink-Unlocked",
+    "price": 969.0,
+    "previous_price": 1149.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.1566579634464752,
+    "model": "fxvd3vc"
+  },
+  {
     "name": "Refurbished iPhone 16 Plus 128GB - Ultramarine (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -86,6 +86,17 @@
     "savings_price": 180.0,
     "saving_percentage": 0.1566579634464752,
     "model": "fxve3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 128GB - Teal (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvf3vc/a/Refurbished-iPhone-16-Plus-128GB-Teal-Unlocked",
+    "price": 969.0,
+    "previous_price": 1149.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.1566579634464752,
+    "model": "fxvf3vc"
   },
   {
     "name": "Refurbished iPhone 15 Plus 256GB - Black (Unlocked)",
@@ -121,6 +132,72 @@
     "model": "fu0n3vc"
   },
   {
+    "name": "Refurbished iPhone 15 Pro 128GB - White Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/ftu83vc/a/Refurbished-iPhone-15-Pro-128GB-White-Titanium-Unlocked",
+    "price": 989.0,
+    "previous_price": 1299.0,
+    "savings_price": 310.0,
+    "saving_percentage": 0.23864511162432642,
+    "model": "ftu83vc"
+  },
+  {
+    "name": "Refurbished iPhone 15 Pro 256GB - Natural Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/ftuf3vc/a/Refurbished-iPhone-15-Pro-256GB-Natural-Titanium-Unlocked",
+    "price": 1099.0,
+    "previous_price": 1449.0,
+    "savings_price": 350.0,
+    "saving_percentage": 0.24154589371980675,
+    "model": "ftuf3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 256GB - Black (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvg3vc/a/Refurbished-iPhone-16-Plus-256GB-Black-Unlocked",
+    "price": 1099.0,
+    "previous_price": 1299.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15396458814472672,
+    "model": "fxvg3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 256GB - White (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvh3vc/a/Refurbished-iPhone-16-Plus-256GB-White-Unlocked",
+    "price": 1099.0,
+    "previous_price": 1299.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15396458814472672,
+    "model": "fxvh3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 256GB - Pink (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvj3vc/a/Refurbished-iPhone-16-Plus-256GB-Pink-Unlocked",
+    "price": 1099.0,
+    "previous_price": 1299.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15396458814472672,
+    "model": "fxvj3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 256GB - Ultramarine (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvk3vc/a/Refurbished-iPhone-16-Plus-256GB-Ultramarine-Unlocked",
+    "price": 1099.0,
+    "previous_price": 1299.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15396458814472672,
+    "model": "fxvk3vc"
+  },
+  {
     "name": "Refurbished iPhone 16 Plus 256GB - Teal (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -132,15 +209,37 @@
     "model": "fxvl3vc"
   },
   {
-    "name": "Refurbished iPhone 15 Plus 512GB - Black (Unlocked)",
+    "name": "Refurbished iPhone 16 Pro 128GB - Black Titanium (Unlocked)",
     "family": "iphone",
     "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/fu0t3vc/a",
-    "price": 1229.0,
-    "previous_price": 1449.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.1518288474810214,
-    "model": "fu0t3vc"
+    "url": "https://www.apple.com/ca/shop/product/fymv3vc/a/refurbished-iphone-16-pro-128gb-black-titanium-unlocked",
+    "price": 1099.0,
+    "previous_price": 1299.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15396458814472672,
+    "model": "fymv3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Pro 128GB - White Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fymw3vc/a/refurbished-iphone-16-pro-128gb-white-titanium-unlocked",
+    "price": 1099.0,
+    "previous_price": 1299.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15396458814472672,
+    "model": "fymw3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Pro 128GB - Natural Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fymy3vc/a/refurbished-iphone-16-pro-128gb-natural-titanium-unlocked",
+    "price": 1099.0,
+    "previous_price": 1299.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.15396458814472672,
+    "model": "fymy3vc"
   },
   {
     "name": "Refurbished iPhone 15 Plus 512GB - Blue (Unlocked)",
@@ -207,6 +306,39 @@
     "savings_price": 220.0,
     "saving_percentage": 0.1518288474810214,
     "model": "fyn33vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 512GB - Black (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvn3vc/a/Refurbished-iPhone-16-Plus-512GB-Black-Unlocked",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "fxvn3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 512GB - White (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvp3vc/a/Refurbished-iPhone-16-Plus-512GB-White-Unlocked",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "fxvp3vc"
+  },
+  {
+    "name": "Refurbished iPhone 16 Plus 512GB - Pink (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxvq3vc/a/Refurbished-iPhone-16-Plus-512GB-Pink-Unlocked",
+    "price": 1359.0,
+    "previous_price": 1599.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.150093808630394,
+    "model": "fxvq3vc"
   },
   {
     "name": "Refurbished iPhone 16 Plus 512GB - Ultramarine (Unlocked)",
@@ -341,6 +473,17 @@
     "model": "ftuu3vc"
   },
   {
+    "name": "Refurbished iPhone 16 Pro 1TB - Black Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fyn83vc/a/Refurbished-iphone-16-pro-1tb-Black-Titanium-Unlocked",
+    "price": 1739.0,
+    "previous_price": 2049.0,
+    "savings_price": 310.0,
+    "saving_percentage": 0.15129331381161543,
+    "model": "fyn83vc"
+  },
+  {
     "name": "Refurbished iPhone 16 Pro 1TB - White Titanium (Unlocked)",
     "family": "iphone",
     "store": "ca",
@@ -350,17 +493,6 @@
     "savings_price": 310.0,
     "saving_percentage": 0.15129331381161543,
     "model": "fyn93vc"
-  },
-  {
-    "name": "Refurbished iPhone 16 Pro 1TB - Desert Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/fyna3vc/a/refurbished-iphone-16-pro-1tb-desert-titanium-unlocked",
-    "price": 1739.0,
-    "previous_price": 2049.0,
-    "savings_price": 310.0,
-    "saving_percentage": 0.15129331381161543,
-    "model": "fyna3vc"
   },
   {
     "name": "Refurbished iPhone 16 Pro 1TB - Natural Titanium (Unlocked)",
