@@ -22,17 +22,6 @@
     "model": "g1cf7t"
   },
   {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fryn3t/a/MacBook-Air-15-pollici-ricondizionato-con-chip-Apple-M3-CPU-8-core-e-GPU-10-core-Grigio-siderale",
-    "price": 1039.0,
-    "previous_price": 1759.0,
-    "savings_price": 720.0,
-    "saving_percentage": 0.40932347924957363,
-    "model": "fryn3t"
-  },
-  {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Celeste",
     "family": "mac",
     "store": "it",
@@ -262,6 +251,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1az0t"
+  },
+  {
+    "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Max, CPU 16\u2010core e GPU 40\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1fd7t/a/MacBook-Pro-14-ricondizionato-con-chip-Apple-M4-Max-CPU-16%E2%80%91core-e-GPU-40%E2%80%91core-Argento",
+    "price": 3879.0,
+    "previous_price": 3879.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1fd7t"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Max, CPU 16\u2010core e GPU 40\u2010core, display con nanotexture - Argento",
