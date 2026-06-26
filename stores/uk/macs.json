@@ -544,9 +544,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/frx63b/a/refurbished-14-inch-macbook-pro-apple-m3-pro-chip-with-11%E2%80%91core-cpu-and-14%E2%80%91core-gpu-silver",
     "price": 1569.0,
-    "previous_price": 1899.0,
-    "savings_price": 330.0,
-    "saving_percentage": 0.17377567140600317,
+    "previous_price": 1569.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "frx63b"
   },
   {
@@ -709,9 +709,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fx2e3b/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-12%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Silver",
     "price": 1779.0,
-    "previous_price": 1999.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.11005502751375688,
+    "previous_price": 1779.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2e3b"
   },
   {
@@ -918,9 +918,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fx2f3b/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver",
     "price": 2209.0,
-    "previous_price": 2299.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.039147455415398,
+    "previous_price": 2209.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2f3b"
   },
   {
@@ -940,9 +940,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fx2t3b/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver",
     "price": 2209.0,
-    "previous_price": 2499.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.11604641856742696,
+    "previous_price": 2209.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2t3b"
   },
   {
@@ -1171,9 +1171,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fx2g3b/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Silver",
     "price": 2969.0,
-    "previous_price": 3099.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.041949015811552116,
+    "previous_price": 2969.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2g3b"
   },
   {
@@ -1369,9 +1369,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fx2w3b/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Silver",
     "price": 3739.0,
-    "previous_price": 3899.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.041036163118748394,
+    "previous_price": 3739.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2w3b"
   },
   {
@@ -1505,17 +1505,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1awgb"
-  },
-  {
-    "name": "Refurbished 14-inch MacBook Pro Apple M5 Max chip with 18\u2010Core CPU and 40\u2010Core GPU - Silver",
-    "family": "mac",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/g1mk4b/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Silver",
-    "price": 5689.0,
-    "previous_price": 5689.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1mk4b"
   },
   {
     "name": "Refurbished 14-inch MacBook Pro Apple M5 Max chip with 18\u2010Core CPU and 40\u2010Core GPU, Nano-texture display - Space Black",

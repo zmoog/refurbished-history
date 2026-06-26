@@ -49,9 +49,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fw0x3f/a/MacBook-Air-13-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Argent",
     "price": 1099.0,
-    "previous_price": 1109.0,
-    "savings_price": 10.0,
-    "saving_percentage": 0.009017132551848512,
+    "previous_price": 1099.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fw0x3f"
   },
   {
@@ -64,28 +64,6 @@
     "savings_price": 10.0,
     "saving_percentage": 0.009017132551848512,
     "model": "fw103f"
-  },
-  {
-    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Minuit",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fw133f/a/MacBook-Air-13-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Minuit",
-    "price": 1099.0,
-    "previous_price": 1109.0,
-    "savings_price": 10.0,
-    "saving_percentage": 0.009017132551848512,
-    "model": "fw133f"
-  },
-  {
-    "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et Gigabit Ethernet",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/g1cf2f/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-Gigabit-Ethernet",
-    "price": 1369.0,
-    "previous_price": 1369.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1cf2f"
   },
   {
     "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et 10 Gigabit Ethernet",
@@ -236,9 +214,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fde44f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Argent",
     "price": 1579.0,
-    "previous_price": 1799.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.12229016120066703,
+    "previous_price": 1579.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fde44f"
   },
   {
@@ -572,14 +550,25 @@
     "model": "g1kj2f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 10 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fde64f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Argent",
+    "price": 2059.0,
+    "previous_price": 2419.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.14882182720132286,
+    "model": "fde64f"
+  },
+  {
     "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 12 c\u0153urs et GPU 16 c\u0153urs - Argent",
     "family": "mac",
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fx2e3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-12-c%C5%93urs-et-GPU-16-c%C5%93urs-Argent",
     "price": 2059.0,
-    "previous_price": 2269.0,
-    "savings_price": 210.0,
-    "saving_percentage": 0.09255178492728074,
+    "previous_price": 2059.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2e3f"
   },
   {
@@ -742,9 +731,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/frw43f/a/macbook-pro-16-pouces-reconditionn%C3%A9-avec-puce-apple-m3-pro-cpu-12-c%C5%93urs-et-gpu-18-c%C5%93urs-argent",
     "price": 2269.0,
-    "previous_price": 2779.0,
-    "savings_price": 510.0,
-    "saving_percentage": 0.1835192515293271,
+    "previous_price": 2269.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "frw43f"
   },
   {
@@ -764,9 +753,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/frx73f/a/macbook-pro-14-pouces-reconditionn%C3%A9-avec-puce-apple-m3-pro-cpu-12-c%C5%93urs-et-gpu-18-c%C5%93urs-argent",
     "price": 2309.0,
-    "previous_price": 2779.0,
-    "savings_price": 470.0,
-    "saving_percentage": 0.16912558474271322,
+    "previous_price": 2309.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "frx73f"
   },
   {
@@ -830,9 +819,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fx2t3f/a/MacBook-Pro-16-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-14-c%C5%93urs-et-GPU-20-c%C5%93urs-Argent",
     "price": 2499.0,
-    "previous_price": 2779.0,
-    "savings_price": 280.0,
-    "saving_percentage": 0.10075566750629723,
+    "previous_price": 2499.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2t3f"
   },
   {
@@ -933,17 +922,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1k61f"
-  },
-  {
-    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M3 Pro, CPU 12 c\u0153urs et GPU 18 c\u0153urs - Noir side\u0301ral",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/g1av2f/a/macbook-pro-14-pouces-reconditionn%C3%A9-avec-puce-apple-m3-pro-cpu-12-c%C5%93urs-et-gpu-18-c%C5%93urs-noir-sid%C3%A9ral",
-    "price": 2779.0,
-    "previous_price": 2779.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1av2f"
   },
   {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 14 c\u0153urs et GPU 20 c\u0153urs - Noir side\u0301ral",
@@ -1061,9 +1039,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fx2u3f/a/MacBook-Pro-16-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-14-c%C5%93urs-et-GPU-20-c%C5%93urs-Argent",
     "price": 3069.0,
-    "previous_price": 3269.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.06118078923218109,
+    "previous_price": 3069.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2u3f"
   },
   {
@@ -1226,9 +1204,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fx2g3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-14-c%C5%93urs-et-GPU-32-c%C5%93urs-Argent",
     "price": 3479.0,
-    "previous_price": 3619.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.03868471953578337,
+    "previous_price": 3479.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2g3f"
   },
   {
@@ -1303,9 +1281,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/frw73f/a/macbook-pro-16-pouces-reconditionn%C3%A9-avec-puce-apple-m3-max-cpu-14-c%C5%93urs-et-gpu-30-c%C5%93urs-argent",
     "price": 3699.0,
-    "previous_price": 3979.0,
-    "savings_price": 280.0,
-    "saving_percentage": 0.07036943955767781,
+    "previous_price": 3699.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "frw73f"
   },
   {
@@ -1347,9 +1325,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fx2v3f/a/MacBook-Pro-16-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-14-c%C5%93urs-et-GPU-32-c%C5%93urs-Argent",
     "price": 3739.0,
-    "previous_price": 3919.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.045930084205154376,
+    "previous_price": 3739.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2v3f"
   },
   {
@@ -1457,9 +1435,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fuw73f/a/macbook-pro-16-pouces-reconditionn%C3%A9-avec-puce-apple-m3-max-cpu-16-c%C5%93urs-et-gpu-40-c%C5%93urs-argent",
     "price": 4219.0,
-    "previous_price": 4579.0,
-    "savings_price": 360.0,
-    "saving_percentage": 0.0786197859794715,
+    "previous_price": 4219.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fuw73f"
   },
   {
@@ -1468,9 +1446,9 @@
     "store": "fr",
     "url": "https://www.apple.com/fr/shop/product/fx2w3f/a/MacBook-Pro-16-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-16-c%C5%93urs-et-GPU-40-c%C5%93urs-Argent",
     "price": 4259.0,
-    "previous_price": 4429.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.03838338225333032,
+    "previous_price": 4259.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2w3f"
   },
   {

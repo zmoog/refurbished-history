@@ -49,9 +49,9 @@
     "store": "it",
     "url": "https://www.apple.com/it/shop/product/fw0w3t/a/MacBook-Air-13-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-8%E2%80%91core-Argento",
     "price": 949.0,
-    "previous_price": 1019.0,
-    "savings_price": 70.0,
-    "saving_percentage": 0.06869479882237488,
+    "previous_price": 949.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fw0w3t"
   },
   {
@@ -93,9 +93,9 @@
     "store": "it",
     "url": "https://www.apple.com/it/shop/product/fw0x3t/a/MacBook-Air-13-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Argento",
     "price": 1129.0,
-    "previous_price": 1149.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.017406440382941687,
+    "previous_price": 1129.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fw0x3t"
   },
   {
@@ -429,17 +429,6 @@
     "model": "g1ax3t"
   },
   {
-    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Blu",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/g1k50t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10%E2%80%91core-e-gpu-10%E2%80%91core-gigabit-ethernet-blu",
-    "price": 2379.0,
-    "previous_price": 2379.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1k50t"
-  },
-  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -478,9 +467,9 @@
     "store": "it",
     "url": "https://www.apple.com/it/shop/product/fx2t3t/a/MacBook-Pro-16-ricondizionato-con-chip-Apple-M4-Pro-CPU-14%E2%80%91core-e-GPU-20%E2%80%91core-Argento",
     "price": 2579.0,
-    "previous_price": 2869.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.10108051585918439,
+    "previous_price": 2579.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2t3t"
   },
   {
@@ -500,9 +489,9 @@
     "store": "it",
     "url": "https://www.apple.com/it/shop/product/fx2f3t/a/MacBook-Pro-14-ricondizionato-con-chip-Apple-M4-Pro-CPU-14%E2%80%91core-e-GPU-20%E2%80%91core-Argento",
     "price": 2619.0,
-    "previous_price": 2709.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.03322259136212625,
+    "previous_price": 2619.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2f3t"
   },
   {
@@ -588,9 +577,9 @@
     "store": "it",
     "url": "https://www.apple.com/it/shop/product/fx2g3t/a/MacBook-Pro-14-ricondizionato-con-chip-Apple-M4-Max-CPU-14%E2%80%91core-e-GPU-32%E2%80%91core-Argento",
     "price": 3549.0,
-    "previous_price": 3699.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.040551500405515,
+    "previous_price": 3549.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fx2g3t"
   },
   {

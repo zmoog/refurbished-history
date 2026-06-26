@@ -38,9 +38,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fk2k3b/a/refurbished-ipad-wi-fi-64gb-space-grey-9th-generation",
     "price": 259.0,
-    "previous_price": 309.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.16181229773462782,
+    "previous_price": 259.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fk2k3b"
   },
   {
@@ -60,9 +60,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fk2n3b/a/refurbished-ipad-wi-fi-256gb-space-grey-9th-generation",
     "price": 329.0,
-    "previous_price": 459.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.28322440087145967,
+    "previous_price": 329.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fk2n3b"
   },
   {
@@ -115,9 +115,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fk473b/a/refurbished-ipad-wi-fi-cellular-64gb-space-grey-9th-generation",
     "price": 359.0,
-    "previous_price": 439.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.18223234624145787,
+    "previous_price": 359.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fk473b"
   },
   {
@@ -159,7 +159,7 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fk7m3b/a/refurbished-ipad-mini-6-wi-fi-64gb-space-grey",
     "price": 459.0,
-    "previous_price": 449.0,
+    "previous_price": 459.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fk7m3b"
@@ -203,9 +203,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fuwc3zn/a/Refurbished-11-inch-iPad-Air-M2-Wi-Fi-128GB-Space-Grey",
     "price": 499.0,
-    "previous_price": 549.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.09107468123861566,
+    "previous_price": 499.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fuwc3zn"
   },
   {
@@ -247,9 +247,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fk7t3b/a/refurbished-ipad-mini-6-wi-fi-256gb-space-grey",
     "price": 539.0,
-    "previous_price": 549.0,
-    "savings_price": 10.0,
-    "saving_percentage": 0.018214936247723135,
+    "previous_price": 539.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fk7t3b"
   },
   {
@@ -302,7 +302,7 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fc9w4zn/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-128GB-Space-Gray",
     "price": 589.0,
-    "previous_price": 549.0,
+    "previous_price": 589.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fc9w4zn"
@@ -313,7 +313,7 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fc9x4zn/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-128GB-Blue",
     "price": 589.0,
-    "previous_price": 549.0,
+    "previous_price": 589.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fc9x4zn"
@@ -324,7 +324,7 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fc9y4zn/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-128GB-Starlight",
     "price": 589.0,
-    "previous_price": 549.0,
+    "previous_price": 589.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fc9y4zn"
@@ -335,21 +335,10 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fca04zn/a/Refurbished-11-inch-iPad-Air-M3-Wi-Fi-128GB-Purple",
     "price": 589.0,
-    "previous_price": 549.0,
+    "previous_price": 589.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fca04zn"
-  },
-  {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 128GB - Space Grey",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fv273zn/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-128GB-Space-Gray",
-    "price": 639.0,
-    "previous_price": 749.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.14686248331108145,
-    "model": "fv273zn"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 128GB Space Grey (4th Generation)",
@@ -357,9 +346,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxd3b/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-128GB-Space-Grey-4th-Generation",
     "price": 709.0,
-    "previous_price": 799.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.11264080100125157,
+    "previous_price": 709.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxd3b"
   },
   {
@@ -379,9 +368,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxf3b/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-256GB-Space-Grey-4th-Generation",
     "price": 789.0,
-    "previous_price": 899.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.12235817575083426,
+    "previous_price": 789.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxf3b"
   },
   {
@@ -412,9 +401,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnyc3b/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-128GB-Space-Grey-4th-Generation",
     "price": 829.0,
-    "previous_price": 949.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.12644889357218125,
+    "previous_price": 829.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnyc3b"
   },
   {
@@ -434,9 +423,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcj24zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-128gb-blue",
     "price": 879.0,
-    "previous_price": 899.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.02224694104560623,
+    "previous_price": 879.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcj24zn"
   },
   {
@@ -445,7 +434,7 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvv83zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Space-Black",
     "price": 909.0,
-    "previous_price": 899.0,
+    "previous_price": 909.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fvv83zn"
@@ -456,7 +445,7 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvv93zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Silver",
     "price": 909.0,
-    "previous_price": 899.0,
+    "previous_price": 909.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fvv93zn"
@@ -467,9 +456,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnye3b/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-256GB-Space-Grey-4th-Generation",
     "price": 919.0,
-    "previous_price": 1049.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.12392755004766444,
+    "previous_price": 919.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnye3b"
   },
   {
@@ -500,9 +489,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxh3b/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-512GB-Space-Grey-4th-Generation",
     "price": 959.0,
-    "previous_price": 1099.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.12738853503184713,
+    "previous_price": 959.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxh3b"
   },
   {
@@ -511,9 +500,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxp3b/a/refurbished-129-inch-ipad-pro-wi-fi-128gb-space-grey-6th-generation",
     "price": 969.0,
-    "previous_price": 1099.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.11828935395814377,
+    "previous_price": 969.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxp3b"
   },
   {
@@ -533,9 +522,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fv703zn/a/Refurbished-13-inch-iPad-Air-M2-Wi-FiCellular-512GB-Space-Gray",
     "price": 969.0,
-    "previous_price": 1199.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.19182652210175147,
+    "previous_price": 969.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fv703zn"
   },
   {
@@ -577,9 +566,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxr3b/a/refurbished-129-inch-ipad-pro-wi-fi-256gb-space-grey-6th-generation",
     "price": 1059.0,
-    "previous_price": 1199.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.11676396997497915,
+    "previous_price": 1059.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxr3b"
   },
   {
@@ -599,9 +588,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvvc3zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Space-Black",
     "price": 1079.0,
-    "previous_price": 1099.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.018198362147406732,
+    "previous_price": 1079.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvvc3zn"
   },
   {
@@ -610,9 +599,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvvd3zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Silver",
     "price": 1079.0,
-    "previous_price": 1099.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.018198362147406732,
+    "previous_price": 1079.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvvd3zn"
   },
   {
@@ -621,9 +610,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvw13zn/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black",
     "price": 1079.0,
-    "previous_price": 1099.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.018198362147406732,
+    "previous_price": 1079.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvw13zn"
   },
   {
@@ -632,9 +621,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvw23zn/a/Refurbished-iPad-pro-11-inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver",
     "price": 1079.0,
-    "previous_price": 1099.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.018198362147406732,
+    "previous_price": 1079.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvw23zn"
   },
   {
@@ -643,9 +632,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnyg3b/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-512GB-Space-Grey-4th-Generation",
     "price": 1089.0,
-    "previous_price": 1249.0,
-    "savings_price": 160.0,
-    "saving_percentage": 0.12810248198558846,
+    "previous_price": 1089.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnyg3b"
   },
   {
@@ -665,9 +654,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fp1x3b/a/refurbished-129-inch-ipad-pro-wi-fi-cellular-128gb-space-grey-6th-generation",
     "price": 1099.0,
-    "previous_price": 1249.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.1200960768614892,
+    "previous_price": 1099.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fp1x3b"
   },
   {
@@ -687,9 +676,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fv743zn/a/Refurbished-13-inch-iPad-Air-M2-Wi-FiCellular-1TB-Space-Gray",
     "price": 1109.0,
-    "previous_price": 1399.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.20729092208720515,
+    "previous_price": 1109.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fv743zn"
   },
   {
@@ -709,9 +698,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcj94zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-512gb-space-grey",
     "price": 1139.0,
-    "previous_price": 1199.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.05004170141784821,
+    "previous_price": 1139.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcj94zn"
   },
   {
@@ -720,9 +709,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcja4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-512gb-blue",
     "price": 1139.0,
-    "previous_price": 1199.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.05004170141784821,
+    "previous_price": 1139.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcja4zn"
   },
   {
@@ -731,9 +720,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcjc4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-512gb-starlight",
     "price": 1139.0,
-    "previous_price": 1199.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.05004170141784821,
+    "previous_price": 1139.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcjc4zn"
   },
   {
@@ -742,9 +731,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcjd4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-512gb-purple",
     "price": 1139.0,
-    "previous_price": 1199.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.05004170141784821,
+    "previous_price": 1139.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcjd4zn"
   },
   {
@@ -753,9 +742,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx23zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Space-Black",
     "price": 1169.0,
-    "previous_price": 1199.0,
-    "savings_price": 30.0,
-    "saving_percentage": 0.025020850708924104,
+    "previous_price": 1169.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx23zn"
   },
   {
@@ -764,9 +753,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx33zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-256GB-with-Standard-glass-Silver",
     "price": 1169.0,
-    "previous_price": 1199.0,
-    "savings_price": 30.0,
-    "saving_percentage": 0.025020850708924104,
+    "previous_price": 1169.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx33zn"
   },
   {
@@ -775,9 +764,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fp203b/a/refurbished-129-inch-ipad-pro-wi-fi-cellular-256gb-space-grey-6th-generation",
     "price": 1179.0,
-    "previous_price": 1349.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.12601927353595255,
+    "previous_price": 1179.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fp203b"
   },
   {
@@ -797,9 +786,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxu3b/a/refurbished-129-inch-ipad-pro-wi-fi-512gb-space-grey-6th-generation",
     "price": 1229.0,
-    "previous_price": 1399.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.12151536812008577,
+    "previous_price": 1229.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxu3b"
   },
   {
@@ -819,9 +808,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvw33zn/a/Refurbished-iPad-Pro-11-inch-M4-Wi-Fi-Cellular-512GB-with-Standard-glass-Space-Black",
     "price": 1249.0,
-    "previous_price": 1299.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.03849114703618168,
+    "previous_price": 1249.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvw33zn"
   },
   {
@@ -830,9 +819,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvw43zn/a/Refurbished-iPad-Pro-11-inch-M4-Wi-Fi-Cellular-512GB-with-Standard-glass-Silver",
     "price": 1249.0,
-    "previous_price": 1299.0,
-    "savings_price": 50.0,
-    "saving_percentage": 0.03849114703618168,
+    "previous_price": 1249.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvw43zn"
   },
   {
@@ -841,9 +830,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxk3b/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-1TB-Space-Grey-4th-Generation",
     "price": 1299.0,
-    "previous_price": 1499.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.133422281521014,
+    "previous_price": 1299.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxk3b"
   },
   {
@@ -863,9 +852,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcje4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-1tb-space-grey",
     "price": 1309.0,
-    "previous_price": 1399.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.06433166547533953,
+    "previous_price": 1309.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcje4zn"
   },
   {
@@ -874,9 +863,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcjf4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-1tb-blue",
     "price": 1309.0,
-    "previous_price": 1399.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.06433166547533953,
+    "previous_price": 1309.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcjf4zn"
   },
   {
@@ -885,9 +874,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcjg4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-1tb-starlight",
     "price": 1309.0,
-    "previous_price": 1399.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.06433166547533953,
+    "previous_price": 1309.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcjg4zn"
   },
   {
@@ -896,9 +885,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fcjh4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-cellular-1tb-purple",
     "price": 1309.0,
-    "previous_price": 1399.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.06433166547533953,
+    "previous_price": 1309.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fcjh4zn"
   },
   {
@@ -907,9 +896,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx43zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Space-Black",
     "price": 1339.0,
-    "previous_price": 1399.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.04288777698355969,
+    "previous_price": 1339.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx43zn"
   },
   {
@@ -918,9 +907,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx53zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-512GB-with-Standard-glass-Silver",
     "price": 1339.0,
-    "previous_price": 1399.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.04288777698355969,
+    "previous_price": 1339.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx53zn"
   },
   {
@@ -929,9 +918,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvxr3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Space-Black",
     "price": 1339.0,
-    "previous_price": 1399.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.04288777698355969,
+    "previous_price": 1339.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvxr3zn"
   },
   {
@@ -940,9 +929,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvxt3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver",
     "price": 1339.0,
-    "previous_price": 1399.0,
-    "savings_price": 60.0,
-    "saving_percentage": 0.04288777698355969,
+    "previous_price": 1339.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvxt3zn"
   },
   {
@@ -951,9 +940,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fp223b/a/refurbished-129-inch-ipad-pro-wi-fi-cellular-512gb-space-grey-6th-generation",
     "price": 1349.0,
-    "previous_price": 1549.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.1291155584247902,
+    "previous_price": 1349.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fp223b"
   },
   {
@@ -973,9 +962,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvve3zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-1TB-with-Standard-glass-Space-Black",
     "price": 1419.0,
-    "previous_price": 1499.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.0533689126084056,
+    "previous_price": 1419.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvve3zn"
   },
   {
@@ -984,9 +973,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvvf3zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-1TB-with-Standard-glass-Silver",
     "price": 1419.0,
-    "previous_price": 1499.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.0533689126084056,
+    "previous_price": 1419.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvvf3zn"
   },
   {
@@ -995,9 +984,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnyj3b/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-1TB-Space-Grey-4th-Generation",
     "price": 1429.0,
-    "previous_price": 1649.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.1334141904184354,
+    "previous_price": 1429.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnyj3b"
   },
   {
@@ -1017,9 +1006,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvxu3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-512GB-with-Standard-glass-Space-Black",
     "price": 1509.0,
-    "previous_price": 1599.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.05628517823639775,
+    "previous_price": 1509.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvxu3zn"
   },
   {
@@ -1028,9 +1017,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvxv3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-512GB-with-Standard-glass-Silver",
     "price": 1509.0,
-    "previous_price": 1599.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.05628517823639775,
+    "previous_price": 1509.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvxv3zn"
   },
   {
@@ -1039,9 +1028,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwr63zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Space-Black",
     "price": 1509.0,
-    "previous_price": 1599.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.05628517823639775,
+    "previous_price": 1509.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwr63zn"
   },
   {
@@ -1050,9 +1039,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwr73zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Silver",
     "price": 1509.0,
-    "previous_price": 1599.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.05628517823639775,
+    "previous_price": 1509.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwr73zn"
   },
   {
@@ -1061,9 +1050,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxw3b/a/refurbished-129-inch-ipad-pro-wi-fi-1tb-space-grey-6th-generation",
     "price": 1569.0,
-    "previous_price": 1799.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.12784880489160644,
+    "previous_price": 1569.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxw3b"
   },
   {
@@ -1083,9 +1072,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvw53zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Standard-glass-Space-Black",
     "price": 1589.0,
-    "previous_price": 1699.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.06474396703943497,
+    "previous_price": 1589.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvw53zn"
   },
   {
@@ -1094,9 +1083,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvw63zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Standard-glass-Silver",
     "price": 1589.0,
-    "previous_price": 1699.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.06474396703943497,
+    "previous_price": 1589.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvw63zn"
   },
   {
@@ -1105,9 +1094,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxm3b/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-2TB-Space-Grey-4th-Generation",
     "price": 1639.0,
-    "previous_price": 1899.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.1369141653501843,
+    "previous_price": 1639.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxm3b"
   },
   {
@@ -1127,9 +1116,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx63zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Standard-glass-Space-Black",
     "price": 1679.0,
-    "previous_price": 1799.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.06670372429127293,
+    "previous_price": 1679.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx63zn"
   },
   {
@@ -1138,9 +1127,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx73zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Standard-glass-Silver",
     "price": 1679.0,
-    "previous_price": 1799.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.06670372429127293,
+    "previous_price": 1679.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx73zn"
   },
   {
@@ -1149,9 +1138,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwrp3zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Nano-texture-glass-Space-Black",
     "price": 1679.0,
-    "previous_price": 1799.0,
-    "savings_price": 120.0,
-    "saving_percentage": 0.06670372429127293,
+    "previous_price": 1679.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwrp3zn"
   },
   {
@@ -1160,9 +1149,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fp243b/a/refurbished-129-inch-ipad-pro-wi-fi-cellular-1tb-space-grey-6th-generation",
     "price": 1689.0,
-    "previous_price": 1949.0,
-    "savings_price": 260.0,
-    "saving_percentage": 0.13340174448435094,
+    "previous_price": 1689.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fp243b"
   },
   {
@@ -1182,9 +1171,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwrf3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Space-Black",
     "price": 1759.0,
-    "previous_price": 1899.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.0737230121116377,
+    "previous_price": 1759.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwrf3zn"
   },
   {
@@ -1193,9 +1182,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwrg3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-1TB-with-Nano-texture-glass-Silver",
     "price": 1759.0,
-    "previous_price": 1899.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.0737230121116377,
+    "previous_price": 1759.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwrg3zn"
   },
   {
@@ -1204,9 +1193,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnyl3b/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-2TB-Space-Grey-4th-Generation",
     "price": 1769.0,
-    "previous_price": 2049.0,
-    "savings_price": 280.0,
-    "saving_percentage": 0.1366520253782333,
+    "previous_price": 1769.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnyl3b"
   },
   {
@@ -1226,9 +1215,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvxw3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Standard-glass-Space-Black",
     "price": 1849.0,
-    "previous_price": 1999.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.0750375187593797,
+    "previous_price": 1849.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvxw3zn"
   },
   {
@@ -1237,9 +1226,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fnxy3b/a/refurbished-129-inch-ipad-pro-wi-fi-2tb-space-grey-6th-generation",
     "price": 1909.0,
-    "previous_price": 2199.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.1318781264211005,
+    "previous_price": 1909.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fnxy3b"
   },
   {
@@ -1259,9 +1248,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvw73zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Standard-glass-Space-Black",
     "price": 1929.0,
-    "previous_price": 2099.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.08099094807050977,
+    "previous_price": 1929.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvw73zn"
   },
   {
@@ -1270,9 +1259,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwry3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Nano-texture-glass-Space-Black",
     "price": 1929.0,
-    "previous_price": 2099.0,
-    "savings_price": 170.0,
-    "saving_percentage": 0.08099094807050977,
+    "previous_price": 1929.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwry3zn"
   },
   {
@@ -1281,9 +1270,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx83zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Space-Black",
     "price": 2019.0,
-    "previous_price": 2199.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.08185538881309687,
+    "previous_price": 2019.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx83zn"
   },
   {
@@ -1292,9 +1281,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fvx93zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Silver",
     "price": 2019.0,
-    "previous_price": 2199.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.08185538881309687,
+    "previous_price": 2019.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fvx93zn"
   },
   {
@@ -1303,9 +1292,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwrr3zn/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Space-Black",
     "price": 2019.0,
-    "previous_price": 2199.0,
-    "savings_price": 180.0,
-    "saving_percentage": 0.08185538881309687,
+    "previous_price": 2019.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwrr3zn"
   },
   {
@@ -1314,9 +1303,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fp263b/a/refurbished-129-inch-ipad-pro-wi-fi-cellular-2tb-space-grey-6th-generation",
     "price": 2029.0,
-    "previous_price": 2349.0,
-    "savings_price": 320.0,
-    "saving_percentage": 0.1362281822051937,
+    "previous_price": 2029.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fp263b"
   },
   {
@@ -1336,9 +1325,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwrh3zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-2TB-with-Nano-texture-glass-Space-Black",
     "price": 2099.0,
-    "previous_price": 2299.0,
-    "savings_price": 200.0,
-    "saving_percentage": 0.08699434536755112,
+    "previous_price": 2099.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwrh3zn"
   },
   {
@@ -1347,9 +1336,9 @@
     "store": "uk",
     "url": "https://www.apple.com/uk/shop/product/fwt13zn/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-2TB-with-Nano-texture-glass-Space-Black",
     "price": 2269.0,
-    "previous_price": 2499.0,
-    "savings_price": 230.0,
-    "saving_percentage": 0.09203681472589036,
+    "previous_price": 2269.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
     "model": "fwt13zn"
   }
 ]
