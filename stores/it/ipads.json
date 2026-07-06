@@ -1,5 +1,16 @@
 [
   {
+    "name": "Apple Pencil (USB\u2010C) ricondizionata",
+    "family": "ipad",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fuwa3zm/a/apple-pencil-usb%E2%80%91c-ricondizionata",
+    "price": 79.0,
+    "previous_price": 89.0,
+    "savings_price": 10.0,
+    "saving_percentage": 0.11235955056179775,
+    "model": "fuwa3zm"
+  },
+  {
     "name": "Apple Pencil Pro ricondizionata",
     "family": "ipad",
     "store": "it",
@@ -9,17 +20,6 @@
     "savings_price": 20.0,
     "saving_percentage": 0.1342281879194631,
     "model": "fx2d3zm"
-  },
-  {
-    "name": "iPad (A16) Wi\u2010Fi 128GB ricondizionato - Rosa",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fd4e4ty/a/iPad-A16-Wi%E2%80%91Fi-128GB-ricondizionato-Rosa",
-    "price": 429.0,
-    "previous_price": 509.0,
-    "savings_price": 80.0,
-    "saving_percentage": 0.15717092337917485,
-    "model": "fd4e4ty"
   },
   {
     "name": "iPad (A16) Wi\u2010Fi 128GB ricondizionato - Argento",
@@ -42,6 +42,17 @@
     "savings_price": 80.0,
     "saving_percentage": 0.15717092337917485,
     "model": "fd4a4ty"
+  },
+  {
+    "name": "iPad (A16) Wi\u2010Fi 128GB ricondizionato - Rosa",
+    "family": "ipad",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fd4e4ty/a/iPad-A16-Wi%E2%80%91Fi-128GB-ricondizionato-Rosa",
+    "price": 429.0,
+    "previous_price": 509.0,
+    "savings_price": 80.0,
+    "saving_percentage": 0.15717092337917485,
+    "model": "fd4e4ty"
   },
   {
     "name": "iPad (A16) Wi\u2010Fi 256GB ricondizionato - Argento",
@@ -130,17 +141,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fca14ty"
-  },
-  {
-    "name": "iPad Air 11\" (M3) Wi\u2010Fi 256GB ricondizionato - Blu",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fca34ty/a/iPad-Air-11-M3-Wi%E2%80%91Fi-256GB-ricondizionato-Blu",
-    "price": 759.0,
-    "previous_price": 759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fca34ty"
   },
   {
     "name": "iPad Air 11\" (M3) Wi\u2010Fi 256GB ricondizionato - Galassia",
@@ -429,17 +429,6 @@
     "model": "fcny4ty"
   },
   {
-    "name": "iPad Pro 11\" (M4) Wi\u2010Fi 512GB ricondizionato con vetro standard - Argento",
-    "family": "ipad",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fvvd3ty/a/iPad-Pro-11-M4-Wi%E2%80%91Fi-512GB-ricondizionato-con-vetro-standard-Argento",
-    "price": 1219.0,
-    "previous_price": 1219.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fvvd3ty"
-  },
-  {
     "name": "iPad Pro 11\" (M4) Wi\u2010Fi 512GB ricondizionato con vetro standard - Nero siderale",
     "family": "ipad",
     "store": "it",
@@ -449,6 +438,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fvvc3ty"
+  },
+  {
+    "name": "iPad Pro 11\" (M4) Wi\u2010Fi 512GB ricondizionato con vetro standard - Argento",
+    "family": "ipad",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fvvd3ty/a/iPad-Pro-11-M4-Wi%E2%80%91Fi-512GB-ricondizionato-con-vetro-standard-Argento",
+    "price": 1219.0,
+    "previous_price": 1219.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fvvd3ty"
   },
   {
     "name": "iPad Pro 11\" (M4) Wi\u2010Fi + Cellular 256GB ricondizionato con vetro standard - Nero siderale",
