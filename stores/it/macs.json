@@ -88,28 +88,6 @@
     "model": "fhfj4t"
   },
   {
-    "name": "Mac mini ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fu9d3t/a/Mac-mini-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Gigabit-Ethernet",
-    "price": 829.0,
-    "previous_price": 979.0,
-    "savings_price": 150.0,
-    "saving_percentage": 0.15321756894790603,
-    "model": "fu9d3t"
-  },
-  {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/g1l60t/a",
-    "price": 1319.0,
-    "previous_price": 1319.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1l60t"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -143,6 +121,17 @@
     "model": "g1cy0t"
   },
   {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 8\u2010core e GPU 8\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fwuc3t/a/iMac-24-pollici-ricondizionato-con-chip-Apple-M4-CPU-8-core-e-GPU-8-core-Argento",
+    "price": 1549.0,
+    "previous_price": 1829.0,
+    "savings_price": 280.0,
+    "saving_percentage": 0.1530891197375615,
+    "model": "fwuc3t"
+  },
+  {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Rosa",
     "family": "mac",
     "store": "it",
@@ -163,6 +152,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g15z7t"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Rosa",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fd2u4t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10%E2%80%91core-e-gpu-10-core-gigabit-ethernet-rosa",
+    "price": 2089.0,
+    "previous_price": 2469.0,
+    "savings_price": 380.0,
+    "saving_percentage": 0.15390846496557312,
+    "model": "fd2u4t"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Pro, CPU 12\u2010core e GPU 16\u2010core - Argento",
@@ -198,6 +198,17 @@
     "model": "g1gs4t"
   },
   {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Verde",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1k34t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10%E2%80%91core-e-gpu-10%E2%80%91core-gigabit-ethernet-verde",
+    "price": 2279.0,
+    "previous_price": 2279.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1k34t"
+  },
+  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
     "family": "mac",
     "store": "it",
@@ -218,6 +229,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1ax3t"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet, vetro con nanotexture - Arancione",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1ew3t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10-core-e-gpu-10-core-gigabit-ethernet-vetro-con-nanotexture-arancione",
+    "price": 2379.0,
+    "previous_price": 2379.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1ew3t"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Verde",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1k30t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10%E2%80%91core-e-gpu-10%E2%80%91core-gigabit-ethernet-verde",
+    "price": 2379.0,
+    "previous_price": 2379.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1k30t"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3, CPU 8\u2010core e GPU 10\u2010core - Grigio siderale",
@@ -295,6 +328,17 @@
     "savings_price": 90.0,
     "saving_percentage": 0.03322259136212625,
     "model": "fx2j3t"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet, vetro con nanotexture - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1k11t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10-core-e-gpu-10-core-gigabit-ethernet-vetro-con-nanotexture-argento",
+    "price": 2739.0,
+    "previous_price": 2739.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1k11t"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M3 Pro, CPU 12-core e GPU 18-core - Nero siderale",
