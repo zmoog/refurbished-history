@@ -22,17 +22,6 @@
     "model": "fx2d3am"
   },
   {
-    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
-    "family": "ipad",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/fxn93cl/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
-    "price": 709.0,
-    "previous_price": 849.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.16489988221436985,
-    "model": "fxn93cl"
-  },
-  {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Blue",
     "family": "ipad",
     "store": "ca",
@@ -53,6 +42,17 @@
     "savings_price": 140.0,
     "saving_percentage": 0.16489988221436985,
     "model": "fxn83cl"
+  },
+  {
+    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxn93cl/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
+    "price": 709.0,
+    "previous_price": 849.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.16489988221436985,
+    "model": "fxn93cl"
   },
   {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 256GB - Space Grey",
@@ -110,6 +110,28 @@
     "model": "fxpp3cl"
   },
   {
+    "name": "Refurbished iPad mini (A17 Pro) Wi\u2010Fi + Cellular 128GB - Purple",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxpr3cl/a/Refurbished-iPad-mini-A17-Pro-Wi%E2%80%91Fi-Cellular-128GB-Purple",
+    "price": 879.0,
+    "previous_price": 1049.0,
+    "savings_price": 170.0,
+    "saving_percentage": 0.16205910390848427,
+    "model": "fxpr3cl"
+  },
+  {
+    "name": "Refurbished iPad mini (A17 Pro) Wi\u2010Fi + Cellular 256GB - Space Grey",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxpt3cl/a/Refurbished-iPad-mini-A17-Pro-Wi%E2%80%91Fi-Cellular-256GB-Space-Grey",
+    "price": 999.0,
+    "previous_price": 1199.0,
+    "savings_price": 200.0,
+    "saving_percentage": 0.16680567139282734,
+    "model": "fxpt3cl"
+  },
+  {
     "name": "Refurbished iPad mini (A17 Pro) Wi\u2010Fi + Cellular 256GB - Starlight",
     "family": "ipad",
     "store": "ca",
@@ -141,6 +163,17 @@
     "savings_price": 140.0,
     "saving_percentage": 0.1077752117013087,
     "model": "fnyd3vc"
+  },
+  {
+    "name": "Refurbished iPad mini (A17 Pro) Wi\u2010Fi + Cellular 512GB - Space Grey",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fyhc3cl/a/Refurbished-iPad-mini-A17-Pro-Wi%E2%80%91Fi-Cellular-512GB-Space-Grey",
+    "price": 1239.0,
+    "previous_price": 1479.0,
+    "savings_price": 240.0,
+    "saving_percentage": 0.16227180527383367,
+    "model": "fyhc3cl"
   },
   {
     "name": "Refurbished 11-inch iPad Pro Wi\u2010Fi+Cellular 256GB Space Grey (4th Generation)",
