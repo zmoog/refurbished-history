@@ -22,6 +22,17 @@
     "model": "fx2d3am"
   },
   {
+    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Blue",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fd4a4cl/a/Refurbished-iPad-A16-Wi-Fi-128GB-Blue",
+    "price": 549.0,
+    "previous_price": 649.0,
+    "savings_price": 100.0,
+    "saving_percentage": 0.15408320493066255,
+    "model": "fd4a4cl"
+  },
+  {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Blue",
     "family": "ipad",
     "store": "ca",
@@ -416,5 +427,16 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fwrg3cl"
+  },
+  {
+    "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi 2TB with Nano-texture glass \u2013 Space Black",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fwr83cl/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-2TB-with-Nano-texture-glass-Space-Black",
+    "price": 2579.0,
+    "previous_price": 2579.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fwr83cl"
   }
 ]
