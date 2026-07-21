@@ -1,5 +1,16 @@
 [
   {
+    "name": "MacBook Neo ricondizionato con chip Apple A18 Pro - Indaco",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fhff4t/a/macbook-neo-ricondizionato-chip-apple-a18-pro-indaco",
+    "price": 679.0,
+    "previous_price": 679.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fhff4t"
+  },
+  {
     "name": "MacBook Neo ricondizionato con chip Apple A18 Pro - Rosa pastello",
     "family": "mac",
     "store": "it",
@@ -33,17 +44,6 @@
     "model": "fhfg4t"
   },
   {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Galassia",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fdha4t/a",
-    "price": 1229.0,
-    "previous_price": 1449.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.1518288474810214,
-    "model": "fdha4t"
-  },
-  {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -53,6 +53,17 @@
     "savings_price": 220.0,
     "saving_percentage": 0.1518288474810214,
     "model": "fdh74t"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Galassia",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fdha4t/a",
+    "price": 1229.0,
+    "previous_price": 1449.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.1518288474810214,
+    "model": "fdha4t"
   },
   {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Mezzanotte",
@@ -108,17 +119,6 @@
     "savings_price": 270.0,
     "saving_percentage": 0.15177065767284992,
     "model": "fdhc4t"
-  },
-  {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fdhf4t/a",
-    "price": 1509.0,
-    "previous_price": 1779.0,
-    "savings_price": 270.0,
-    "saving_percentage": 0.15177065767284992,
-    "model": "fdhf4t"
   },
   {
     "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Celeste",
@@ -341,17 +341,6 @@
     "model": "g1k12t"
   },
   {
-    "name": "MacBook Pro 16\" ricondizionato con chip Apple M5 Pro, CPU 18\u2010Core e GPU 20\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fge64t/a/MacBook-Pro-16-ricondizionato-con-chip-Apple-M5-Pro-CPU-18%E2%80%91Core-e-GPU-20%E2%80%91core-Argento",
-    "price": 3529.0,
-    "previous_price": 4159.0,
-    "savings_price": 630.0,
-    "saving_percentage": 0.1514787208463573,
-    "model": "fge64t"
-  },
-  {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Max, CPU 14\u2010core e GPU 32\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -361,6 +350,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fx2g3t"
+  },
+  {
+    "name": "MacBook Pro 16\" ricondizionato con chip Apple M4 Pro, CPU 14\u2010core e GPU 20\u2010core, display con nanotexture - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1fqbt/a/MacBook-Pro-16-ricondizionato-con-chip-Apple-M4-Pro-CPU-14%E2%80%91core-e-GPU-20%E2%80%91core-display-con-nanotexture-Argento",
+    "price": 3559.0,
+    "previous_price": 3559.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1fqbt"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M5 Pro, CPU 18\u2010Core e GPU 20\u2010core, display con nanotexture - Argento",
