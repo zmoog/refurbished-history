@@ -44,17 +44,6 @@
     "model": "fhfh4t"
   },
   {
-    "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Giallo agrume",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fhfe4t/a/macbook-neo-ricondizionato-chip-apple-a18-pro-con-touch-id-giallo-agrume",
-    "price": 759.0,
-    "previous_price": 759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fhfe4t"
-  },
-  {
     "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Argento",
     "family": "mac",
     "store": "it",
@@ -64,6 +53,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fhfc4t"
+  },
+  {
+    "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Giallo agrume",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fhfe4t/a/macbook-neo-ricondizionato-chip-apple-a18-pro-con-touch-id-giallo-agrume",
+    "price": 759.0,
+    "previous_price": 759.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fhfe4t"
   },
   {
     "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Indaco",
@@ -616,17 +616,6 @@
     "model": "g1617t"
   },
   {
-    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Blu",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fd2t4t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10%E2%80%91core-e-gpu-10%E2%80%91core-gigabit-ethernet-blu",
-    "price": 2089.0,
-    "previous_price": 2469.0,
-    "savings_price": 380.0,
-    "saving_percentage": 0.15390846496557312,
-    "model": "fd2t4t"
-  },
-  {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Argento",
     "family": "mac",
     "store": "it",
@@ -647,6 +636,17 @@
     "savings_price": 380.0,
     "saving_percentage": 0.15390846496557312,
     "model": "fd2q4t"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Blu",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fd2t4t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10%E2%80%91core-e-gpu-10%E2%80%91core-gigabit-ethernet-blu",
+    "price": 2089.0,
+    "previous_price": 2469.0,
+    "savings_price": 380.0,
+    "saving_percentage": 0.15390846496557312,
+    "model": "fd2t4t"
   },
   {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet, vetro con nanotexture - Arancione",
