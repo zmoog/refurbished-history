@@ -11,17 +11,6 @@
     "model": "ftlv3ll"
   },
   {
-    "name": "Refurbished iPhone 15 128GB - Yellow (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/ftlx3ll/a/refurbished-iphone-15-128gb-yellow-unlocked",
-    "price": 529.0,
-    "previous_price": 629.0,
-    "savings_price": 100.0,
-    "saving_percentage": 0.1589825119236884,
-    "model": "ftlx3ll"
-  },
-  {
     "name": "Refurbished iPhone 15 128GB - Blue (Unlocked)",
     "family": "iphone",
     "store": "us",
@@ -185,28 +174,6 @@
     "savings_price": 130.0,
     "saving_percentage": 0.15681544028950542,
     "model": "fxuw3ll"
-  },
-  {
-    "name": "Refurbished iPhone 15 Pro 256GB - Black Titanium (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/ftqr3ll/a/Refurbished-iPhone-15-Pro-256GB-Black-Titanium-Unlocked",
-    "price": 759.0,
-    "previous_price": 999.0,
-    "savings_price": 240.0,
-    "saving_percentage": 0.24024024024024024,
-    "model": "ftqr3ll"
-  },
-  {
-    "name": "Refurbished iPhone 16 Plus 256GB - Black (Unlocked)",
-    "family": "iphone",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fxuy3ll/a/Refurbished-iPhone-16-Plus-256GB-Black-Unlocked-",
-    "price": 789.0,
-    "previous_price": 929.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.15069967707212056,
-    "model": "fxuy3ll"
   },
   {
     "name": "Refurbished iPhone 16 Plus 256GB - White (Unlocked)",
@@ -471,5 +438,16 @@
     "savings_price": 230.0,
     "saving_percentage": 0.1534356237491661,
     "model": "fywc3ll"
+  },
+  {
+    "name": "Refurbished iPhone 16 Pro Max 1TB - White Titanium (Unlocked)",
+    "family": "iphone",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fywd3ll/a/refurbished-iphone-16-pro-max-1tb-white-titanium-unlocked",
+    "price": 1269.0,
+    "previous_price": 1499.0,
+    "savings_price": 230.0,
+    "saving_percentage": 0.1534356237491661,
+    "model": "fywd3ll"
   }
 ]
