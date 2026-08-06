@@ -88,17 +88,6 @@
     "model": "fhfj4t"
   },
   {
-    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Celeste",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fdhh4t/a",
-    "price": 1229.0,
-    "previous_price": 1449.0,
-    "savings_price": 220.0,
-    "saving_percentage": 0.1518288474810214,
-    "model": "fdhh4t"
-  },
-  {
     "name": "Apple Studio Display ricondizionato, vetro standard, sostegno a inclinazione regolabile",
     "family": "mac",
     "store": "it",
@@ -262,6 +251,17 @@
     "savings_price": 230.0,
     "saving_percentage": 0.12439156300703083,
     "model": "fde04t"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1l62t/a",
+    "price": 1699.0,
+    "previous_price": 1699.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1l62t"
   },
   {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Argento",
@@ -715,6 +715,17 @@
     "model": "fx2t3t"
   },
   {
+    "name": "Mac Studio ricondizionato con chip Apple M4 Max, CPU 14\u2010core e GPU 32\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fu963t/a/Mac-Studio-ricondizionato-con-chip-Apple-M4-Max-CPU-14%E2%80%91core-e-GPU-32%E2%80%91core",
+    "price": 2589.0,
+    "previous_price": 3049.0,
+    "savings_price": 460.0,
+    "saving_percentage": 0.15086913742210561,
+    "model": "fu963t"
+  },
+  {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M3 Pro, CPU 12\u2010core e GPU 18\u2010core - Nero siderale",
     "family": "mac",
     "store": "it",
@@ -845,6 +856,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1ff9t"
+  },
+  {
+    "name": "Mac Studio ricondizionato con chip Apple M4 Max, CPU 16\u2010core e GPU 40\u2010core",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1cd5t/a/Mac-Studio-ricondizionato-con-chip-Apple-M4-Max-CPU-16%E2%80%91core-e-GPU-40%E2%80%91core",
+    "price": 3799.0,
+    "previous_price": 3799.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1cd5t"
   },
   {
     "name": "MacBook Pro 16\" ricondizionato con chip Apple M4 Max, CPU 14\u2010core e GPU 32\u2010core - Nero siderale",
