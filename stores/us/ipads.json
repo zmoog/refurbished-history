@@ -55,17 +55,6 @@
     "model": "fk2l3ll"
   },
   {
-    "name": "Refurbished iPad Wi-Fi 64GB - Yellow (10th Generation)",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fpq23ll/a/Refurbished-iPad-Wi-Fi-64GB-Yellow-10th-Generation",
-    "price": 319.0,
-    "previous_price": 319.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fpq23ll"
-  },
-  {
     "name": "Refurbished iPad Wi-Fi 256GB - Space Gray (9th Generation)",
     "family": "ipad",
     "store": "us",
@@ -86,17 +75,6 @@
     "savings_price": 140.0,
     "saving_percentage": 0.29227557411273486,
     "model": "fk2p3ll"
-  },
-  {
-    "name": "Refurbished iPad (A16) Wi-Fi 128GB - Silver",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fd3y4ll/a/Refurbished-iPad-A16-Wi-Fi-128GB-Silver",
-    "price": 379.0,
-    "previous_price": 449.0,
-    "savings_price": 70.0,
-    "saving_percentage": 0.155902004454343,
-    "model": "fd3y4ll"
   },
   {
     "name": "Refurbished iPad Wi-Fi 256GB - Silver (10th Generation)",
@@ -1826,17 +1804,6 @@
     "model": "fnxx3ll"
   },
   {
-    "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi + Cellular 1TB with Standard glass - Space Black",
-    "family": "ipad",
-    "store": "us",
-    "url": "https://www.apple.com/shop/product/fvw53ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Standard-glass-Space-Black",
-    "price": 1589.0,
-    "previous_price": 1589.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fvw53ll"
-  },
-  {
     "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi + Cellular 1TB with Standard glass - Silver",
     "family": "ipad",
     "store": "us",
@@ -1846,6 +1813,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fvw63ll"
+  },
+  {
+    "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi + Cellular 1TB with Standard glass - Space Black",
+    "family": "ipad",
+    "store": "us",
+    "url": "https://www.apple.com/shop/product/fvw53ll/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-Cellular-1TB-with-Standard-glass-Space-Black",
+    "price": 1589.0,
+    "previous_price": 1589.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fvw53ll"
   },
   {
     "name": "Refurbished iPad Pro 13\u2010inch (M4) Wi-Fi 1TB with Standard glass - Space Black",
