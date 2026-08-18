@@ -121,17 +121,6 @@
     "model": "fc6t4ch"
   },
   {
-    "name": "\u7ffb\u65b0 13 \u82f1\u5bf8 MacBook Air Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 8 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u5348\u591c\u8272",
-    "family": "mac",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/fw123ch/a",
-    "price": 6499,
-    "previous_price": 6499,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fw123ch"
-  },
-  {
     "name": "\u7ffb\u65b0 15 \u82f1\u5bf8 MacBook Air Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u5929\u84dd\u8272",
     "family": "mac",
     "store": "cn",
@@ -484,6 +473,17 @@
     "model": "fc7d4ch"
   },
   {
+    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u94f6\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/fw2w3ch/a",
+    "price": 10899,
+    "previous_price": 10899,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fw2w3ch"
+  },
+  {
     "name": "\u7ffb\u65b0 15 \u82f1\u5bf8 MacBook Air Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u5929\u84dd\u8272",
     "family": "mac",
     "store": "cn",
@@ -603,28 +603,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fdhk4ch"
-  },
-  {
-    "name": "\u7ffb\u65b0 13 \u82f1\u5bf8 MacBook Air Apple M5 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u661f\u5149\u8272",
-    "family": "mac",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/g1l32ch/a",
-    "price": 11699,
-    "previous_price": 11699,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1l32ch"
-  },
-  {
-    "name": "\u7ffb\u65b0 24 \u82f1\u5bf8 iMac Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u548c\u5343\u5146\u4ee5\u592a\u7f51\u7aef\u53e3 - \u94f6\u8272",
-    "family": "mac",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/fwuu3ch/a",
-    "price": 11899,
-    "previous_price": 11899,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fwuu3ch"
   },
   {
     "name": "\u7ffb\u65b0 24 \u82f1\u5bf8 iMac Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u548c\u5343\u5146\u4ee5\u592a\u7f51\u7aef\u53e3 - \u9ec4\u8272",
@@ -768,6 +746,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1kl2ch"
+  },
+  {
+    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/fw2v3ch/a",
+    "price": 12899,
+    "previous_price": 12899,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fw2v3ch"
+  },
+  {
+    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u94f6\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/fw2x3ch/a",
+    "price": 12899,
+    "previous_price": 12899,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fw2x3ch"
   },
   {
     "name": "\u7ffb\u65b0 24 \u82f1\u5bf8 iMac Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u548c\u5343\u5146\u4ee5\u592a\u7f51\u7aef\u53e3 - \u94f6\u8272",
@@ -1012,6 +1012,17 @@
     "model": "g1e52ch"
   },
   {
+    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u548c\u7eb3\u7c73\u7eb9\u7406\u663e\u793a\u5c4f - \u6df1\u7a7a\u9ed1\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/g1dt1ch/a",
+    "price": 13899,
+    "previous_price": 13899,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1dt1ch"
+  },
+  {
     "name": "\u7ffb\u65b0 Apple Studio Display (\u914d\u5907\u7eb3\u7c73\u7eb9\u7406\u73bb\u7483\u9762\u677f\u548c\u53ef\u8c03\u503e\u659c\u5ea6\u53ca\u9ad8\u5ea6\u7684\u652f\u67b6)",
     "family": "mac",
     "store": "cn",
@@ -1021,6 +1032,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fyjj3ch"
+  },
+  {
+    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/fcx04ch/a",
+    "price": 14199,
+    "previous_price": 14199,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fcx04ch"
+  },
+  {
+    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u94f6\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/fcx14ch/a",
+    "price": 14199,
+    "previous_price": 14199,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fcx14ch"
   },
   {
     "name": "\u7ffb\u65b0 24 \u82f1\u5bf8 iMac Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u548c\u5343\u5146\u4ee5\u592a\u7f51\u7aef\u53e3 - \u7c89\u8272",
@@ -1199,6 +1232,17 @@
     "model": "g1lu0ch"
   },
   {
+    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u94f6\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/g1js1ch/a",
+    "price": 15499,
+    "previous_price": 15499,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1js1ch"
+  },
+  {
     "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M5 \u82af\u7247 (\u914d\u200d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u548c\u7eb3\u7c73\u7eb9\u7406\u663e\u793a\u5c4f - \u6df1\u7a7a\u9ed1\u8272",
     "family": "mac",
     "store": "cn",
@@ -1243,15 +1287,15 @@
     "model": "fgdr4ch"
   },
   {
-    "name": "\u7ffb\u65b0 24 \u82f1\u5bf8 iMac Apple M4 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u4ee5\u53ca\u5343\u5146\u4ee5\u592a\u7f51\u7aef\u53e3\u548c\u7eb3\u7c73\u7eb9\u7406\u73bb\u7483\u9762\u677f - \u94f6\u8272",
+    "name": "\u7ffb\u65b0 15 \u82f1\u5bf8 MacBook Air Apple M5 \u82af\u7247 (\u914d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u5929\u84dd\u8272",
     "family": "mac",
     "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/g1k18ch/a",
-    "price": 17599,
-    "previous_price": 17599,
+    "url": "https://www.apple.com.cn/shop/product/g1m23ch/a",
+    "price": 17899,
+    "previous_price": 17899,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "g1k18ch"
+    "model": "g1m23ch"
   },
   {
     "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M4 Pro \u82af\u7247 (\u914d\u5907 14 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 20 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
@@ -1285,17 +1329,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1kn0ch"
-  },
-  {
-    "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M5 Pro \u82af\u7247 (\u914d\u5907 18 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 20 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
-    "family": "mac",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/g1ml4ch/a",
-    "price": 18299,
-    "previous_price": 18299,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1ml4ch"
   },
   {
     "name": "\u7ffb\u65b0 14 \u82f1\u5bf8 MacBook Pro Apple M5 \u82af\u7247 (\u914d\u200d\u5907 10 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 10 \u6838\u56fe\u5f62\u5904\u7406\u5668) \u548c\u7eb3\u7c73\u7eb9\u7406\u663e\u793a\u5c4f - \u94f6\u8272",
@@ -1527,6 +1560,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1ft1ch"
+  },
+  {
+    "name": "\u7ffb\u65b0 16 \u82f1\u5bf8 MacBook Pro Apple M5 Pro \u82af\u7247 (\u914d\u5907 18 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 20 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u94f6\u8272",
+    "family": "mac",
+    "store": "cn",
+    "url": "https://www.apple.com.cn/shop/product/g1mv1ch/a",
+    "price": 24399,
+    "previous_price": 24399,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1mv1ch"
   },
   {
     "name": "\u7ffb\u65b0 16 \u82f1\u5bf8 MacBook Pro Apple M5 Pro \u82af\u7247 (\u914d\u5907 18 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 20 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
@@ -1912,17 +1956,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1n22ch"
-  },
-  {
-    "name": "\u7ffb\u65b0 16 \u82f1\u5bf8 MacBook Pro Apple M5 Max \u82af\u7247 (\u914d\u5907 18 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 40 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u94f6\u8272",
-    "family": "mac",
-    "store": "cn",
-    "url": "https://www.apple.com.cn/shop/product/g1mycch/a",
-    "price": 43699,
-    "previous_price": 43699,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1mycch"
   },
   {
     "name": "\u7ffb\u65b0 16 \u82f1\u5bf8 MacBook Pro Apple M5 Max \u82af\u7247 (\u914d\u5907 18 \u6838\u4e2d\u592e\u5904\u7406\u5668\u548c 40 \u6838\u56fe\u5f62\u5904\u7406\u5668) - \u6df1\u7a7a\u9ed1\u8272",
