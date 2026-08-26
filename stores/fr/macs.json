@@ -44,6 +44,39 @@
     "model": "fhfh4f"
   },
   {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/flxy3f/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-silver",
+    "price": 729.0,
+    "previous_price": 1079.0,
+    "savings_price": 350.0,
+    "saving_percentage": 0.3243744207599629,
+    "model": "flxy3f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Lumie\u0300re stellaire",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fly13f/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-starlight",
+    "price": 729.0,
+    "previous_price": 1079.0,
+    "savings_price": 350.0,
+    "saving_percentage": 0.3243744207599629,
+    "model": "fly13f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 8 c\u0153urs - Minuit",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fly33f/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight",
+    "price": 729.0,
+    "previous_price": 1079.0,
+    "savings_price": 350.0,
+    "saving_percentage": 0.3243744207599629,
+    "model": "fly33f"
+  },
+  {
     "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro et Touch ID - Argent",
     "family": "mac",
     "store": "fr",
@@ -154,15 +187,81 @@
     "model": "fu9e3f"
   },
   {
-    "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et Gigabit Ethernet",
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Bleu ciel",
     "family": "mac",
     "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/g1cf2f/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-Gigabit-Ethernet",
-    "price": 1369.0,
-    "previous_price": 1369.0,
+    "url": "https://www.apple.com/fr/shop/product/fc7a4f/a/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Bleu-ciel",
+    "price": 1149.0,
+    "previous_price": 1269.0,
+    "savings_price": 120.0,
+    "saving_percentage": 0.09456264775413711,
+    "model": "fc7a4f"
+  },
+  {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fw1g3f/a/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Argent",
+    "price": 1149.0,
+    "previous_price": 1149.0,
     "savings_price": 0,
     "saving_percentage": 0.0,
-    "model": "g1cf2f"
+    "model": "fw1g3f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 8 c\u0153urs \u2013 Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fdh74f/a",
+    "price": 1179.0,
+    "previous_price": 1399.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.15725518227305219,
+    "model": "fdh74f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 8 c\u0153urs \u2013 Lumie\u0300re stellaire",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fdha4f/a",
+    "price": 1179.0,
+    "previous_price": 1399.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.15725518227305219,
+    "model": "fdha4f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 8 c\u0153urs \u2013 Minuit",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fdhe4f/a",
+    "price": 1179.0,
+    "previous_price": 1399.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.15725518227305219,
+    "model": "fdhe4f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 8 c\u0153urs \u2013 Bleu ciel",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fdhh4f/a",
+    "price": 1179.0,
+    "previous_price": 1399.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.15725518227305219,
+    "model": "fdhh4f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Lumie\u0300re stellaire",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1l30f/a",
+    "price": 1269.0,
+    "previous_price": 1269.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1l30f"
   },
   {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
@@ -196,6 +295,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1613f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Minuit",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fdhf4f/a",
+    "price": 1469.0,
+    "previous_price": 1729.0,
+    "savings_price": 260.0,
+    "saving_percentage": 0.15037593984962405,
+    "model": "fdhf4f"
+  },
+  {
+    "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1l01f/a",
+    "price": 1469.0,
+    "previous_price": 1469.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1l01f"
   },
   {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Bleu ciel",
@@ -242,17 +363,6 @@
     "model": "fwuj3f"
   },
   {
-    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fc6j4f/a/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Argent",
-    "price": 1529.0,
-    "previous_price": 1529.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fc6j4f"
-  },
-  {
     "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Minuit",
     "family": "mac",
     "store": "fr",
@@ -262,6 +372,17 @@
     "savings_price": 120.0,
     "saving_percentage": 0.07277137659187387,
     "model": "fc6l4f"
+  },
+  {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Bleu ciel",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1hd1f/a/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Bleu-ciel",
+    "price": 1529.0,
+    "previous_price": 1529.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1hd1f"
   },
   {
     "name": "Mac mini reconditionne\u0301 avec puce Apple M4 Pro, CPU 12 c\u0153urs, GPU 16 c\u0153urs et Gigabit Ethernet",
@@ -289,12 +410,12 @@
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Bleu ciel",
     "family": "mac",
     "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fdhk4f/a",
+    "url": "https://www.apple.com/fr/shop/product/g1l92f/a",
     "price": 1659.0,
-    "previous_price": 1949.0,
-    "savings_price": 290.0,
-    "saving_percentage": 0.1487942534633145,
-    "model": "fdhk4f"
+    "previous_price": 1659.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1l92f"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet - Argent",
@@ -418,6 +539,28 @@
     "model": "fdvt4f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kh2f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Noir-sid%C3%A9ral",
+    "price": 1719.0,
+    "previous_price": 1719.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kh2f"
+  },
+  {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Bleu ciel",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1hf0f/a/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Bleu-ciel",
+    "price": 1809.0,
+    "previous_price": 1809.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1hf0f"
+  },
+  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet - Argent",
     "family": "mac",
     "store": "fr",
@@ -427,17 +570,6 @@
     "savings_price": 340.0,
     "saving_percentage": 0.15322217214961695,
     "model": "fwuv3f"
-  },
-  {
-    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet - Jaune",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fwux3f/a/imac-24-pouces-reconditionn%C3%A9-avec-puce-apple-m4-cpu-10-c%C5%93urs-et-gpu-10-c%C5%93urs-gigabit-ethernet-jaune",
-    "price": 1879.0,
-    "previous_price": 2219.0,
-    "savings_price": 340.0,
-    "saving_percentage": 0.15322217214961695,
-    "model": "fwux3f"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet, e\u0301cran nano-texture\u0301 - Argent",
@@ -506,6 +638,50 @@
     "model": "fdvn4f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kj2f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Noir-sid%C3%A9ral",
+    "price": 2009.0,
+    "previous_price": 2009.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kj2f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fde34f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2059.0,
+    "previous_price": 2419.0,
+    "savings_price": 360.0,
+    "saving_percentage": 0.14882182720132286,
+    "model": "fde34f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 12 c\u0153urs et GPU 16 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fx2e3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-12-c%C5%93urs-et-GPU-16-c%C5%93urs-Argent",
+    "price": 2059.0,
+    "previous_price": 2059.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fx2e3f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 12 c\u0153urs et GPU 16 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fx2h3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-12-c%C5%93urs-et-GPU-16-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2059.0,
+    "previous_price": 2059.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fx2h3f"
+  },
+  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet - Mauve",
     "family": "mac",
     "store": "fr",
@@ -526,6 +702,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1eq2f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kk5f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Noir-sid%C3%A9ral",
+    "price": 2199.0,
+    "previous_price": 2199.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kk5f"
   },
   {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Minuit",
@@ -550,6 +737,17 @@
     "model": "g1h94f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kk2f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2249.0,
+    "previous_price": 2249.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kk2f"
+  },
+  {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M3 Pro, CPU 12 c\u0153urs et GPU 18 c\u0153urs - Noir side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -572,6 +770,50 @@
     "model": "fu963f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kk8f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Noir-sid%C3%A9ral",
+    "price": 2389.0,
+    "previous_price": 2389.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kk8f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 15 c\u0153urs et GPU 16 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fgdn4f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-15-c%C5%93urs-et-GPU-16-c%C5%93urs-Argent",
+    "price": 2459.0,
+    "previous_price": 2899.0,
+    "savings_price": 440.0,
+    "saving_percentage": 0.1517764746464298,
+    "model": "fgdn4f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 15 c\u0153urs et GPU 16 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fgdr4f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-15-c%C5%93urs-et-GPU-16-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2459.0,
+    "previous_price": 2899.0,
+    "savings_price": 440.0,
+    "saving_percentage": 0.1517764746464298,
+    "model": "fgdr4f"
+  },
+  {
+    "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Bleu ciel",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1hf4f/a/MacBook-Air-15-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-et-GPU-10-c%C5%93urs-Bleu-ciel",
+    "price": 2459.0,
+    "previous_price": 2459.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1hf4f"
+  },
+  {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 14 c\u0153urs et GPU 20 c\u0153urs - Noir side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -581,6 +823,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fx2x3f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kk0f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2529.0,
+    "previous_price": 2529.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kk0f"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet, e\u0301cran nano-texture\u0301 - Rose",
@@ -594,6 +847,28 @@
     "model": "g1k68f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 14 c\u0153urs et GPU 20 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fx2j3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-14-c%C5%93urs-et-GPU-20-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2549.0,
+    "previous_price": 2549.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fx2j3f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 15 c\u0153urs et GPU 16 c\u0153urs, e\u0301cran nano-texture\u0301 - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1mh0f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-15-c%C5%93urs-GPU-16-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Argent",
+    "price": 2599.0,
+    "previous_price": 2599.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1mh0f"
+  },
+  {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet - Vert",
     "family": "mac",
     "store": "fr",
@@ -603,6 +878,28 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1en1f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1ml4f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-18-c%C5%93urs-et-GPU-20-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2649.0,
+    "previous_price": 2649.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1ml4f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kk3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2709.0,
+    "previous_price": 2709.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kk3f"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet, e\u0301cran nano-texture\u0301 - Rose",
@@ -627,6 +924,17 @@
     "model": "frw23f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs, GPU 10 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1kk9f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Noir-sid%C3%A9ral",
+    "price": 2849.0,
+    "previous_price": 2849.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1kk9f"
+  },
+  {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs - Argent",
     "family": "mac",
     "store": "fr",
@@ -649,6 +957,17 @@
     "model": "fgea4f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 12 c\u0153urs et GPU 16 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1fe4f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-12-c%C5%93urs-et-GPU-16-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 2899.0,
+    "previous_price": 2899.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1fe4f"
+  },
+  {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 14 c\u0153urs, GPU 20 c\u0153urs et e\u0301cran nano-texture\u0301 - Argent",
     "family": "mac",
     "store": "fr",
@@ -660,6 +979,28 @@
     "model": "g1fp4f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 15 c\u0153urs et GPU 16 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1mhef/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-15-c%C5%93urs-et-GPU-16-c%C5%93urs-Argent",
+    "price": 3019.0,
+    "previous_price": 3019.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1mhef"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 15 c\u0153urs et GPU 16 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1mlef/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-15-c%C5%93urs-et-GPU-16-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 3019.0,
+    "previous_price": 3019.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1mlef"
+  },
+  {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs, e\u0301cran nano-texture\u0301 - Argent",
     "family": "mac",
     "store": "fr",
@@ -669,17 +1010,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1mv0f"
-  },
-  {
-    "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs, e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/g1mz0f/a/MacBook-Pro-16-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-18-c%C5%93urs-GPU-20-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Noir-sid%C3%A9ral",
-    "price": 3029.0,
-    "previous_price": 3029.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1mz0f"
   },
   {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 14 c\u0153urs et GPU 20 c\u0153urs - Argent",
@@ -715,6 +1045,17 @@
     "model": "g1ag3f"
   },
   {
+    "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M3 Max, CPU 14 c\u0153urs et GPU 30 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1ak3f/a/macbook-pro-16-pouces-reconditionn%C3%A9-avec-puce-apple-m3-max-cpu-14-c%C5%93urs-et-gpu-30-c%C5%93urs-argent",
+    "price": 3099.0,
+    "previous_price": 3099.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1ak3f"
+  },
+  {
     "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 14 c\u0153urs, GPU 20 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -724,6 +1065,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1ff6f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1ml6f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-18-c%C5%93urs-et-GPU-20-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 3209.0,
+    "previous_price": 3209.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1ml6f"
   },
   {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M5, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Argent",
@@ -781,6 +1133,17 @@
     "model": "g1fu3f"
   },
   {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs, e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1ml7f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-18-c%C5%93urs-GPU-20-c%C5%93urs-et-%C3%A9cran-nano-textur%C3%A9-Noir-sid%C3%A9ral",
+    "price": 3349.0,
+    "previous_price": 3349.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1ml7f"
+  },
+  {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs - Noir side\u0301ral",
     "family": "mac",
     "store": "fr",
@@ -812,6 +1175,28 @@
     "savings_price": 610.0,
     "saving_percentage": 0.15028332101502834,
     "model": "fgec4f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Max, CPU 14 c\u0153urs et GPU 32 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fx2g3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-14-c%C5%93urs-et-GPU-32-c%C5%93urs-Argent",
+    "price": 3479.0,
+    "previous_price": 3479.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fx2g3f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Max, CPU 14 c\u0153urs et GPU 32 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fx2k3f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M4-Max-CPU-14-c%C5%93urs-et-GPU-32-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 3479.0,
+    "previous_price": 3479.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fx2k3f"
   },
   {
     "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M4 Pro, CPU 14 c\u0153urs, GPU 20 c\u0153urs et e\u0301cran nano-texture\u0301 - Noir side\u0301ral",
@@ -977,6 +1362,17 @@
     "savings_price": 730.0,
     "saving_percentage": 0.15211502396332569,
     "model": "fgdu4f"
+  },
+  {
+    "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Pro, CPU 18 c\u0153urs et GPU 20 c\u0153urs - Noir side\u0301ral",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1mm6f/a/MacBook-Pro-14-pouces-reconditionn%C3%A9-avec-puce-Apple-M5-Pro-CPU-18-c%C5%93urs-et-GPU-20-c%C5%93urs-Noir-sid%C3%A9ral",
+    "price": 4069.0,
+    "previous_price": 4069.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1mm6f"
   },
   {
     "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M5 Max, CPU 18 c\u0153urs, GPU 32 c\u0153urs et e\u0301cran nano-texture\u0301 - Argent",
@@ -1285,6 +1681,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1ag7f"
+  },
+  {
+    "name": "MacBook Pro 16 pouces reconditionne\u0301 avec puce Apple M3 Max, CPU 16 c\u0153urs et GPU 40 c\u0153urs - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1ak7f/a/MacBook-Pro-16-pouces-reconditionn%C3%A9-avec-puce-Apple-M3-Max-CPU-16-c%C5%93urs-et-GPU-40-c%C5%93urs-Argent",
+    "price": 5619.0,
+    "previous_price": 5619.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1ak7f"
   },
   {
     "name": "MacBook Pro 14 pouces reconditionne\u0301 avec puce Apple M4 Max, CPU 16 c\u0153urs et GPU 40 c\u0153urs - Argent",
