@@ -44,17 +44,6 @@
     "model": "fhfh4f"
   },
   {
-    "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro et Touch ID - Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fhfc4f/a/macbook-neo-reconditionn%C3%A9-puce-apple-a18-pro-avec-touch-id-argent",
-    "price": 759.0,
-    "previous_price": 759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fhfc4f"
-  },
-  {
     "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro et Touch ID - Jaune agrume",
     "family": "mac",
     "store": "fr",
@@ -64,6 +53,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fhfe4f"
+  },
+  {
+    "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro et Touch ID - Argent",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fhfc4f/a/macbook-neo-reconditionn%C3%A9-puce-apple-a18-pro-avec-touch-id-argent",
+    "price": 759.0,
+    "previous_price": 759.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fhfc4f"
   },
   {
     "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro et Touch ID - Indigo",
@@ -119,6 +119,39 @@
     "savings_price": 400.0,
     "saving_percentage": 0.3032600454890068,
     "model": "fly23f"
+  },
+  {
+    "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et Gigabit Ethernet",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fu9e3f/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-Gigabit-Ethernet",
+    "price": 989.0,
+    "previous_price": 1169.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.15397775876817793,
+    "model": "fu9e3f"
+  },
+  {
+    "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et Gigabit Ethernet",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fcyt4f/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-Gigabit-Ethernet",
+    "price": 1179.0,
+    "previous_price": 1389.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.1511879049676026,
+    "model": "fcyt4f"
+  },
+  {
+    "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et Gigabit Ethernet",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1cf7f/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-Gigabit-Ethernet",
+    "price": 1279.0,
+    "previous_price": 1279.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1cf7f"
   },
   {
     "name": "MacBook Air 13 pouces reconditionne\u0301 avec puce Apple M2, CPU 8 c\u0153urs et GPU 10 c\u0153urs - Gris side\u0301ral",
@@ -328,17 +361,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1kj2f"
-  },
-  {
-    "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet - Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fcr24f/a/imac-24-pouces-reconditionn%C3%A9-avec-puce-apple-m4-cpu-10-c%C5%93urs-et-gpu-10-c%C5%93urs-gigabit-ethernet-argent",
-    "price": 2069.0,
-    "previous_price": 2439.0,
-    "savings_price": 370.0,
-    "saving_percentage": 0.15170151701517015,
-    "model": "fcr24f"
   },
   {
     "name": "iMac 24 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs, Gigabit Ethernet, e\u0301cran nano-texture\u0301 - Bleu",
