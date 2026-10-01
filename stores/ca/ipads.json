@@ -1,27 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil (USB-C)",
-    "family": "ipad",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/fuwa3am/a/refurbished-apple-pencil-usb-c",
-    "price": 89.0,
-    "previous_price": 109.0,
-    "savings_price": 20.0,
-    "saving_percentage": 0.1834862385321101,
-    "model": "fuwa3am"
-  },
-  {
-    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
-    "family": "ipad",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/fxn93cl/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
-    "price": 709.0,
-    "previous_price": 849.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.16489988221436985,
-    "model": "fxn93cl"
-  },
-  {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Blue",
     "family": "ipad",
     "store": "ca",
@@ -42,6 +20,17 @@
     "savings_price": 140.0,
     "saving_percentage": 0.16489988221436985,
     "model": "fxn83cl"
+  },
+  {
+    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxn93cl/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
+    "price": 709.0,
+    "previous_price": 849.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.16489988221436985,
+    "model": "fxn93cl"
   },
   {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 256GB - Space Grey",
