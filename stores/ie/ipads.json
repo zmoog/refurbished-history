@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished Apple Pencil (USB-C)",
-    "family": "ipad",
-    "store": "ie",
-    "url": "https://www.apple.com/ie/shop/product/fuwa3zm/a/refurbished-apple-pencil-usb-c",
-    "price": 79.0,
-    "previous_price": 89.0,
-    "savings_price": 10.0,
-    "saving_percentage": 0.11235955056179775,
-    "model": "fuwa3zm"
-  },
-  {
     "name": "Refurbished Apple Pencil Pro",
     "family": "ipad",
     "store": "ie",
@@ -64,6 +53,17 @@
     "savings_price": 100.0,
     "saving_percentage": 0.15408320493066255,
     "model": "fd4h4kn"
+  },
+  {
+    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/fxn93nf/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
+    "price": 589.0,
+    "previous_price": 699.0,
+    "savings_price": 110.0,
+    "saving_percentage": 0.15736766809728184,
+    "model": "fxn93nf"
   },
   {
     "name": "Refurbished 13-inch iPad Air (M3) Wi-Fi 128GB - Space Grey",
@@ -209,6 +209,17 @@
     "model": "fvx53nf"
   },
   {
+    "name": "Refurbished iPad Pro 13\u2010inch (M4) Wi-Fi + Cellular 256GB with Standard glass \u2013 Silver",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/fvxt3nf/a/Refurbished-iPad-Pro-13%E2%80%91inch-M4-Wi-Fi-Cellular-256GB-with-Standard-glass-Silver",
+    "price": 1539.0,
+    "previous_price": 1539.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fvxt3nf"
+  },
+  {
     "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi 1TB with Standard glass \u2013 Space Black",
     "family": "ipad",
     "store": "ie",
@@ -295,6 +306,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fwrq3nf"
+  },
+  {
+    "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi 2TB with Standard glass \u2013 Space Black",
+    "family": "ipad",
+    "store": "ie",
+    "url": "https://www.apple.com/ie/shop/product/fvvg3nf/a/Refurbished-iPad-Pro-11%E2%80%91inch-M4-Wi-Fi-2TB-with-Standard-glass-Space-Black",
+    "price": 2049.0,
+    "previous_price": 2049.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fvvg3nf"
   },
   {
     "name": "Refurbished iPad Pro 13\u2010inch (M4) Wi-Fi 1TB with Nano-texture glass \u2013 Space Black",
