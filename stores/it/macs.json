@@ -1,5 +1,27 @@
 [
   {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Galassia",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fdha4t/a",
+    "price": 1229.0,
+    "previous_price": 1449.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.1518288474810214,
+    "model": "fdha4t"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fdh74t/a",
+    "price": 1229.0,
+    "previous_price": 1449.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.1518288474810214,
+    "model": "fdh74t"
+  },
+  {
     "name": "Apple Studio Display ricondizionato, vetro standard, sostegno a inclinazione regolabile",
     "family": "mac",
     "store": "it",
@@ -44,6 +66,50 @@
     "model": "g1613t"
   },
   {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fdhf4t/a",
+    "price": 1509.0,
+    "previous_price": 1779.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.15177065767284992,
+    "model": "fdhf4t"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Celeste",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fdhj4t/a",
+    "price": 1509.0,
+    "previous_price": 1779.0,
+    "savings_price": 270.0,
+    "saving_percentage": 0.15177065767284992,
+    "model": "fdhj4t"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1l61t/a",
+    "price": 1509.0,
+    "previous_price": 1509.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1l61t"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Celeste",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/g1l91t/a",
+    "price": 1509.0,
+    "previous_price": 1509.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1l91t"
+  },
+  {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 8\u2010core e GPU 8\u2010core - Argento",
     "family": "mac",
     "store": "it",
@@ -75,17 +141,6 @@
     "savings_price": 280.0,
     "saving_percentage": 0.1530891197375615,
     "model": "fwug3t"
-  },
-  {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Galassia",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fc6k4t/a/MacBook-Air-15-inch-ricondizionato-con-chip-Apple-M4-CPU-10%E2%80%91core-e-GPU-10%E2%80%91core-Galassia",
-    "price": 1559.0,
-    "previous_price": 1689.0,
-    "savings_price": 130.0,
-    "saving_percentage": 0.07696862048549438,
-    "model": "fc6k4t"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core - Celeste",
@@ -262,6 +317,17 @@
     "savings_price": 490.0,
     "saving_percentage": 0.20425177157148813,
     "model": "fyjj3t"
+  },
+  {
+    "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Blu",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fd2t4t/a/imac-24-pollici-ricondizionato-con-chip-apple-m4-cpu-10%E2%80%91core-e-gpu-10%E2%80%91core-gigabit-ethernet-blu",
+    "price": 2089.0,
+    "previous_price": 2469.0,
+    "savings_price": 380.0,
+    "saving_percentage": 0.15390846496557312,
+    "model": "fd2t4t"
   },
   {
     "name": "iMac 24\" ricondizionato con chip Apple M4, CPU 10\u2010core e GPU 10\u2010core, Gigabit Ethernet - Rosa",
