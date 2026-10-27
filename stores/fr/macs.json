@@ -1,27 +1,5 @@
 [
   {
-    "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro - Argent",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fhfa4f/a/macbook-neo-reconditionn%C3%A9-puce-apple-a18-pro-argent",
-    "price": 679.0,
-    "previous_price": 679.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fhfa4f"
-  },
-  {
-    "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro - Jaune agrume",
-    "family": "mac",
-    "store": "fr",
-    "url": "https://www.apple.com/fr/shop/product/fhfd4f/a/macbook-neo-reconditionn%C3%A9-puce-apple-a18-pro-jaune-agrume",
-    "price": 679.0,
-    "previous_price": 679.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fhfd4f"
-  },
-  {
     "name": "MacBook Neo reconditionne\u0301 avec puce Apple A18 Pro - Indigo",
     "family": "mac",
     "store": "fr",
@@ -86,6 +64,28 @@
     "savings_price": 140.0,
     "saving_percentage": 0.1475237091675448,
     "model": "fu9d3f"
+  },
+  {
+    "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et Gigabit Ethernet",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fu9e3f/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-Gigabit-Ethernet",
+    "price": 989.0,
+    "previous_price": 1169.0,
+    "savings_price": 180.0,
+    "saving_percentage": 0.15397775876817793,
+    "model": "fu9e3f"
+  },
+  {
+    "name": "Mac mini reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs, GPU 10 c\u0153urs et Gigabit Ethernet",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/fcyt4f/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-CPU-10-c%C5%93urs-GPU-10-c%C5%93urs-et-Gigabit-Ethernet",
+    "price": 1179.0,
+    "previous_price": 1389.0,
+    "savings_price": 210.0,
+    "saving_percentage": 0.1511879049676026,
+    "model": "fcyt4f"
   },
   {
     "name": "Studio Display Apple reconditionne\u0301, verre standard, kit de montage VESA",
@@ -317,6 +317,17 @@
     "savings_price": 490.0,
     "saving_percentage": 0.20425177157148813,
     "model": "fyjj3f"
+  },
+  {
+    "name": "Mac mini reconditionne\u0301 avec puce Apple M4 Pro, CPU 12 c\u0153urs, GPU 16 c\u0153urs et 10 Gigabit Ethernet",
+    "family": "mac",
+    "store": "fr",
+    "url": "https://www.apple.com/fr/shop/product/g1jvbf/a/Mac-mini-reconditionn%C3%A9-avec-puce-Apple-M4-Pro-CPU-12-c%C5%93urs-GPU-16-c%C5%93urs-et-10-Gigabit-Ethernet",
+    "price": 2449.0,
+    "previous_price": 2449.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "g1jvbf"
   },
   {
     "name": "MacBook Air 15 pouces reconditionne\u0301 avec puce Apple M4, CPU 10 c\u0153urs et GPU 10 c\u0153urs \u2013 Minuit",
