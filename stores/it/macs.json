@@ -44,17 +44,6 @@
     "model": "fhfh4t"
   },
   {
-    "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fhfc4t/a/macbook-neo-ricondizionato-chip-apple-a18-pro-con-touch-id-argento",
-    "price": 759.0,
-    "previous_price": 759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fhfc4t"
-  },
-  {
     "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Giallo agrume",
     "family": "mac",
     "store": "it",
@@ -64,6 +53,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fhfe4t"
+  },
+  {
+    "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Argento",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fhfc4t/a/macbook-neo-ricondizionato-chip-apple-a18-pro-con-touch-id-argento",
+    "price": 759.0,
+    "previous_price": 759.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fhfc4t"
   },
   {
     "name": "MacBook Neo ricondizionato con chip Apple A18 Pro e Touch ID - Indaco",
@@ -471,17 +471,6 @@
     "savings_price": 570.0,
     "saving_percentage": 0.1500394840747565,
     "model": "ffep4t"
-  },
-  {
-    "name": "Mac Studio ricondizionato con chip Apple M4 Max, CPU 16\u2010core e GPU 40\u2010core",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/g1cd1t/a/Mac-Studio-ricondizionato-con-chip-Apple-M4-Max-CPU-16%E2%80%91core-e-GPU-40%E2%80%91core",
-    "price": 3309.0,
-    "previous_price": 3309.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "g1cd1t"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Max, CPU 14\u2010core e GPU 32\u2010core - Argento",
