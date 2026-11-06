@@ -1,5 +1,16 @@
 [
   {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 8\u2010core - Celeste",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fdhh4t/a",
+    "price": 1229.0,
+    "previous_price": 1449.0,
+    "savings_price": 220.0,
+    "saving_percentage": 0.1518288474810214,
+    "model": "fdhh4t"
+  },
+  {
     "name": "Apple Studio Display ricondizionato, vetro standard, sostegno a inclinazione regolabile",
     "family": "mac",
     "store": "it",
@@ -31,17 +42,6 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "g1613t"
-  },
-  {
-    "name": "MacBook Air 15\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Galassia",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fdvd4t/a",
-    "price": 1479.0,
-    "previous_price": 1749.0,
-    "savings_price": 270.0,
-    "saving_percentage": 0.15437392795883362,
-    "model": "fdvd4t"
   },
   {
     "name": "MacBook Air 15\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
@@ -196,6 +196,17 @@
     "savings_price": 300.0,
     "saving_percentage": 0.1500750375187594,
     "model": "fdhd4t"
+  },
+  {
+    "name": "MacBook Air 13\" ricondizionato con chip Apple M5, CPU 10\u2010core e GPU 10\u2010core - Mezzanotte",
+    "family": "mac",
+    "store": "it",
+    "url": "https://www.apple.com/it/shop/product/fdhg4t/a",
+    "price": 1699.0,
+    "previous_price": 1999.0,
+    "savings_price": 300.0,
+    "saving_percentage": 0.1500750375187594,
+    "model": "fdhg4t"
   },
   {
     "name": "Apple Studio Display ricondizionato, vetro standard, sostegno a inclinazione e altezza regolabili",
@@ -427,17 +438,6 @@
     "savings_price": 570.0,
     "saving_percentage": 0.1500394840747565,
     "model": "ffep4t"
-  },
-  {
-    "name": "MacBook Pro 16\" ricondizionato con chip Apple M5 Pro, CPU 18\u2010Core e GPU 20\u2010core - Argento",
-    "family": "mac",
-    "store": "it",
-    "url": "https://www.apple.com/it/shop/product/fge64t/a/MacBook-Pro-16-ricondizionato-con-chip-Apple-M5-Pro-CPU-18%E2%80%91Core-e-GPU-20%E2%80%91core-Argento",
-    "price": 3529.0,
-    "previous_price": 4159.0,
-    "savings_price": 630.0,
-    "saving_percentage": 0.1514787208463573,
-    "model": "fge64t"
   },
   {
     "name": "MacBook Pro 14\" ricondizionato con chip Apple M4 Max, CPU 14\u2010core e GPU 32\u2010core - Argento",
