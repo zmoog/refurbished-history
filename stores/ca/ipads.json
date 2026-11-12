@@ -1,16 +1,5 @@
 [
   {
-    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
-    "family": "ipad",
-    "store": "ca",
-    "url": "https://www.apple.com/ca/shop/product/fxn93cl/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
-    "price": 709.0,
-    "previous_price": 849.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.16489988221436985,
-    "model": "fxn93cl"
-  },
-  {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Blue",
     "family": "ipad",
     "store": "ca",
@@ -31,6 +20,17 @@
     "savings_price": 140.0,
     "saving_percentage": 0.16489988221436985,
     "model": "fxn83cl"
+  },
+  {
+    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fxn93cl/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
+    "price": 709.0,
+    "previous_price": 849.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.16489988221436985,
+    "model": "fxn93cl"
   },
   {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 256GB - Space Grey",
@@ -242,6 +242,28 @@
     "model": "fyhf3cl"
   },
   {
+    "name": "Refurbished 11-inch iPad Pro Wi\u2010Fi+Cellular 256GB Space Grey (4th Generation)",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fnye3vc/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-256GB-Space-Grey-4th-Generation",
+    "price": 1289.0,
+    "previous_price": 1289.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fnye3vc"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi\u2010Fi+Cellular 256GB Silver (4th Generation)",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fnyf3vc/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-256GB-Silver-4th-Generation",
+    "price": 1289.0,
+    "previous_price": 1429.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.0979706088173548,
+    "model": "fnyf3vc"
+  },
+  {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi + Cellular 128GB Space Gray (6th Generation)",
     "family": "ipad",
     "store": "ca",
@@ -361,6 +383,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fvvf3cl"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi\u2010Fi+Cellular 1TB Space Grey (4th Generation)",
+    "family": "ipad",
+    "store": "ca",
+    "url": "https://www.apple.com/ca/shop/product/fnyj3vc/a/Refurbished-11-inch-iPad-Pro-Wi%E2%80%91FiCellular-1TB-Space-Grey-4th-Generation",
+    "price": 1999.0,
+    "previous_price": 1999.0,
+    "savings_price": 0,
+    "saving_percentage": 0.0,
+    "model": "fnyj3vc"
   },
   {
     "name": "Refurbished iPad Pro 11\u2010inch (M4) Wi-Fi 1TB with Nano-texture glass \u2013 Space Black",
