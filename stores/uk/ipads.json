@@ -77,17 +77,6 @@
     "model": "flwl3b"
   },
   {
-    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fxn93zn/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
-    "price": 509.0,
-    "previous_price": 599.0,
-    "savings_price": 90.0,
-    "saving_percentage": 0.15025041736227046,
-    "model": "fxn93zn"
-  },
-  {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Space Grey",
     "family": "ipad",
     "store": "uk",
@@ -119,6 +108,17 @@
     "savings_price": 90.0,
     "saving_percentage": 0.15025041736227046,
     "model": "fxn83zn"
+  },
+  {
+    "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 128GB - Purple",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/fxn93zn/a/Refurbished-iPad-mini-A17-Pro-Wi-Fi-128GB-Purple",
+    "price": 509.0,
+    "previous_price": 599.0,
+    "savings_price": 90.0,
+    "saving_percentage": 0.15025041736227046,
+    "model": "fxn93zn"
   },
   {
     "name": "Refurbished iPad mini 6 Wi-Fi 256GB - Space Grey",
@@ -220,28 +220,6 @@
     "model": "fxne3zn"
   },
   {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 128GB - Purple",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fv2c3zn/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-128GB-Purple",
-    "price": 639.0,
-    "previous_price": 749.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.14686248331108145,
-    "model": "fv2c3zn"
-  },
-  {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 128GB - Blue",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fv283zn/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-128GB-Blue",
-    "price": 639.0,
-    "previous_price": 749.0,
-    "savings_price": 110.0,
-    "saving_percentage": 0.14686248331108145,
-    "model": "fv283zn"
-  },
-  {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 128GB Space Grey (4th Generation)",
     "family": "ipad",
     "store": "uk",
@@ -262,28 +240,6 @@
     "savings_price": 90.0,
     "saving_percentage": 0.11264080100125157,
     "model": "fnxe3b"
-  },
-  {
-    "name": "Refurbished 13-inch iPad Air (M2) Wi-Fi 256GB - Space Grey",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fv2d3zn/a/Refurbished-13-inch-iPad-Air-M2-Wi-Fi-256GB-Space-Gray",
-    "price": 709.0,
-    "previous_price": 709.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fv2d3zn"
-  },
-  {
-    "name": "Refurbished 13-inch iPad Air (M3) Wi-Fi 128GB - Space Grey",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fcnh4zn/a/refurbished-13-inch-ipad-air-m3-wi-fi-128gb-space-grey",
-    "price": 759.0,
-    "previous_price": 759.0,
-    "savings_price": 0,
-    "saving_percentage": 0.0,
-    "model": "fcnh4zn"
   },
   {
     "name": "Refurbished iPad mini (A17 Pro) Wi-Fi 512GB - Blue",
@@ -429,17 +385,6 @@
     "model": "fnyf3b"
   },
   {
-    "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Silver (4th Generation)",
-    "family": "ipad",
-    "store": "uk",
-    "url": "https://www.apple.com/uk/shop/product/fnxj3b/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-512GB-Silver-4th-Generation",
-    "price": 959.0,
-    "previous_price": 1099.0,
-    "savings_price": 140.0,
-    "saving_percentage": 0.12738853503184713,
-    "model": "fnxj3b"
-  },
-  {
     "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Space Grey (4th Generation)",
     "family": "ipad",
     "store": "uk",
@@ -449,6 +394,17 @@
     "savings_price": 0,
     "saving_percentage": 0.0,
     "model": "fnxh3b"
+  },
+  {
+    "name": "Refurbished 11-inch iPad Pro Wi-Fi 512GB Silver (4th Generation)",
+    "family": "ipad",
+    "store": "uk",
+    "url": "https://www.apple.com/uk/shop/product/fnxj3b/a/Refurbished-11-inch-iPad-Pro-Wi-Fi-512GB-Silver-4th-Generation",
+    "price": 959.0,
+    "previous_price": 1099.0,
+    "savings_price": 140.0,
+    "saving_percentage": 0.12738853503184713,
+    "model": "fnxj3b"
   },
   {
     "name": "Refurbished 12.9-inch iPad Pro Wi-Fi 128GB Space Grey (6th Generation)",
